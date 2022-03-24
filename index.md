@@ -6,6 +6,6 @@ Charu... Cute... 24th November
 
 > Just let it crash and drop in debugger, we'll define things on the fly - *Some wise smalltalk programmer*
 
-Easy day, Pushed "Why I made a public diary" and made the diary. 
+Easy day, dint really get much done. Pushed "Why I made a public diary" and made the diary. 
 
 Need to clone the diary repo in GitHub workflow.
