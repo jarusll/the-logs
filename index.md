@@ -4,4 +4,4 @@ Hello friend
 
 Charu... Cute... 24th November
 
-Just let it crash and drop in debugger, we'll define things on the fly - Some wise smalltalk programmer
+> Just let it crash and drop in debugger, we'll define things on the fly - *Some wise smalltalk programmer*
