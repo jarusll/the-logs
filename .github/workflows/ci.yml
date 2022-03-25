@@ -6,19 +6,11 @@ jobs:
     name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      - name: Ping
-        uses: adityakar/workflow-dispatcher
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
         with:
-          owner: jarusll
+          # You should create a personal access token and store it in your repository
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repo: jarusll.github.io
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          owner: jarusll
           event_type: diary_push
-          client_payload: '{"git-ref": "${{ github.event.inputs.git-ref }}"}'
-        
-      # - name: Emit repository_dispatch
-      #   uses: mvasigh/dispatch-action@main
-      #   with:
-      #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      #     repo: jarusll.github.io
-      #     owner: jarusll
-      #     event_type: diary_push
