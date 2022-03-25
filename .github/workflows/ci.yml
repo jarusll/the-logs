@@ -6,10 +6,18 @@ jobs:
     name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      - name: Emit repository_dispatch
-        uses: mvasigh/dispatch-action@main
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          repo: jarusll.github.io
-          owner: jarusll
-          event_type: diary_push
+      uses: adityakar/workflow-dispatcher
+      with:
+        owner: jarusll
+        repo: jarusll.github.io
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        event_type: diary_push
+        client_payload: '{"git-ref": "${{ github.event.inputs.git-ref }}"}'
+        
+      # - name: Emit repository_dispatch
+      #   uses: mvasigh/dispatch-action@main
+      #   with:
+      #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #     repo: jarusll.github.io
+      #     owner: jarusll
+      #     event_type: diary_push
