@@ -1,26 +1,15 @@
-name: Dispatch `push` on parent repo on self push
-
-on:
-  workflow_dispatch: # manually trigger
-  push:
-    branches:    
-      - main
+name: Alert parent repository on push
+on: push
 
 jobs:
-  dispatch:
+  build:
+    name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      - name: Use Node.js 12.x # because Repository Dispatch requires 12.x
-        uses: actions/setup-node@v1
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
         with:
-          node-version: 12.x
-
-      - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          repository: jarusll/jarusll.github.io
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          event-type: push
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
-
-        
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repo: jarusll.github.io
+          owner: jarusll
+          event_type: diary_push
