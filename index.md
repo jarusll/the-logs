@@ -1,7 +1,8 @@
 ---
 title: Diary
-layout: "layouts/home.html"
+layout: layouts/home.html
 ---
+
 # 2022-03-25
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
 
@@ -16,6 +17,8 @@ Man i love playing Oracle
 
 I have my `posts` repo as gitsubmodule in `portfolio` repo and whenever I make a change in posts, I have to commit it twice, once in `post` & once in `portfolio`.
 I just want to commit once and be done
+
+Integrated Dark mode, ezpz
 
 # 2022-03-24
 
