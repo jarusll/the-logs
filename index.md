@@ -20,6 +20,8 @@ I just want to commit once and be done
 
 Integrated Dark mode, ezpz
 
+One of these days, need to plan about decoupling the submodules and building the site on push of any dependency repos
+
 # 2022-03-24
 
 Hello friend
