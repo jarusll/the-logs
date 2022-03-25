@@ -26,7 +26,7 @@ Oh hello git submodules
 
 I did it, ahahah. I am a fucking god. I successfully tested GitHub actions trigger on push in submodule repo.
 
-Testing trigger
+Lets see if this works
 
 # 2022-03-24
 
