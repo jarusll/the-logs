@@ -6,8 +6,11 @@ jobs:
     name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch workflow_dispatch event
-        uses: ph-fritsche/action-dispatch@v1
-        with:
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          ident: diary_push
+      - name: Print secret REPO_ACCESS_TOKEN
+        run: |
+          echo ${{ secrets.REPO_ACCESS_TOKEN }}
+      # - name: Dispatch workflow_dispatch event
+      #   uses: ph-fritsche/action-dispatch@v1
+      #   with:
+      #     token: ${{ secrets.REPO_ACCESS_TOKEN }}
+      #     ident: diary_push
