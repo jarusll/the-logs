@@ -22,6 +22,8 @@ Integrated Dark mode, ezpz
 
 One of these days, need to plan about decoupling the submodules and building the site on push of any dependency repos
 
+Oh hello git submodules
+
 # 2022-03-24
 
 Hello friend
