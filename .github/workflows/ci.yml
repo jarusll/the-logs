@@ -1,19 +1,26 @@
 name: Alert parent repository on push
-on: push
+
+on:
+  workflow_dispatch:
+  push:
+    branches:    
+      - main
   
 jobs:
   build:
     name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      # - name: Print secret REPO_ACCESS_TOKEN
-      #   run: |
-      #     echo "$TOKEN"
-      #   shell: bash
-      #   env:
-      #     TOKEN: ${{secrets.REPO_ACCESS_TOKEN}}
-      - name: Dispatch workflow_dispatch event
-        uses: ph-fritsche/action-dispatch@v1
-        with:
-          token: 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
-          ident: diary_push
+      # - name: Emit repository_dispatch
+      #   uses: mvasigh/dispatch-action@main
+      #   with:
+      #     token: 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
+      #     repo: jarusll.github.io
+      #     owner: jarusll
+      #     event_type: diary_push
+    - name: Repository Dispatch
+      uses: myrotvorets/trigger-repository-dispatch-action@1.0.0
+      with:
+        token: ${{secrets.REPO_ACCESS_TOKEN}}
+        repo: jarusll/jarusll.github.io
+        type: diary_push
