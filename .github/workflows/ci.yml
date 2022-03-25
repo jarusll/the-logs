@@ -1,16 +1,13 @@
 name: Alert parent repository on push
 on: push
-
+  
 jobs:
   build:
     name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      - name: Emit repository_dispatch
-        uses: mvasigh/dispatch-action@main
+      - name: Dispatch workflow_dispatch event
+        uses: ph-fritsche/action-dispatch@v1
         with:
-          # You should create a personal access token and store it in your repository
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          repo: jarusll.github.io
-          owner: jarusll
-          event_type: diary_push
+          ident: diary_push
