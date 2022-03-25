@@ -6,14 +6,10 @@ jobs:
     name: Dispatch to `jarusll.github.io`
     runs-on: ubuntu-latest
     steps:
-      # - name: Print secret REPO_ACCESS_TOKEN
-      #   run: |
-      #     echo "$TOKEN"
-      #   shell: bash
-      #   env:
-      #     TOKEN: ${{secrets.REPO_ACCESS_TOKEN}}
-      - name: Dispatch workflow_dispatch event
-        uses: ph-fritsche/action-dispatch@v1
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
         with:
-          token: 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
-          ident: diary_push
+          token: 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
+          repo: jarusll.github.io
+          owner: jarusll
+          event_type: diary_push
