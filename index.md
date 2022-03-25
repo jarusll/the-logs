@@ -7,12 +7,12 @@ layout: layouts/home.html
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
 
 ### Plan for today
-- integrate diary
-- push `why i like smalltalk - message protocols`
-- think about artworks integration 
-- plan for destiny thing with Wolfie
+- [x] integrate diary
+- [ ] push `why i like smalltalk - message protocols`
+- [x] think about artworks integration 
+- [ ] plan for destiny thing with Wolfie
 
-Played roblox with Joles, it went... okay
+Played roblox with Joles, it went... okay.
 Man i love playing Oracle
 
 I have my `posts` repo as gitsubmodule in `portfolio` repo and whenever I make a change in posts, I have to commit it twice, once in `post` & once in `portfolio`.
