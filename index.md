@@ -26,7 +26,13 @@ Oh hello git submodules
 
 I did it, ahahah. I am a fucking god. I successfully tested GitHub actions trigger on push in submodule repo.
 
-Lets see if this works
+Lets see if this works.
+
+Yes it does, ahahahahahahaah.
+
+Automated site build on submodule push. I did it for diary so I can write from phone, push and everything will just work. Tomorrow I'll do the same for posts
+
+Good day, Charu cute, night friend
 
 # 2022-03-24
 
