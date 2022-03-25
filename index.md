@@ -24,6 +24,8 @@ One of these days, need to plan about decoupling the submodules and building the
 
 Oh hello git submodules
 
+I did it, ahahah. I am a fucking god.
+
 # 2022-03-24
 
 Hello friend
