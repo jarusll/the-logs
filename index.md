@@ -1,3 +1,7 @@
+---
+title: Diary
+layout: "layouts/home.html"
+---
 # 2022-03-25
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
 
