@@ -1,0 +1,16 @@
+name: Dispatch `push` on parent repo on self push
+
+on:
+  workflow_dispatch: # manually trigger
+  push:
+    branches:    
+      - main
+
+jobs:
+  dispatch:
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.REPO_ACCESS_TOKEN }}
+        event-type: push
+  
