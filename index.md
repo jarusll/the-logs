@@ -1,4 +1,16 @@
-# 2022-03-23
+# 2022-03-25
+Like LoL characters, but the game feels like a mobile game. Might give it one more try.
+
+### Plan for today
+- integrate diary
+- push `why i like smalltalk - message protocols`
+- think about artworks integration 
+- plan for destiny thing with Wolfie
+
+Played roblox with Joles, it went... okay
+Man i love playing Oracle
+
+# 2022-03-24
 
 Hello friend
 
