@@ -10,6 +10,9 @@ Like LoL characters, but the game feels like a mobile game. Might give it one mo
 Played roblox with Joles, it went... okay
 Man i love playing Oracle
 
+I have my `posts` repo as gitsubmodule in `portfolio` repo and whenever I make a change in posts, I have to commit it twice, once in `post` & once in `portfolio`.
+I just want to commit once and be done
+
 # 2022-03-24
 
 Hello friend
