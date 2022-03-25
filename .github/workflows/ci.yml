@@ -20,5 +20,7 @@ jobs:
         with:
           repository: jarusll/jarusll.github.io
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          event-type: pull
+          event-type: push
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
+
         
