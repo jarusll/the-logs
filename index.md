@@ -6,17 +6,20 @@ layout: layouts/home.html
 # 2022-03-26
 
 ### Plan for today
-- [x] add site build trigger on `posts` push
-- [x] integrate artworks
+- [ ] add site build trigger on `posts` push
+- [ ] integrate artworks
 - [ ] push `why i like smalltalk - message protocols`
 - [ ] add `` markdown highlights
 
 Holy shit webp is good.
-Just found out I can add ssh keys and I won't have to input password. VERY BIG, love it, my life is easy.
+Just learnt I can add ssh keys and I won't have to input password. VERY BIG, love it, my life is easy.
 
 Its been a while since I had any day off, tomorrow is my day. No work tomorrow. I ll play dota and draw.
 
-Integrated gallery, I can finally focus on just drawing. I want to tinker with smalltalk again. As soon as my portfolio is done, I can focus on other things.
+`The Green Knight` was the last decent movie I saw. I might watch some `Monty Python`. 
+
+Me and Wolfie discussed about the Destiny thing(`D2Newspaper` for now). I'll be working on it with him.
+
 
 # 2022-03-25
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
