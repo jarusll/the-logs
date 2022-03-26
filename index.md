@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-03-26
+
+### Plan for today
+- [ ] add site build trigger on `posts` push
+- [ ] integrate artworks
+- [ ] push `why i like smalltalk - message protocols`
+- [ ] add `` markdown highlights
+
 # 2022-03-25
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
 
