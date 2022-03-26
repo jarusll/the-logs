@@ -6,8 +6,8 @@ layout: layouts/home.html
 # 2022-03-26
 
 ### Plan for today
-- [ ] add site build trigger on `posts` push
-- [ ] integrate artworks
+- [x] add site build trigger on `posts` push
+- [x] integrate artworks
 - [ ] push `why i like smalltalk - message protocols`
 - [ ] add `` markdown highlights
 
