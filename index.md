@@ -14,6 +14,8 @@ layout: layouts/home.html
 Holy shit webp is good.
 Just learnt I can add ssh keys and I won't have to input password. VERY BIG, love it, my life is easy.
 
+Its been a while since I had any day off, tomorrow is my day. No work tomorrow. I ll play dota and draw.
+
 # 2022-03-25
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
 
