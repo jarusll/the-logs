@@ -12,7 +12,7 @@ layout: layouts/home.html
 - [ ] add `` markdown highlights
 
 Holy shit webp is good.
-Just learnt I can add ssh keys and I won't have to input password. VERY BIG, love it, my life is easy.
+Just found out I can add ssh keys and I won't have to input password. VERY BIG, love it, my life is easy.
 
 Its been a while since I had any day off, tomorrow is my day. No work tomorrow. I ll play dota and draw.
 
