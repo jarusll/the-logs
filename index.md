@@ -18,6 +18,7 @@ Now that everything has been automated and decoupled, I can write articles on my
 
 Wolfie busy, we ll setup tomorrow.
 
+Just realised I have misconfigured GitHub actions for posts and no listener for posts_push on portfolio. Will fix it tomorrow.
 
 # 2022-03-26
 
