@@ -16,6 +16,9 @@ Pushed draft of "What motivates me"
 
 Now that everything has been automated and decoupled, I can write articles on my phone. Need to find a good git app for Android.
 
+Wolfie busy, we ll setup tomorrow.
+
+
 # 2022-03-26
 
 ### Plan for today
