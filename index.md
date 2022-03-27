@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-03-27
+
+### Plan for today
+- [ ] setup `D2Newspaper`
+
+There's alot of dust buildup in my pc, need to clean it. I ll do it when the mount arrives.
+
+
 # 2022-03-26
 
 ### Plan for today
