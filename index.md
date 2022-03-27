@@ -20,6 +20,10 @@ Wolfie busy, we ll setup tomorrow.
 
 Just realised I have misconfigured GitHub actions for posts and no listener for posts_push on portfolio. Will fix it tomorrow.
 
+Absolutely not having chicken again.
+
+Day rating - 5/10. My eyes were strained and I lost all dota matches but Charu cheered me up
+
 # 2022-03-26
 
 ### Plan for today
