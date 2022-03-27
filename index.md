@@ -10,6 +10,7 @@ layout: layouts/home.html
 
 There's alot of dust buildup in my pc, need to clean it. I ll do it when the mount arrives.
 
+Wolfie talked about how he's missing reading books and now I want to read🥺. I will gain momentum first with short reads.
 
 # 2022-03-26
 
@@ -27,8 +28,6 @@ Its been a while since I had any day off, tomorrow is my day. No work tomorrow. 
 `The Green Knight` was the last decent movie I saw. I might watch some `Monty Python`. 
 
 Me and Wolfie discussed about the Destiny thing(`D2Newspaper` for now). I'll be working on it with him.
-
-Wolfie talked about how he's missing reading books and now I want to read🥺. I will gain momentum first with short reads.
 
 # 2022-03-25
 Like LoL characters, but the game feels like a mobile game. Might give it one more try.
