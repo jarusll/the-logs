@@ -12,6 +12,8 @@ There's alot of dust buildup in my pc, need to clean it. I ll do it when the mou
 
 Wolfie talked about how he's missing reading books and now I want to read🥺. I will gain momentum first with short reads.
 
+Pushed draft of "What motivates me".
+
 # 2022-03-26
 
 ### Plan for today
