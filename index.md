@@ -3,6 +3,15 @@ title: Diary
 layout: layouts/home.html
 ---
 
+
+# 2022-03-28
+
+The mount is here. Power tools are scary.
+
+![Image](./45c1d0ac5c158dbe491e518249607dc5.jpg) 
+
+I have enough desk space now, I can use my drawing tablet. 
+
 # 2022-03-27
 
 ### Plan for today
