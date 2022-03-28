@@ -8,7 +8,7 @@ layout: layouts/home.html
 
 ### Plan for today
 - [ ] setup `D2Newspaper`
-- [ ] fix posts github script
+- [x] fix posts github script
 - [ ] setup git on android
 
 The mount is here. Power tools are scary.
