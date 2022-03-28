@@ -17,6 +17,8 @@ I set it up everything. I ll play Far Changing Tides, I've earned it.
 
 I'll be messing around with emacs lisp for a while. My goal is to start talking in terms of emacs objects like buffers, windows & frames and then write some trivial macros.
 
+Man I love magit, I am quickly able to do git actions which is letting me make rapid small changes. Good stuff.
+
 # 2022-03-27
 
 ### Plan for today
