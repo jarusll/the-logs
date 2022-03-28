@@ -25,6 +25,8 @@ Anyways the youtube series by System Crafters should get me upto speed with emac
 
 I wanted to open my diary file quickly, I came across emacs registers. You can store any thing, good stuff. I stored my diary file at d. So I can access it by `C-x r j d` from anywhere in emacs. ezpz.
 
+Trying to trigger build
+
 # 2022-03-27
 
 ### Plan for today
