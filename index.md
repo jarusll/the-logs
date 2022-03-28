@@ -23,6 +23,8 @@ I'll be trying out [elisp koans](https://github.com/jtmoulia/elisp-koans)
 I did some elisp koans. I expected emacs types but this is standard lisp stuff. 
 Anyways the youtube series by System Crafters should get me upto speed with emacs types.
 
+I wanted to open my diary file quickly, I came across emacs registers. You can store any thing, good stuff. I stored my diary file at d. So I can access it by `C-x r j d` from anywhere in emacs. ezpz.
+
 # 2022-03-27
 
 ### Plan for today
