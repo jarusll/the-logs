@@ -6,11 +6,14 @@ layout: layouts/home.html
 
 # 2022-03-28
 
+### Plan for today
+- [ ] setup `D2Newspaper`
+- [ ] fix posts github script
+- [ ] setup git on android
+
 The mount is here. Power tools are scary.
-
-![Image](./45c1d0ac5c158dbe491e518249607dc5.jpg) 
-
 I have enough desk space now, I can use my drawing tablet. 
+I set it up everything. I ll play Far Changing Tides, I've earned it.
 
 # 2022-03-27
 
