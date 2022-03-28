@@ -25,7 +25,7 @@ Anyways the youtube series by System Crafters should get me upto speed with emac
 
 I wanted to open my diary file quickly, I came across emacs registers. You can store any thing, good stuff. I stored my diary file at d. So I can access it by `C-x r j d` from anywhere in emacs. ezpz.
 
-Easy day, started with elisp. System crafters should get me upto speed with Emacs.
+Easy day, pushed "What motivates me", started with elisp. System crafters should get me upto speed with Emacs.
 
 Planned about d2newspaper. Lets make this happen.
 
