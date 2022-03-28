@@ -20,6 +20,8 @@ I'll be messing around with emacs lisp for a while. My goal is to start talking 
 Man I love magit, I am quickly able to do git actions which is letting me make rapid small changes. Good stuff.
 
 I'll be trying out [elisp koans](https://github.com/jtmoulia/elisp-koans)
+I did some elisp koans. I expected emacs types but this is standard lisp stuff. 
+Anyways the youtube series by System Crafters should get me upto speed with emacs types.
 
 # 2022-03-27
 
