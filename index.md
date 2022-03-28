@@ -15,6 +15,8 @@ The mount is here. Power tools are scary.
 I have enough desk space now, I can use my drawing tablet. 
 I set it up everything. I ll play Far Changing Tides, I've earned it.
 
+I'll be messing around with emacs lisp for a while. My goal is to start talking in terms of emacs objects like buffers, windows & frames and then write some trivial macros.
+
 # 2022-03-27
 
 ### Plan for today
