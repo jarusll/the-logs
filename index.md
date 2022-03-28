@@ -19,6 +19,8 @@ I'll be messing around with emacs lisp for a while. My goal is to start talking 
 
 Man I love magit, I am quickly able to do git actions which is letting me make rapid small changes. Good stuff.
 
+I'll be trying out [elisp koans](https://github.com/jtmoulia/elisp-koans)
+
 # 2022-03-27
 
 ### Plan for today
