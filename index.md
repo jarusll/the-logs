@@ -22,6 +22,7 @@ One of these days I'll draw the portal companion cube artwork. I got one online 
 Seems like `ssh-add` doesn't persist. I don't know how long but it doesn't. I am trying out `git config credential.helper store`. Lets see if this works.
 
 I know just enough about elisp so that I can read the manual & get stuff done.
+Also the credential helper thing doesn't store any ssh keys. I'll have to look into it soon.
 
 # 2022-03-28
 
