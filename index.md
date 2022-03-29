@@ -28,6 +28,10 @@ Found out `which-key`, It lists all the commands available in current mode.
 Here's a preview from ![justbur/emacs-which-key](https://github.com/justbur/emacs-which-key/raw/master/img/which-key-bottom.png)
 This is very helpful. I can just scroll through the commands to see what action I want, It shows the keybind as well. After a while it'll become second nature.
 
+Me and Wolfie figured out how to get all the data for d2newspaper. We'll be using jq to filter out. Should be easy. ezpz.
+
+Holy shit `which-key` is fucking awesome. If I enable `which-key-mode`, I can type out Key combinations and wait for the suggestions. This is exactly what I was looking for.
+
 # 2022-03-28
 
 ### Plan for today
