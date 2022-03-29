@@ -6,9 +6,9 @@ layout: layouts/home.html
 # 2022-03-28
 
 ### Plan for today
-- [ ] figure out data sources for d2newspaper
+- [x] figure out data sources for d2newspaper
 - [ ] do elisp koans
-- [ ] watch system crafters
+- [x] watch system crafters
 
 Came across `elcord-mode`, discord rich presense for emacs. Looks cool.
 `recentf-mode`, remembers all the recent files. I am using it now.
@@ -31,6 +31,9 @@ This is very helpful. I can just scroll through the commands to see what action 
 Me and Wolfie figured out how to get all the data for d2newspaper. We'll be using jq to filter out. Should be easy. ezpz.
 
 Holy shit `which-key` is fucking awesome. If I enable `which-key-mode`, I can type out Key combinations and wait for the suggestions. This is exactly what I was looking for.
+
+Actually good day, learnt alot about Emacs. Day rating - 6/10. Tomorrow I'll try to finish elisp-koans.
+Ez, night friend
 
 # 2022-03-28
 
