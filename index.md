@@ -13,6 +13,8 @@ layout: layouts/home.html
 Came across `elcord-mode`, discord rich presense for emacs. Looks cool.
 `recentf-mode`, remembers all the recent files. I am using it now.
 
+Just found out about `describe-symbol` in emacs. It gives documentation about elisp symbols.
+
 # 2022-03-28
 
 ### Plan for today
