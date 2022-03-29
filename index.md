@@ -19,6 +19,8 @@ One thing that I really want to master in emacs is motions, moving around in buf
 
 One of these days I'll draw the portal companion cube artwork. I got one online but it seems unethical. I'll make my own.
 
+Seems like `ssh-add` doesn't persist. I don't know how long but it doesn't. I am trying out `git config credential.helper store`. Lets see if this works.
+
 # 2022-03-28
 
 ### Plan for today
