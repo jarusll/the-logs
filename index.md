@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-03-28
+
+### Plan for today
+- [ ] figure out data sources for d2newspaper
+- [ ] do elisp koans
+- [ ] watch system crafters
 
 # 2022-03-28
 
