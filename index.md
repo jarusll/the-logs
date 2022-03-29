@@ -10,6 +10,8 @@ layout: layouts/home.html
 - [ ] do elisp koans
 - [ ] watch system crafters
 
+Came across `elcord-mode`, discord rich presense for emacs. Looks cool.
+
 # 2022-03-28
 
 ### Plan for today
