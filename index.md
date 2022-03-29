@@ -11,6 +11,7 @@ layout: layouts/home.html
 - [ ] watch system crafters
 
 Came across `elcord-mode`, discord rich presense for emacs. Looks cool.
+`recentf-mode`, remembers all the recent files. I am using it now.
 
 # 2022-03-28
 
