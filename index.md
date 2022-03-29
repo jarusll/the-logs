@@ -17,6 +17,8 @@ Just found out about `describe-symbol` in emacs. It gives documentation about el
 
 One thing that I really want to master in emacs is motions, moving around in buffer fast, really fast. Thats the thing I liked about Vim alot. If I can make it happen here, I won't need any vi emulation modes.
 
+One of these days I'll draw the portal companion cube artwork. I got one online but it seems unethical. I'll make my own.
+
 # 2022-03-28
 
 ### Plan for today
