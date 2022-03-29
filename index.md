@@ -24,6 +24,10 @@ Seems like `ssh-add` doesn't persist. I don't know how long but it doesn't. I am
 I know just enough about elisp so that I can read the manual & get stuff done.
 Also the credential helper thing doesn't store any ssh keys. I'll have to look into it soon.
 
+Found out `which-key`, It lists all the commands available in current mode. 
+Here's a preview from ![justbur/emacs-which-key](https://github.com/justbur/emacs-which-key/raw/master/img/which-key-bottom.png)
+This is very helpful. I can just scroll through the commands to see what action I want, It shows the keybind as well. After a while it'll become second nature.
+
 # 2022-03-28
 
 ### Plan for today
