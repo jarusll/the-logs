@@ -3,7 +3,17 @@ title: Diary
 layout: layouts/home.html
 ---
 
-# 2022-03-28
+# 2022-03-30
+
+### Plan for today
+- [ ] finish elisp koans
+- [ ] setup krita/libresprite for drawing
+
+Easy day, woke up late. Need to fix my sleep schedule. I wish I can get back my lost sleep but that's not possible.
+
+I'll draw the portal companion cube today
+
+# 2022-03-29
 
 ### Plan for today
 - [x] figure out data sources for d2newspaper
