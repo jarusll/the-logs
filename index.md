@@ -19,6 +19,8 @@ Found out a really sweet [Clojure Koans website](http://clojurescriptkoans.com/)
 
 Helped out Xeon with his assignment today. Java isn't that bad. I'll give it a try someday. 
 
+`"CL (and elisp!) provides the programmer with more than enough rope to hang themself."` - elisp-koans
+
 # 2022-03-29
 
 ### Plan for today
