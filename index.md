@@ -21,6 +21,8 @@ Helped out Xeon with his assignment today. Java isn't that bad. I'll give it a t
 
 `"CL (and elisp!) provides the programmer with more than enough rope to hang themself."` - *elisp-koans*
 
+I like introspection. Thats one of the big reasons I like emacs & smalltalk.
+
 # 2022-03-29
 
 ### Plan for today
