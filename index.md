@@ -15,6 +15,10 @@ I'll draw the portal companion cube today.
 
 One of these days need to think about seo. It feels spammy and unethical. I'll keep it clean.
 
+Found out a really sweet [Clojure Koans website](http://clojurescriptkoans.com/). Will give it a try soon.
+
+Helped out Xeon with his assignment today. Java isn't that bad. I'll give it a try someday. 
+
 # 2022-03-29
 
 ### Plan for today
