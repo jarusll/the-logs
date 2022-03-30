@@ -11,7 +11,9 @@ layout: layouts/home.html
 
 Easy day, woke up late. Need to fix my sleep schedule. I wish I can get back my lost sleep but that's not possible.
 
-I'll draw the portal companion cube today
+I'll draw the portal companion cube today.
+
+One of these days need to think about seo. It feels spammy and unethical. I'll keep it clean.
 
 # 2022-03-29
 
