@@ -15,6 +15,8 @@ I want someone cute, I want to read, write and fuck around computers.
 
 I feel like I have familiarized myself with emacs well to move around quick enough. Next plan would be to setting custom keybinds.
 
+Emacs has a diary. I looked into it. My current setup works for now given that I push from my phone as well.
+
 # 2022-03-30
 
 ### Plan for today
