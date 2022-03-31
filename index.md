@@ -13,6 +13,8 @@ Have been looking into guix, this is definitely something I'll look into someday
 
 I want someone cute, I want to read, write and fuck around computers.
 
+I feel like I have familiarized myself with emacs well to move around quick enough. Next plan would be to setting custom keybinds.
+
 # 2022-03-30
 
 ### Plan for today
