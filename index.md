@@ -17,6 +17,14 @@ I feel like I have familiarized myself with emacs well to move around quick enou
 
 Emacs has a diary. I looked into it. My current setup works for now given that I push from my phone as well.
 
+All this time I have been on a scavenged linux setup. I picked the first obvious solution & stuck to it. I really want to craft a system and stick to it. 
+The setup will be
+- minimal
+- stable
+- deterministic
+
+I haven't looked at guix yet but scheme as config language does seem appealing to me plus its something new so fun.
+
 # 2022-03-30
 
 ### Plan for today
