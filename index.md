@@ -27,6 +27,8 @@ I haven't looked at guix yet but scheme as config language does seem appealing t
 
 I read some of "One more thing: stories & other stories". Good short stories.
 
+I looked at nixos, I like the idea. Now I need to find out & justify if it works for me.
+
 # 2022-03-30
 
 ### Plan for today
