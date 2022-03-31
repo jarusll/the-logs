@@ -31,6 +31,8 @@ I looked at nixos, I like the idea. Now I need to find out & justify if it works
 
 I finished the koans, there are 2 koans but they are exercise. I might do them if I feel like it. Right now, I have to digest some elisp. I'll come back to these after a day or two.
 
+Haven't been able to do alot these days because I have been helping at home. If it becomes extreme I might look for a laptop or travel keyboard so I can work from phone.
+
 # 2022-03-30
 
 ### Plan for today
