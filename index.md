@@ -11,6 +11,8 @@ layout: layouts/home.html
 
 Have been looking into guix, this is definitely something I'll look into someday.
 
+I want someone cute, I want to read, write and fuck around computers.
+
 # 2022-03-30
 
 ### Plan for today
