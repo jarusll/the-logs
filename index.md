@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-03-31
+
+### Plan for today
+- [ ] finish elisp koans
+- [ ] draw portal companion cube
+
 # 2022-03-30
 
 ### Plan for today
