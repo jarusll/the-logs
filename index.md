@@ -33,6 +33,8 @@ I finished the koans, there are 2 koans but they are exercise. I might do them i
 
 Haven't been able to do alot these days because I have been helping at home. If it becomes extreme I might look for a laptop or travel keyboard so I can work from phone.
 
+Good day, night friend.
+
 # 2022-03-30
 
 ### Plan for today
