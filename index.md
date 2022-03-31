@@ -25,6 +25,8 @@ The setup will be
 
 I haven't looked at guix yet but scheme as config language does seem appealing to me plus its something new so fun.
 
+I read some of "One more thing: stories & other stories". Good short stories.
+
 # 2022-03-30
 
 ### Plan for today
