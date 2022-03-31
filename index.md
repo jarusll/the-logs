@@ -9,6 +9,8 @@ layout: layouts/home.html
 - [ ] finish elisp koans
 - [ ] draw portal companion cube
 
+Have been looking into guix, this is definitely something I'll look into someday.
+
 # 2022-03-30
 
 ### Plan for today
