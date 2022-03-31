@@ -15,7 +15,7 @@ Have been looking into guix, this is definitely something I'll look into someday
 
 ### Plan for today
 - [ ] finish elisp koans
-- [ ] setup krita/libresprite for drawing
+- [x] setup krita/libresprite for drawing
 
 Easy day, woke up late. Need to fix my sleep schedule. I wish I can get back my lost sleep but that's not possible.
 
