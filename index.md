@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-03-31
 
 ### Plan for today
-- [ ] finish elisp koans
+- [x] finish elisp koans
 - [ ] draw portal companion cube
 
 Have been looking into guix, this is definitely something I'll look into someday.
@@ -28,6 +28,8 @@ I haven't looked at guix yet but scheme as config language does seem appealing t
 I read some of "One more thing: stories & other stories". Good short stories.
 
 I looked at nixos, I like the idea. Now I need to find out & justify if it works for me.
+
+I finished the koans, there are 2 koans but they are exercise. I might do them if I feel like it. Right now, I have to digest some elisp. I'll come back to these after a day or two.
 
 # 2022-03-30
 
