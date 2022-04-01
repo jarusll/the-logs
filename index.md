@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-01
 
 ### Plan for today
-- [ ] look into org mode
+- [x] look into org mode
 - [ ] fuck around github copilot
 
 I'll start applying for jobs soon.
