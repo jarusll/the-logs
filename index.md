@@ -5,18 +5,20 @@ layout: layouts/home.html
 
 # 2022-04-01
 
+### Plan for today
+- [ ] look into org mode
+- [ ] fuck around github copilot
+
 I'll start applying for jobs soon.
 
 I love github copilot. Not, it won't make people lose their jobs, it'll help them grow as a dev.
 One of the things will be sensible names when they try to use copilot suggestions. For me it'll be generating boilerplate, discoverability(with caution) 
 and automating trivial things. I will decompose my problem more and thus improve my code quality.
 
-### Plan for today
-- [ ] look into org mode
-- [ ] fuck around github copilot
-
 I have made a Point class library for fun. That library can have some more functions if I had Angle class. I will be making the Angle class
  with the help of github copilot. Lets see how this goes.
+ 
+Looks like there's no pornhub comments api, just scraping solutions.
 
 # 2022-03-31
 
