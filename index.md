@@ -26,6 +26,12 @@ https://game.postdoesnotexist.com/ - Good game
 
 I was thinking about making a `shorts` section on my site. There are things which shouldn't go in my diary but shorts.
 
+Charu cute.
+
+Tomorrow I will be working on shorts section. I was also planning on doing screencasts. Maybe I can combine both of these in one section. They will be fragments of cool things which don't belong in my diary.
+
+Night friend.
+
 # 2022-03-31
 
 ### Plan for today
