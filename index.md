@@ -13,6 +13,7 @@ and automating trivial things. I will decompose my problem more and thus improve
 
 ### Plan for today
 - [ ] look into org mode
+- [ ] fuck around github copilot
 
 # 2022-03-31
 
