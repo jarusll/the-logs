@@ -20,6 +20,8 @@ I have made a Point class library for fun. That library can have some more funct
  
 Looks like there's no pornhub comments api, just scraping solutions.
 
+https://game.postdoesnotexist.com/ - Good game
+
 # 2022-03-31
 
 ### Plan for today
