@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-01
+
+I'll start applying for jobs soon.
+
 # 2022-03-31
 
 ### Plan for today
