@@ -11,7 +11,7 @@ layout: layouts/home.html
 
 I'll start applying for jobs soon.
 
-I love github copilot. Not, it won't make people lose their jobs, it'll help them grow as a dev.
+I love github copilot. No, it won't make people lose their jobs, it'll help them grow as a dev.
 One of the things will be sensible names when they try to use copilot suggestions. For me it'll be generating boilerplate, discoverability(with caution) 
 and automating trivial things. I will decompose my problem more and thus improve my code quality.
 
