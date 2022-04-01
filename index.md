@@ -24,6 +24,8 @@ https://game.postdoesnotexist.com/ - Good game
 
 `faces` are typefaces in emacs. Can customize to my liking.
 
+I was thinking about making a `shorts` section on my site. There are things which shouldn't go in my diary but shorts.
+
 # 2022-03-31
 
 ### Plan for today
