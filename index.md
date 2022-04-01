@@ -22,6 +22,8 @@ Looks like there's no pornhub comments api, just scraping solutions.
 
 https://game.postdoesnotexist.com/ - Good game
 
+`faces` are typefaces in emacs. Can customize to my liking.
+
 # 2022-03-31
 
 ### Plan for today
