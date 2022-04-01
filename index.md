@@ -7,6 +7,9 @@ layout: layouts/home.html
 
 I'll start applying for jobs soon.
 
+### Plan for today
+- [ ] look into org mode
+
 # 2022-03-31
 
 ### Plan for today
