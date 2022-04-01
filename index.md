@@ -15,6 +15,9 @@ and automating trivial things. I will decompose my problem more and thus improve
 - [ ] look into org mode
 - [ ] fuck around github copilot
 
+I have made a Point class library for fun. That library can have some more functions if I had Angle class. I will be making the Angle class
+ with the help of github copilot. Lets see how this goes.
+
 # 2022-03-31
 
 ### Plan for today
