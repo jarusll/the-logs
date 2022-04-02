@@ -27,6 +27,8 @@ Works.
 
 Images can be easily added by passthrough copy in 11ty. The raw images uploaded from phone would be unoptimized but this will suffice for now.
 
+I am still yet to design the setup for shorts. Since there will be lots of posts, I will need filtering. 
+
 # 2022-04-01
 
 ### Plan for today
