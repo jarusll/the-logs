@@ -29,6 +29,9 @@ Images can be easily added by passthrough copy in 11ty. The raw images uploaded 
 
 I am still yet to design the setup for shorts. Since there will be lots of posts, I will need filtering. 
 
+Halfway through clojure koans.
+Once I have a stable recording setup I can start recording other things.
+
 # 2022-04-01
 
 ### Plan for today
