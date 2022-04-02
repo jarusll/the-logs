@@ -9,7 +9,7 @@ layout: layouts/home.html
 - [ ] setup `shorts` on portfolio
 - [ ] record screencast of solving clojure koans at http://clojurescriptkoans.com
 - [ ] watch some linear video editing
-- [ ] play dota with the bois, been a while since I played
+- [x] play dota with the bois, been a while since I played(played lol)
 
 I'll read some short stories today. 
 One of these days need to think about seamless images integration on portfolio. I can add image in diary but they get added in 
