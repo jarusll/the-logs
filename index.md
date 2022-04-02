@@ -18,6 +18,10 @@ solution.
 
 Next week I'll setup RSS for my portfolio.
 
+![Image](/45c1d0ac5c158dbe491e518249607dc5.jpg) 
+
+Testing image 
+
 # 2022-04-01
 
 ### Plan for today
