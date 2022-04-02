@@ -18,10 +18,12 @@ solution.
 
 Next week I'll setup RSS for my portfolio.
 
-![Image](/images/45c1d0ac5c158dbe491e518249607dc5.jpg) 
+![My Setup](/images/45c1d0ac5c158dbe491e518249607dc5.jpg) 
+*My Setup*
 
 Testing image. 
 Needs to be prefixed by `/images/`. Testing again.
+Works.
 
 # 2022-04-01
 
