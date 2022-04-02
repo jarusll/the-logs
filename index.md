@@ -3,11 +3,26 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-02
+
+### Plan for today
+- [ ] setup `shorts` on portfolio
+- [ ] record screencast of solving clojure koans at http://clojurescriptkoans.com
+- [ ] watch some linear video editing
+- [ ] play dota with the bois, been a while since I played
+
+I'll read some short stories today. 
+One of these days need to think about seamless images integration on portfolio. I can add image in diary but they get added in 
+diary repo, that directory hasn't been configured for images. There will be more resources directories in future. Need a futureproof(enough) 
+solution.
+
+Next week I'll setup RSS for my portfolio.
+
 # 2022-04-01
 
 ### Plan for today
 - [x] look into org mode
-- [ ] fuck around github copilot
+- [x] fuck around github copilot
 
 I'll start applying for jobs soon.
 
