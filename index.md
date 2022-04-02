@@ -25,6 +25,8 @@ Testing image.
 Needs to be prefixed by `/images/`. Testing again.
 Works.
 
+Images can be easily added by passthrough copy in 11ty. The raw images uploaded from phone would be unoptimized but this will suffice for now.
+
 # 2022-04-01
 
 ### Plan for today
