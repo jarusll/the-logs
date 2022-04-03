@@ -28,6 +28,8 @@ Things I need to do for the edit
 There is just too much to learn about video editing. I will give this a day more. 
 I am blurring things out right now. I am yet to add text banners. Commentary is out of the question.
 
+Editing is a bitch. I did an amateur of not doing things in incognito and I now have to blur things out. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
 # 2022-04-02
 
 ### Plan for today
