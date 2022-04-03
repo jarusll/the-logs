@@ -21,9 +21,9 @@ I forgot to delete my lightsail instances and I've been charged for 3 months now
 
 Things I need to do for the edit
 - Line up the videos
-- Transitions
-- Background music
-- Color grading
+- Transitions(maybe)
+- Background music(lofi chill)
+- Color grading(warm and low contrast)
 
 # 2022-04-02
 
