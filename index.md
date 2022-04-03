@@ -25,6 +25,9 @@ Things I need to do for the edit
 - Background music(lofi chill)
 - Color grading(warm and low contrast)
 
+There is just too much to learn about video editing. I will give this a day more. 
+I am blurring things out right now. I am yet to add text banners. Commentary is out of the question.
+
 # 2022-04-02
 
 ### Plan for today
