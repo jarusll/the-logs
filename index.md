@@ -19,6 +19,12 @@ and its annoying.
 
 I forgot to delete my lightsail instances and I've been charged for 3 months now. I did disable the instance.
 
+Things I need to do for the edit
+- Line up the videos
+- Transitions
+- Background music
+- Color grading
+
 # 2022-04-02
 
 ### Plan for today
