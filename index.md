@@ -33,6 +33,10 @@ Editing is a bitch. I did an amateur of not doing things in incognito and I now 
 I have the videos lined up & blurred out whatever needed to be.
 I am going to take a break. I'll add the text banners now and it should be good to go.
 
+I am calling it a day. I'll finish editing it tomorrow.
+
+Night friend.
+
 # 2022-04-02
 
 ### Plan for today
