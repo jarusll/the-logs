@@ -30,6 +30,9 @@ I am blurring things out right now. I am yet to add text banners. Commentary is 
 
 Editing is a bitch. I did an amateur of not doing things in incognito and I now have to blur things out. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
+I have the videos lined up & blurred out whatever needed to be.
+I am going to take a break. I'll add the text banners now and it should be good to go.
+
 # 2022-04-02
 
 ### Plan for today
