@@ -8,7 +8,6 @@ layout: layouts/home.html
 Davinci Resolve is taking too much time. Jun recommended to chunk it so I can experiment with
 - other editing programs
 - editing styles
-- easy rendering
 
 ### Plan for today
 - [x] Release first chunk of `Solving Clojure Koans`
