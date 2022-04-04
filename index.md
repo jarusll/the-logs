@@ -29,6 +29,14 @@ I finally made the companion cube. This will be my official logo everywhere now.
 
 I finished watching `The way of the househusband`, pretty wholesome. I'll read the manga now Teehee
 
+20 mins, not enough.
+
+Instead of figuring things out how to filter, I'll just push `fragments` for now. I'll manage filtering later on. So I can finish base implementation tomorrow. 
+
+I'll push the videos every alternate days so I can get comfortable with an editor in a day and push the video next day.
+
+From what I've read Latin feels like the lisp of programming languages. I might give it a try.
+
 # 2022-04-03
 
 finished clojurescript koans first thing in the morning.
