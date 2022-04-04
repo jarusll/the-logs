@@ -28,7 +28,7 @@ I want an electric bicycle. I'll buy it next year.
 I finally made the companion cube. This will be my official logo everywhere now. 
 ![Companion Cube](https://raw.githubusercontent.com/jarusll/artworks/main/companion_cube/cube.svg)
 
-I finished watching `The way of the househusband`, pretty wholesome.
+I finished watching `The way of the househusband`, pretty wholesome. I'll read the manga now Teehee
 
 # 2022-04-03
 
