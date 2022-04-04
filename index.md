@@ -19,7 +19,7 @@ finished clojurescript koans first thing in the morning.
 
 ### Plan for today
 - [ ] come up with a design for shorts
-- [ ] edit clojurescript koans videos
+- [x] edit clojurescript koans videos
 
 I need to start making realistic plans. Looking back I am not able to finish everything I plan for. I'll be easing it now.
 In a day, I am only able to do one big task. So I'll just plan a semi big task for a day.
