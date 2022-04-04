@@ -11,7 +11,15 @@ Davinci Resolve is taking too much time. Jun recommended to chunk it so I can ex
 - easy rendering
 
 ### Plan for today
-- [ ] Release first chunk of `Solving Clojure Koans`
+- [x] Release first chunk of `Solving Clojure Koans`
+
+First video is out, yayyyyy.
+
+I have a purpose now. Puzzle life and the biggest puzzle is my life.
+
+I'll make the portal companion cube artwork and make it as my channel logo.
+
+Since I have one content for `shorts`, I can start working on it today.
 
 # 2022-04-03
 
