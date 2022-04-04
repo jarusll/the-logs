@@ -3,6 +3,16 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-04
+
+Davinci Resolve is taking too much time. Jun recommended to chunk it so I can experiment with
+- other editing programs
+- editing styles
+- easy rendering
+
+### Plan for today
+- [ ] Release first chunk of `Solving Clojure Koans`
+
 # 2022-04-03
 
 finished clojurescript koans first thing in the morning.
