@@ -21,6 +21,8 @@ I'll make the portal companion cube artwork and make it as my channel logo.
 
 Since I have one content for `shorts`, I can start working on it today.
 
+I am not calling it `shorts`, its `fragments`.
+
 # 2022-04-03
 
 finished clojurescript koans first thing in the morning.
