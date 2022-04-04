@@ -37,6 +37,8 @@ I'll push the videos every alternate days so I can get comfortable with an edito
 
 From what I've read Latin feels like the lisp of programming languages. I might give it a try.
 
+Night friend.
+
 # 2022-04-03
 
 finished clojurescript koans first thing in the morning.
