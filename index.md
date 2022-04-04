@@ -23,6 +23,8 @@ Since I have one content for `shorts`, I can start working on it today.
 
 I am not calling it `shorts`, its `fragments`.
 
+I want an electric bicycle. I'll buy it next year. 
+
 # 2022-04-03
 
 finished clojurescript koans first thing in the morning.
