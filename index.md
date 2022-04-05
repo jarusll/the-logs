@@ -35,7 +35,7 @@ Instead of figuring things out how to filter, I'll just push `fragments` for now
 
 I'll push the videos every alternate days so I can get comfortable with an editor in a day and push the video next day.
 
-From what I've read Latin feels like the lisp of programming languages. I might give it a try.
+From what I've read Latin feels like the lisp of languages. I might give it a try.
 
 Night friend.
 
