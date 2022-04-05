@@ -10,6 +10,7 @@ layout: layouts/home.html
 - [ ] Add `fragments`
 
 I'll take a look at Davinci Resolve fusion nodes today. 
+I might try NixOS in a VM. The documentation is very good.
 
 # 2022-04-04
 
