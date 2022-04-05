@@ -21,6 +21,8 @@ I skimmed through fusion nodes. It seems like I can use frequently used effects 
 Added base `fragments`. This will work for now. Since I have fragments up and running now would be a good time
 to look for a good git android app. Fragments can be anything which doesn't belong in diary or worth calling a good piece, its like youtube shorts or a 1 man twitter.
 
+Tomorrow, I edit my 2nd video with Kdenlive. I'll lookup some basic seo as well.
+
 Calling it a day, Night friend
 
 # 2022-04-04
