@@ -9,6 +9,8 @@ layout: layouts/home.html
 - [ ] Edit with Kdenlive
 - [ ] Add `fragments`
 
+I'll take a look at Davinci Resolve fusion nodes today. 
+
 # 2022-04-04
 
 Davinci Resolve is taking too much time. Jun recommended to chunk it so I can experiment with
