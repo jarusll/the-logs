@@ -7,7 +7,7 @@ layout: layouts/home.html
 
 ### Plan for today
 - [ ] Edit with Kdenlive
-- [ ] Add `fragments`
+- [x] Add `fragments`
 
 I'll take a look at Davinci Resolve fusion nodes today. 
 I might try NixOS in a VM. The documentation is very good.
@@ -17,6 +17,11 @@ One of the biggest reason I haven't gotten really good at lisp is lack of docume
 I want an emacs package which'll list out all the packages, functions, classes and let me browse through just like any smalltalk implementation.
 
 I skimmed through fusion nodes. It seems like I can use frequently used effects as nodes. I'll look into it soon.
+
+Added base `fragments`. This will work for now. Since I have fragments up and running now would be a good time
+to look for a good git android app. Fragments can be anything which doesn't belong in diary or worth calling a good piece, its like youtube shorts or a 1 man twitter.
+
+Calling it a day, Night friend
 
 # 2022-04-04
 
