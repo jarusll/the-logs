@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-05
+
+### Plan for today
+- [ ] Edit with Kdenlive
+- [ ] Add `fragments`
+
 # 2022-04-04
 
 Davinci Resolve is taking too much time. Jun recommended to chunk it so I can experiment with
