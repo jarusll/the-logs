@@ -12,6 +12,12 @@ layout: layouts/home.html
 I'll take a look at Davinci Resolve fusion nodes today. 
 I might try NixOS in a VM. The documentation is very good.
 
+I tried out clojure today. It feels like it has more support due to being on JVM, but thats just how I feel.
+One of the biggest reason I haven't gotten really good at lisp is lack of documentation & discoverability.
+I want an emacs package which'll list out all the packages, functions, classes and let me browse through just like any smalltalk implementation.
+
+I skimmed through fusion nodes. It seems like I can use frequently used effects as nodes. I'll look into it soon.
+
 # 2022-04-04
 
 Davinci Resolve is taking too much time. Jun recommended to chunk it so I can experiment with
