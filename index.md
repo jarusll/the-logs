@@ -22,7 +22,7 @@ Exwm with evil mode turned out to be a bit of hassle, my browser windows turn re
 Vanilla emacs exwm it is for me for now.
 
 I looked up about `ssh-add` persistence and I came across `ssh-add -K /path/to/key`. Lets see if this works. 
-It did prompt me once. Let me try again.
+It did prompt me once. Let me try again. Nope, no luck.
 
 # 2022-04-05
 
