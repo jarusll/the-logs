@@ -18,6 +18,9 @@ than grabbing a distribution.
 
 I'll spend the day today configuring exwm and evil keybinds.
 
+Exwm with evil mode turned out to be a bit of hassle, my browser windows turn read only. This is something I'll look into later on.
+Vanilla emacs exwm it is for me for now.
+
 # 2022-04-05
 
 ### Plan for today
