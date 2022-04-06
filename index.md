@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-06
+
+### Plan for today
+- [ ] Configure exwm
+- [ ] Edit with Kdenlive
+
 # 2022-04-05
 
 ### Plan for today
