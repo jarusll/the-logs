@@ -16,6 +16,8 @@ Its everything emacs baby.
 Installed evil-mode. Best of both worlds. Since I am comfortable with emacs and I like vim's keybinds, this setup is comfortable
 than grabbing a distribution.
 
+I'll spend the day today configuring exwm and evil keybinds.
+
 # 2022-04-05
 
 ### Plan for today
