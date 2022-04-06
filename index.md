@@ -24,6 +24,11 @@ Vanilla emacs exwm it is for me for now.
 I looked up about `ssh-add` persistence and I came across `ssh-add -K /path/to/key`. Lets see if this works. 
 It did prompt me once. Let me try again. Nope, no luck.
 
+Figured out how to show the command keybind in minibuffer completion. One of the best things.
+Added it in fragments. ezpz.
+
+Need to setup gif recordings & add assets from fragments.
+
 # 2022-04-05
 
 ### Plan for today
