@@ -13,6 +13,9 @@ I noticed I haven't been using emacs alot for the past few days.
 And that changes today, I am installing exwm and making it my default window manager.
 Its everything emacs baby.
 
+Installed evil-mode. Best of both worlds. Since I am comfortable with emacs and I like vim's keybinds, this setup is comfortable
+than grabbing a distribution.
+
 # 2022-04-05
 
 ### Plan for today
