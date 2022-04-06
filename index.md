@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-06
 
 ### Plan for today
-- [ ] Configure exwm
+- [x] Configure exwm
 - [ ] Edit with Kdenlive
 
 I noticed I haven't been using emacs alot for the past few days.
@@ -28,6 +28,8 @@ Figured out how to show the command keybind in minibuffer completion. One of the
 Added it in fragments. ezpz.
 
 Need to setup gif recordings & add assets from fragments.
+
+One of these days I'll make an emacs artwork.
 
 # 2022-04-05
 
