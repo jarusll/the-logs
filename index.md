@@ -9,6 +9,10 @@ layout: layouts/home.html
 - [ ] Configure exwm
 - [ ] Edit with Kdenlive
 
+I noticed I haven't been using emacs alot for the past few days.
+And that changes today, I am installing exwm and making it my default window manager.
+Its everything emacs baby.
+
 # 2022-04-05
 
 ### Plan for today
