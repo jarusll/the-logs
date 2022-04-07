@@ -3,6 +3,19 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-07
+
+### Plan for today
+- [ ] Edit 2nd chunk with Davinci
+- [ ] Rice up my exwm
+
+Honestly I feel like I've gotten myself comfortable with Davinci's workflow.
+Thats why I've been putting off editing the other chunks with something else.
+I'll edit the 2nd part today.
+Any other video I make, I'll edit it with something else.
+
+I am missing essentials from exwm like bar and applets. I'll add them today.
+
 # 2022-04-06
 
 ### Plan for today
