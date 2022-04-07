@@ -23,6 +23,10 @@ I recently switched to firefox and it feels snappy. Snappier than Chrome.
 
 For essentials, system tray is left in exwm. For some reason exwm-systray isn't available. I'll have to use something else
 
+System tray not available. I ll setup polybar tomorrow.
+
+Easy day. Night friend
+
 # 2022-04-06
 
 ### Plan for today
