@@ -16,6 +16,9 @@ Any other video I make, I'll edit it with something else.
 
 I am missing essentials from exwm like bar and applets. I'll add them today.
 
+I came across `golden ratio` emacs package. This is gold. Automatically resizes the focused window.
+Fragments worthy.
+
 # 2022-04-06
 
 ### Plan for today
