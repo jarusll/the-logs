@@ -8,7 +8,6 @@ layout: layouts/home.html
 ### Plan for today
 - [ ] Edit 2nd chunk with Davinci
 - [ ] Rice up my exwm
-- [ ] Make a gif & video recording & compare & push as fragments
 
 Honestly I feel like I've gotten myself comfortable with Davinci's workflow.
 Thats why I've been putting off editing the other chunks with something else.
@@ -21,6 +20,8 @@ I came across `golden ratio` emacs package. This is gold. Automatically resizes 
 Fragments worthy.
 
 I recently switched to firefox and it feels snappy. Snappier than Chrome.
+
+For essentials, system tray is left in exwm. For some reason exwm-systray isn't available. I'll have to use something else
 
 # 2022-04-06
 
