@@ -16,6 +16,8 @@ Emacs artworks it is today.
 
 I figured executing ssh-add persists until reboot. So I execute it once after every startup now.
 
+Been having eyestrain past these days, gonna go get my eyes checked.
+
 # 2022-04-07
 
 ### Plan for today
