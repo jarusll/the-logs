@@ -43,6 +43,10 @@ Good day, i ll try to get comfortable with docker asap.
 
 My eyes feel ticklish and watery, it ll be fine after they get used to glasses.
 
+Couldn't draw Emacs because spent the whole day in Linux.
+
+Tomorrow I'll push the `My favourite Emacs packages` article. 
+
 I am going to attend the convocation of the Bois. Its party time. EZ.
 
 Night friend.
