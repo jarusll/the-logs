@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-08
 
 ### Plan for today
-- [ ] Setup desktop-environment, polybar & dunst
+- [ ] Setup desktop-environment, polybar & dunst(postponed)
 - [ ] Make emacs artworks
 
 I'll edit the video once I have my desktop setup.
@@ -25,7 +25,12 @@ Docker starts tomorrow, no matter what.
 The current exwm setup feels sufficient. I don't have a system tray but I don't miss it.
 I have decided to continue using it for now and rice it when I feel the need for.
 
-I'll try to setup docker playground now
+I'll try to setup docker playground now.
+Tried docker, it feels pretty easy. Its just linux with some automation.
+I'll deep dive now.
+
+I got my glasses and OMG it feels so trippy. Everythings so clear.
+Idk how I managed until now. I wanna go to places just to see things this clear.
 
 # 2022-04-07
 
