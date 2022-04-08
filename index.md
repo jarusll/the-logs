@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-09
+
+### Plan for today
+
+> The more we pursue the idea
+of programs as literature, the better our programs become.
+*Some literate prgrammer*
+
 # 2022-04-08
 
 ### Plan for today
