@@ -32,6 +32,8 @@ I'll deep dive now.
 I got my glasses and OMG it feels so trippy. Everythings so clear.
 Idk how I managed until now. I wanna go to places just to see things this clear.
 
+I can see things on my pc from bed. This power... its too much. I have a fucking scope.
+
 # 2022-04-07
 
 ### Plan for today
