@@ -3,11 +3,22 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-08
+
+### Plan for today
+- [ ] Setup desktop-environment, polybar & dunst
+- [ ] Make emacs artworks
+
+I'll edit the video once I have my desktop setup.
+I'll soon switch to nix or guix so this week will be spent experimenting.
+
+Emacs artworks it is today.
+
 # 2022-04-07
 
 ### Plan for today
 - [ ] Edit 2nd chunk with Davinci
-- [ ] Rice up my exwm
+- [x] Rice up my exwm
 
 Honestly I feel like I've gotten myself comfortable with Davinci's workflow.
 Thats why I've been putting off editing the other chunks with something else.
