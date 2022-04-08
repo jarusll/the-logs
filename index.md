@@ -20,6 +20,8 @@ Been having eyestrain past these days, gonna go get my eyes checked.
 
 Got myself some glasses with the shades thingy, EZ.
 
+Docker starts tomorrow, no matter what.
+
 # 2022-04-07
 
 ### Plan for today
