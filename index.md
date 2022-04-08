@@ -14,6 +14,8 @@ I'll soon switch to nix or guix so this week will be spent experimenting.
 
 Emacs artworks it is today.
 
+I figured executing ssh-add persists until reboot. So I execute it once after every startup now.
+
 # 2022-04-07
 
 ### Plan for today
