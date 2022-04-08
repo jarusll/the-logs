@@ -22,6 +22,11 @@ Got myself some glasses with the shades thingy, EZ.
 
 Docker starts tomorrow, no matter what.
 
+The current exwm setup feels sufficient. I don't have a system tray but I don't miss it.
+I have decided to continue using it for now and rice it when I feel the need for.
+
+I'll try to setup docker playground now
+
 # 2022-04-07
 
 ### Plan for today
