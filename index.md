@@ -9,7 +9,7 @@ layout: layouts/home.html
 
 > The more we pursue the idea
 of programs as literature, the better our programs become.
-*Some literate prgrammer*
+*Some wise literate programmer*
 
 # 2022-04-08
 
