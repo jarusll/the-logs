@@ -15,6 +15,7 @@ of programs as literature, the better our programs become.
 Omg, r/instant_regret
 
 I take it back, it was a blast. One of the best time with the Bois.
+I am tired, i ll look into docker when I wake up
 
 # 2022-04-08
 
