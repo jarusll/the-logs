@@ -6,6 +6,7 @@ layout: layouts/home.html
 # 2022-04-09
 
 ### Plan for today
+- [ ] chill and fuck around docker
 
 > The more we pursue the idea
 of programs as literature, the better our programs become.
