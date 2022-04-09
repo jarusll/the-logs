@@ -18,6 +18,8 @@ I am tired, I'll look into docker when I wake up.
 
 Somehow chrome seems to freeze exwm. I am switching to firefox permanently.
 
+I remapped application launcher on Super+Space and this is wayyyyyyyyy better.
+
 # 2022-04-08
 
 ### Plan for today
