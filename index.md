@@ -8,14 +8,13 @@ layout: layouts/home.html
 ### Plan for today
 - [ ] chill and fuck around docker
 
-> The more we pursue the idea
-of programs as literature, the better our programs become.
-*Some wise literate programmer*
+`The more we pursue the idea
+of programs as literature, the better our programs become.` - *Some wise literate programmer*
 
 Omg, r/instant_regret
 
 I take it back, it was a blast. One of the best time with the Bois.
-I am tired, i ll look into docker when I wake up
+I am tired, I'll look into docker when I wake up. 
 
 # 2022-04-08
 
@@ -453,7 +452,7 @@ Hello friend
 
 Charu... Cute... 24th November
 
-> Just let it crash and drop in debugger, we'll define things on the fly - *Some wise smalltalk programmer*
+`Just let it crash and drop in debugger, we'll define things on the fly` - *Some wise smalltalk programmer*
 
 Easy day, dint really get much done. Pushed "Why I made a public diary" and made the diary. 
 
