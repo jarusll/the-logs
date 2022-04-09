@@ -11,6 +11,8 @@ layout: layouts/home.html
 of programs as literature, the better our programs become.
 *Some wise literate programmer*
 
+Omg, r/instant_regret
+
 # 2022-04-08
 
 ### Plan for today
