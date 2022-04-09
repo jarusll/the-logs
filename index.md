@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-09
 
 ### Plan for today
-- [ ] chill and fuck around docker
+- [x] chill and fuck around docker
 
 `The more we pursue the idea
 of programs as literature, the better our programs become.` - *Some wise literate programmer*
@@ -18,7 +18,12 @@ I am tired, I'll look into docker when I wake up.
 
 Somehow chrome seems to freeze exwm. I am switching to firefox permanently.
 
+Me and Akshit played some Rocket League. Rumble & Hockey modes are cool.
+
 I remapped application launcher on Super+Space and this is wayyyyyyyyy better.
+I read some of `Docker cookbook` today. I'll be tinkering with docker playground tomorrow.
+
+Good day, Night friend
 
 # 2022-04-08
 
