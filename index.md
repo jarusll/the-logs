@@ -12,6 +12,8 @@ Have been browsing alot of r/fuckcars. I have a craving for reading about city d
 
 I'll be making my own home gym.
 
+My wifi has been down since afternoon. I'll just read Docker cookbook today.
+
 # 2022-04-09
 
 ### Plan for today
