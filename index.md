@@ -3,6 +3,13 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-10
+
+### Plan for today
+- [ ] dockerize something, anything
+
+Have been browsing alot of r/fuckcars. I have a craving for reading about city design.
+
 # 2022-04-09
 
 ### Plan for today
