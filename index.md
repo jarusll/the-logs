@@ -14,6 +14,8 @@ I'll be making my own home gym.
 
 My wifi has been down since afternoon. I'll just read Docker cookbook today.
 
+I am really excited about Mumbai Metro. Soon I will take my bike along in Metro to meet with the Bois.
+
 # 2022-04-09
 
 ### Plan for today
