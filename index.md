@@ -10,6 +10,8 @@ layout: layouts/home.html
 
 Have been browsing alot of r/fuckcars. I have a craving for reading about city design.
 
+I'll be making my own home gym.
+
 # 2022-04-09
 
 ### Plan for today
