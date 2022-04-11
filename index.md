@@ -32,6 +32,8 @@ Mapping the volume enables hot reloading, yayyyyy, EZ.
 
 I am using make file for now, It should do the job. I'll use docker-compose.yml when the need arises. Plus I wanna use makefiles, I want to integrate them in my workflow.
 
+I really need to edit my videos. I will edit them for the coming days along with tinkering with docker.
+
 # 2022-04-10
 
 ### Plan for today
