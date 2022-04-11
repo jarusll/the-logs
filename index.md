@@ -23,6 +23,8 @@ What else can I do?
 
 I mean theres not much to it, but I can use my portfolio to test it.
 
+Came across my first hurdle, hot reloading. Lets figure that out.
+
 # 2022-04-10
 
 ### Plan for today
