@@ -12,8 +12,16 @@ Busy with home stuff today. I'll dockerize my portfolio jut for fun today.
 ![Image](/images/1fe105dcb9d332cd75e1765e6d7b7f76.jpg) 
 
 ### Plan for today
-- [ ] dockerize portfolio
+- [x] dockerize portfolio
 
+Dockerized.
+I feel like I can augment `make` but this'll work for now.
+
+What else can I do?
+  * one click deployment
+  * one click dev spin up
+
+I mean theres not much to it, but I can use my portfolio to test it.
 
 # 2022-04-10
 
