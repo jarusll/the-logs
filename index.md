@@ -3,6 +3,18 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-11
+
+My legs sore and painful from all the cycling.
+
+Busy with home stuff today. I'll dockerize my portfolio jut for fun today.
+
+![Image](/images/1fe105dcb9d332cd75e1765e6d7b7f76.jpg) 
+
+### Plan for today
+- [ ] dockerize portfolio
+
+
 # 2022-04-10
 
 ### Plan for today
