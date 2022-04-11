@@ -28,6 +28,8 @@ Will be solved with volume mapping.
 
 One of the reasons I am really good at my art is automation. If I ever notice repeating myself, I automate it.
 
+Mapping the volume enables hot reloading, yayyyyy, EZ.
+
 # 2022-04-10
 
 ### Plan for today
