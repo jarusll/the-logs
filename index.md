@@ -26,6 +26,8 @@ I mean theres not much to it, but I can use my portfolio to test it.
 Came across my first hurdle, hot reloading. Lets figure that out.
 Will be solved with volume mapping.
 
+One of the reasons I am really good at my art is automation. If I ever notice repeating myself, I automate it.
+
 # 2022-04-10
 
 ### Plan for today
