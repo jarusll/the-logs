@@ -30,6 +30,8 @@ One of the reasons I am really good at my art is automation. If I ever notice re
 
 Mapping the volume enables hot reloading, yayyyyy, EZ.
 
+I am using make file for now, It should do the job. I'll use docker-compose.yml when the need arises. Plus I wanna use makefiles, I want to integrate them in my workflow.
+
 # 2022-04-10
 
 ### Plan for today
