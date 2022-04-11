@@ -34,6 +34,10 @@ I am using make file for now, It should do the job. I'll use docker-compose.yml 
 
 I really need to edit my videos. I will edit them for the coming days along with tinkering with docker.
 
+Actually good day considering I worked relatively less than usual but got more done. Working while cycling is cool. 
+
+Night friend
+
 # 2022-04-10
 
 ### Plan for today
