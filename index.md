@@ -23,6 +23,8 @@ Credit - https://www.reddit.com/r/cycling/comments/tz4d80/the_perfect_cycling_wa
 
 Just noticed text isn't wrapping on my site, will fix it asap
 
+I need to test out multiple docker containers & docker compose. I'll just grab template repos & test.
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
