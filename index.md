@@ -10,7 +10,13 @@ layout: layouts/home.html
 - [ ] look into Linux administration
 - [ ] edit video
 
-I'll read about terraform today
+I'll read about terraform today.
+
+I tried using emacs as my window manager, din't work out because
+  * had to manually send keys
+  * would freeze up sometimes and had to reboot
+I realised I am better off with i3wm. I'll soon go through all the docs of i3 and rice it up, not that I haven't. But I'll be more comfortable tweaking it if I know everything.
+
 
 # 2022-04-11
 
