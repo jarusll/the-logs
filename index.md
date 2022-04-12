@@ -25,6 +25,10 @@ Just noticed text isn't wrapping on my site, will fix it asap
 
 I need to test out multiple docker containers & docker compose. I'll just grab template repos & test.
 
+My reading list at night
+  * https://plato.stanford.edu/entries/concept-evil/
+  * https://iep.utm.edu/moral-re/#:~:text=Moral%20relativism%20is%20the%20view,uniquely%20privileged%20over%20all%20others
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
