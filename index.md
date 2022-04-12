@@ -19,7 +19,7 @@ I realised I am better off with i3wm. I'll soon go through all the docs of i3 an
 
 ![Image](/images/be0164af19d609f5bf0c7549588cebc2.jpg) 
 *My new wallpaper*
-
+Credit - https://www.reddit.com/r/cycling/comments/tz4d80/the_perfect_cycling_wallpaper_doesnt_exi
 
 # 2022-04-11
 
