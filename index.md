@@ -35,6 +35,8 @@ docker-compose is wayyy too powerful, I like it.
 
 I composed them together. Now I need to make them talk to each other.
 
+![Image](/images/a1e1f6660ddceb55e12338623f7acea1.jpg) 
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
