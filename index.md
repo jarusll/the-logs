@@ -31,6 +31,8 @@ My reading list at night
 
 I am not sleeping without docker composing the template fullstack app.
 
+docker-compose is wayyy too powerful, I like it
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
