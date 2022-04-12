@@ -31,7 +31,9 @@ My reading list at night
 
 I am not sleeping without docker composing the template fullstack app.
 
-docker-compose is wayyy too powerful, I like it
+docker-compose is wayyy too powerful, I like it.
+
+I composed them together. Now I need to make them talk to each other.
 
 # 2022-04-11
 
