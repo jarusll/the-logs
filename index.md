@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-12
 
 ### Plan for today
-- [ ] read docker cookbook
+- [x] read docker cookbook
 - [ ] look into Linux administration
 - [ ] edit video
 
