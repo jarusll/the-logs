@@ -17,6 +17,9 @@ I tried using emacs as my window manager, din't work out because
   * would freeze up sometimes and had to reboot
 I realised I am better off with i3wm. I'll soon go through all the docs of i3 and rice it up, not that I haven't. But I'll be more comfortable tweaking it if I know everything.
 
+![Image](/images/be0164af19d609f5bf0c7549588cebc2.jpg) 
+*My new wallpaper*
+
 
 # 2022-04-11
 
