@@ -3,6 +3,13 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-12
+
+### Plan for today
+- [ ] read docker cookbook
+- [ ] look into Linux administration
+- [ ] edit video
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
