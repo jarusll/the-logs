@@ -10,6 +10,8 @@ layout: layouts/home.html
 - [ ] look into Linux administration
 - [ ] edit video
 
+I'll read about terraform today
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
