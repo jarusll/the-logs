@@ -29,6 +29,8 @@ My reading list at night
   * https://plato.stanford.edu/entries/concept-evil/
   * https://iep.utm.edu/moral-re/#:~:text=Moral%20relativism%20is%20the%20view,uniquely%20privileged%20over%20all%20others
 
+I am not sleeping without docker composing the template fullstack app.
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
