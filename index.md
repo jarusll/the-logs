@@ -39,6 +39,10 @@ I composed them together. Now I need to make them talk to each other.
 
 I am going to finish watching Puss in Boots and then solve the docker thing
 
+I'll look into it tomorrow
+
+Night friend
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
