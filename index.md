@@ -21,6 +21,8 @@ I realised I am better off with i3wm. I'll soon go through all the docs of i3 an
 *My new wallpaper*
 Credit - https://www.reddit.com/r/cycling/comments/tz4d80/the_perfect_cycling_wallpaper_doesnt_exi
 
+Just noticed text isn't wrapping on my site, will fix it asap
+
 # 2022-04-11
 
 My legs sore and painful from all the cycling.
