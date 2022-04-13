@@ -21,6 +21,8 @@ I call this mission accomplished.
 
 Time to focus on linux administration.
 
+Just learnt I can use service name instead of assigning static ips to containers. 
+
 # 2022-04-12
 
 ### Plan for today
