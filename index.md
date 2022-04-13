@@ -29,6 +29,13 @@ Linux administration is very vast so I have decided to constrain myself to pract
   * process management
   * authentication
 
+My progress as a dev
+  * [x] \*nix
+  * [x] smalltalk
+  * [x] lisp
+  * [x] containerization(docker)
+  * [ ] distributed computing(elixir/erlang)
+
 # 2022-04-12
 
 ### Plan for today
