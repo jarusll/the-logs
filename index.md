@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-13
+
+### Plan for today
+- [ ] make 2 docker containers communicate
+- [ ] watch/read Linux administration
+
+How do you even steer a train? I'll get to the bottom of this today.
+
 # 2022-04-12
 
 ### Plan for today
