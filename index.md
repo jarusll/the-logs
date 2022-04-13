@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-13
 
 ### Plan for today
-- [ ] make 2 docker containers communicate
+- [x] make 2 docker containers communicate(calling it done)
 - [ ] watch/read Linux administration
 
 How do you even steer a train? I'll get to the bottom of this today.
@@ -18,6 +18,8 @@ Good train channel, Lesics
 
 I set up the networking & assigned static ips to docker containers but to use those ips I need to set environment variables. I am not able to setup environment variables in create-react-app and digging into it is just not worth it.
 I call this mission accomplished.
+
+Time to focus on linux administration.
 
 # 2022-04-12
 
