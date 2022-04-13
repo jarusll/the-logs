@@ -11,6 +11,11 @@ layout: layouts/home.html
 
 How do you even steer a train? I'll get to the bottom of this today.
 
+https://youtu.be/XzgryPhtc1Y
+https://youtu.be/_M6vhDvmtrI
+
+Good train channel, Lesics
+
 # 2022-04-12
 
 ### Plan for today
