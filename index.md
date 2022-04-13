@@ -42,6 +42,9 @@ This style of keeping track is not efficient. I need to start using kanban. I ha
 
 I got charged again from aws for lightsail, I checked theres no lightsail instance, no snapshots. I don't know why I am getting charged.
 
+I'll soon tinker around with elixir.
+One of the aspects where I can improve alot is testing. This is very overlooked and it really pays off in the long run. I am going to setup a tdd lab and fuck around until I get comfortable.
+
 # 2022-04-12
 
 ### Plan for today
