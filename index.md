@@ -16,6 +16,9 @@ https://youtu.be/_M6vhDvmtrI
 
 Good train channel, Lesics
 
+I set up the networking & assigned static ips to docker containers but to use those ips I need to set environment variables. I am not able to setup environment variables in create-react-app and digging into it is just not worth it.
+I call this mission accomplished.
+
 # 2022-04-12
 
 ### Plan for today
