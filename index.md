@@ -35,6 +35,8 @@ My progress as a dev
   * [x] lisp
   * [x] containerization(docker)
   * [ ] distributed computing(elixir/erlang)
+  
+Finally added checkboxes to my site, looks good.
 
 # 2022-04-12
 
