@@ -7,7 +7,7 @@ layout: layouts/home.html
 
 ### Plan for today
 - [x] make 2 docker containers communicate(calling it done)
-- [ ] watch/read Linux administration
+- [x] watch/read Linux administration
 
 How do you even steer a train? I'll get to the bottom of this today.
 
@@ -47,6 +47,10 @@ I'll soon tinker around with elixir.
 One of the aspects where I can improve alot is testing. This is very overlooked and it really pays off in the long run. I am going to setup a tdd lab and fuck around until I get comfortable.
 
 Nasty thing happened, ref lock thing on my git repo. I am making backup repos now.
+
+Got a GCP vps, lets try some shit.
+
+Night
 
 # 2022-04-12
 
