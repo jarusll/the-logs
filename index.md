@@ -23,6 +23,12 @@ Time to focus on linux administration.
 
 Just learnt I can use service name instead of assigning static ips to containers. 
 
+Linux administration is very vast so I have decided to constrain myself to practices.
+  * user management
+  * service management
+  * process management
+  * authentication
+
 # 2022-04-12
 
 ### Plan for today
