@@ -46,6 +46,8 @@ Contacted support, seems like they'll fix it.
 I'll soon tinker around with elixir.
 One of the aspects where I can improve alot is testing. This is very overlooked and it really pays off in the long run. I am going to setup a tdd lab and fuck around until I get comfortable.
 
+Nasty thing happened, ref lock thing on my git repo. I am making backup repos now.
+
 # 2022-04-12
 
 ### Plan for today
