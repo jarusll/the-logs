@@ -38,6 +38,10 @@ My progress as a dev
   
 Finally added checkboxes to my site, looks good.
 
+This style of keeping track is not efficient. I need to start using kanban. I have noticed there 1 big task & a small one which I do get done, I need to start planning considering that.
+
+I got charged again from aws for lightsail, I checked theres no lightsail instance, no snapshots. I don't know why I am getting charged.
+
 # 2022-04-12
 
 ### Plan for today
