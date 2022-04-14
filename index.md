@@ -29,6 +29,7 @@ I like determinism. I will be tinkering with ansible for the coming week. The fi
 Testing pushing from vps, success.
 
 I setup ansible successfully. Now onto playbooks.
+I did it. I cloned a repo using ansible. Small victory.
 
 # 2022-04-13
 
