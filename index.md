@@ -20,6 +20,8 @@ Something like this
 ![Image](/images/03725bccf6bc61b9eccdac7b6a7522f9.jpg) 
 *Credit - https://sixohthree.com/termux-for-android*
 
+I haven't been able to get alot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
+
 # 2022-04-13
 
 ### Plan for today
