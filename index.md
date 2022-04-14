@@ -22,6 +22,8 @@ Something like this
 
 I haven't been able to get alot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
 
+I am looking into how to read man pages efficiently.
+
 # 2022-04-13
 
 ### Plan for today
