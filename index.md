@@ -31,6 +31,12 @@ Testing pushing from vps, success.
 I setup ansible successfully. Now onto playbooks.
 I did it. I cloned a repo using ansible. Small victory.
 
+Tomorrow if I am able to mirror 1 repo, I'll call that a win.
+
+Good day, I like the fact that I am moving towards devops. I'll be one man army.
+
+Night
+
 # 2022-04-13
 
 ### Plan for today
