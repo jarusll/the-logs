@@ -13,6 +13,13 @@ There's no link styling on my site. I'll fix it today.
 
 I liked playing as Brim in Valorant. I'll draw his Stim Beacon soon.
 
+I am shaving my head tonight. 
+
+I'll soon setup a cyberdeck with termux. 
+Something like this
+![Image](/images/03725bccf6bc61b9eccdac7b6a7522f9.jpg) 
+*Credit - https://sixohthree.com/termux-for-android*
+
 # 2022-04-13
 
 ### Plan for today
