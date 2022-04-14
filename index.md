@@ -9,6 +9,8 @@ layout: layouts/home.html
 - [ ] setup and tinker vps
 - [ ] make Emacs artwork
 
+There's no link styling on my site. I'll fix it today.
+
 # 2022-04-13
 
 ### Plan for today
