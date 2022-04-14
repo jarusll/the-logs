@@ -22,11 +22,13 @@ Something like this
 
 I haven't been able to get alot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
 
-I am looking into how to read man pages efficiently.
+I am looking into how to read man pages efficiently. I can write "Your best friends on the CLI".
 
 I like determinism. I will be tinkering with ansible for the coming week. The first problem that I want to solve is mirroring my github repos on bitbucket with ansible. This will be a good exercize to learn ansible & to solve my problem.
 
-Testing pushing from vps
+Testing pushing from vps, success.
+
+I setup ansible successfully. Now onto playbooks.
 
 # 2022-04-13
 
