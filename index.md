@@ -11,6 +11,8 @@ layout: layouts/home.html
 
 There's no link styling on my site. I'll fix it today.
 
+I liked playing as Brim in Valorant. I'll draw his Stim Beacon soon.
+
 # 2022-04-13
 
 ### Plan for today
