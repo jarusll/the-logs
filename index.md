@@ -26,6 +26,8 @@ I am looking into how to read man pages efficiently.
 
 I like determinism. I will be tinkering with ansible for the coming week. The first problem that I want to solve is mirroring my github repos on bitbucket with ansible. This will be a good exercize to learn ansible & to solve my problem.
 
+Testing pushing from vps
+
 # 2022-04-13
 
 ### Plan for today
