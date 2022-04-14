@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-14
+
+### Plan for today
+- [ ] setup and tinker vps
+- [ ] make Emacs artwork
+
 # 2022-04-13
 
 ### Plan for today
