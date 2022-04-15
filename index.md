@@ -17,7 +17,10 @@ Added the mirroring playbook to cron. I'll check it at night if its working.
 
 I might have overengineered the mirroring thing. Eh, if it works it'll payoff.
 
-Checking crontab sync, again.
+For some reason I can't set the python version for ansible. Tomorrow I'll dockerize & see if it works. The mirroring works fine on local with python3.8 But I am not able to set the specific version for ansible.
+Dockerizing should solve it.
+
+Night
 
 # 2022-04-14
 
