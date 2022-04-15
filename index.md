@@ -10,6 +10,8 @@ layout: layouts/home.html
   
 Played dota after a long time. I need a singleplayer now.
 
+I noticed the two task I plan for the day need to be related. I'll keep that mind. I suppose I could edit & draw on Sundays.
+
 # 2022-04-14
 
 ### Plan for today
