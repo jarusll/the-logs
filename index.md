@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-15
 
 ### Plan for today
-  * [ ] mirror a repo with ansible & cron it
+  * [x] mirror a repo with ansible & cron it
   
 Played dota after a long time. I need a singleplayer now.
 
