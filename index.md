@@ -17,7 +17,7 @@ Added the mirroring playbook to cron. I'll check it at night if its working.
 
 I might have overengineered the mirroring thing. Eh, if it works it'll payoff.
 
-For some reason I can't set the python version for ansible. Tomorrow I'll dockerize & see if it works. The mirroring works fine on local with python3.8 But I am not able to set the specific version for ansible.
+For some reason I can't set the python version for ansible. Tomorrow I'll dockerize & see if it works. The mirroring works fine on local with python3.8 But I am not able to set the specific version for ansible on vps.
 Dockerizing should solve it.
 
 Night
