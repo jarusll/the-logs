@@ -17,6 +17,8 @@ Added the mirroring playbook to cron. I'll check it at night if its working.
 
 I might have overengineered the mirroring thing. Eh, if it works it'll payoff.
 
+Checking crontab sync
+
 # 2022-04-14
 
 ### Plan for today
