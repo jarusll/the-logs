@@ -15,6 +15,8 @@ I noticed the two task I plan for the day need to be related. I'll keep that min
 I successfully mirrored my repos to bitbucket with ansible. Now to cronify it.
 Added the mirroring playbook to cron. I'll check it at night if its working.
 
+I might have overengineered the mirroring thing. Eh, if it works it'll payoff.
+
 # 2022-04-14
 
 ### Plan for today
