@@ -20,6 +20,8 @@ I might have overengineered the mirroring thing. Eh, if it works it'll payoff.
 For some reason I can't set the python version for ansible. Tomorrow I'll dockerize & see if it works. The mirroring works fine on local with python3.8 But I am not able to set the specific version for ansible on vps.
 Dockerizing should solve it.
 
+Tomorrow I'll push a fragment about the phones I used. Its going to be good 😁.
+
 Night
 
 # 2022-04-14
