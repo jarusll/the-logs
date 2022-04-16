@@ -6,10 +6,14 @@ layout: layouts/home.html
 # 2022-04-16
 
 ### Plan for today
-- [ ] dockerize repo mirror
+- [ ] dockerize repo mirror(postponed)
 - [ ] push "My mobile phones till now"
 
 I'll look into Autohotkey today.
+
+Looks like I'll have to make my own image for hosting the mirror thing.
+
+I'll have to move to trello or org-mode for managing things. This is getting out of hand. Plus I have been helping at home.
 
 # 2022-04-15
 
