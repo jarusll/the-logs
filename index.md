@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-16
+
+### Plan for today
+- [ ] dockerize repo mirror
+- [ ] push "My mobile phones till now"
+
+I'll look into Autohotkey today.
+
 # 2022-04-15
 
 ### Plan for today
