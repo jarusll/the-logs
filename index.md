@@ -19,6 +19,10 @@ Every blocker comes back to linux administration. Like for today It was setting 
 
 I am taking a break tomorrow. Its editing & drawing maybe. And I'll play League with Wolfie.
 
+The Mobile phones piece is half done. I'll finish it tomorrow.
+
+Night
+
 # 2022-04-15
 
 ### Plan for today
