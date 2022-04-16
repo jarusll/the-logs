@@ -17,6 +17,8 @@ I'll have to move to trello or org-mode for managing things. This is getting out
 
 Every blocker comes back to linux administration. Like for today It was setting up ssh in docker. I know, a bit meta maybe. I need to take a step back & rethink.
 
+I am taking a break tomorrow. Its editing & drawing maybe. And I'll play League with Wolfie.
+
 # 2022-04-15
 
 ### Plan for today
