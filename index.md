@@ -15,6 +15,8 @@ Looks like I'll have to make my own image for hosting the mirror thing.
 
 I'll have to move to trello or org-mode for managing things. This is getting out of hand. Plus I have been helping at home.
 
+Every blocker comes back to linux administration. Like for today It was setting up ssh in docker. I know, a bit meta maybe. I need to take a step back & rethink.
+
 # 2022-04-15
 
 ### Plan for today
