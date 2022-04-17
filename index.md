@@ -19,6 +19,8 @@ I played Invoker. The number of playstyles this hero can pull off is insane. Plu
 
 I rewatched Blade Runner 2049. I am going to read about Brutalist architecture.
 
+I am integrating this [fortune api](https://github.com/sarah256/fortune-api) on my site in diary section.
+
 # 2022-04-16
 
 ### Plan for today
