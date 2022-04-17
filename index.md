@@ -3,6 +3,18 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-17
+
+### Plan for today
+  * [ ] play lol/dota/rocket league
+  * [ ] go through ahk docs
+
+I pushed the Mobile phones post.
+
+I have been playing as Oracle for a while, time to try out another hero. I want complexity, maybe Invoker.
+
+I had a dream Last night, I was back in school and it was a drawing competition and I was drawing Paani puris.
+
 # 2022-04-16
 
 ### Plan for today
