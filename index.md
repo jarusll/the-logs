@@ -54,8 +54,6 @@ There's no link styling on my site. I'll fix it today.
 
 I liked playing as Brim in Valorant. I'll draw his Stim Beacon soon.
 
-I am shaving my head tonight. 
-
 I'll soon setup a cyberdeck with termux. 
 Something like this
 ![Image](/images/03725bccf6bc61b9eccdac7b6a7522f9.jpg) 
@@ -114,9 +112,6 @@ My progress as a dev
 Finally added checkboxes to my site, looks good.
 
 This style of keeping track is not efficient. I need to start using kanban. I have noticed there 1 big task & a small one which I do get done, I need to start planning considering that.
-
-I got charged again from aws for lightsail, I checked theres no lightsail instance, no snapshots. I don't know why I am getting charged.
-Contacted support, seems like they'll fix it.
 
 I'll soon tinker around with elixir.
 One of the aspects where I can improve alot is testing. This is very overlooked and it really pays off in the long run. I am going to setup a tdd lab and fuck around until I get comfortable.
@@ -389,7 +384,7 @@ I want an electric bicycle. I'll buy it next year.
 I finally made the companion cube. This will be my official logo everywhere now. 
 ![Companion Cube](https://raw.githubusercontent.com/jarusll/artworks/main/companion_cube/cube.svg)
 
-I finished watching `The way of the househusband`, pretty wholesome. I'll read the manga now Teehee
+I finished watching `The way of the househusband`, pretty wholesome. I'll read the manga now
 
 20 mins, not enough.
 
@@ -444,9 +439,7 @@ Night friend.
 - [x] play dota with the bois, been a while since I played(played lol)
 
 I'll read some short stories today. 
-One of these days need to think about seamless images integration on portfolio. I can add image in diary but they get added in 
-diary repo, that directory hasn't been configured for images. There will be more resources directories in future. Need a futureproof(enough) 
-solution.
+One of these days need to think about seamless images integration on portfolio. I can add image in diary but they get added in diary repo, that directory hasn't been configured for images. There will be more resources directories in future. Need a futureproof(enough) solution.
 
 Next week I'll setup RSS for my portfolio.
 
@@ -621,9 +614,7 @@ Wolfie busy, we ll setup tomorrow.
 
 Just realised I have misconfigured GitHub actions for posts and no listener for posts_push on portfolio. Will fix it tomorrow.
 
-Absolutely not having chicken again.
-
-Day rating - 5/10. My eyes were strained and I lost all dota matches but Charu cheered me up
+Day rating - 5/10. My eyes were strained and I lost all dota matches
 
 # 2022-03-26
 
@@ -671,13 +662,13 @@ Yes it does, ahahahahahahaah.
 
 Automated site build on submodule push. I did it for diary so I can write from phone, push and everything will just work. Tomorrow I'll do the same for posts
 
-Good day, Charu cute, night friend
+Good day, night friend
 
 # 2022-03-24
 
 Hello friend
 
-Charu... Cute... 24th November
+24th November
 
 `Just let it crash and drop in debugger, we'll define things on the fly` - *Some wise smalltalk programmer*
 
