@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-17
 
 ### Plan for today
-  * [ ] play lol/dota/rocket league
+  * [x] play lol/dota/rocket league
   * [ ] go through ahk docs
 
 I pushed the Mobile phones post.
