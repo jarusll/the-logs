@@ -17,6 +17,8 @@ I had a dream Last night, I was back in school and it was a drawing competition 
 
 I played Invoker. The number of playstyles this hero can pull off is insane. Plus the number of combos. I'll only play Invoker now.
 
+I rewatched Blade Runner 2049. I am going to read about Brutalist architecture.
+
 # 2022-04-16
 
 ### Plan for today
