@@ -23,6 +23,8 @@ I am integrating this [fortune api](https://github.com/sarah256/fortune-api) on 
 
 Invoker is fun.
 
+I made my DND character today, It's an Aarakocra Druid. Me and Wolfie are going to play dnd soon.
+
 Good day, Night
 
 # 2022-04-16
