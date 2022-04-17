@@ -15,6 +15,8 @@ I have been playing as Oracle for a while, time to try out another hero. I want 
 
 I had a dream Last night, I was back in school and it was a drawing competition and I was drawing Paani puris.
 
+I played Invoker. The number of playstyles this hero can pull off is insane. Plus the number of combos. I'll only play Invoker now.
+
 # 2022-04-16
 
 ### Plan for today
