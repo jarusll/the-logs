@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-18
+
+I had the day for myself. I am going to write about my DND character and play some Divinity with Wolfie.
+
+I also setup the vm I'll be testing on. Testing things on a VPS isn't the most ideal. Its just easy if its local.
+
 # 2022-04-17
 
 ### Plan for today
