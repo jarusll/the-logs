@@ -17,6 +17,8 @@ I am going to read the 3rd book in the series The Reasoned Schemer, which is bas
 
 I will be reading alot for a while.
 
+I have been itching alot to mess around with testing. Especially TDD. I am looking into it.
+
 # 2022-04-18
 
 I had the day for myself. I am going to write about my DND character and play some Divinity with Wolfie.
