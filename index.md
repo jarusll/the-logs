@@ -8,13 +8,14 @@ layout: layouts/home.html
 I know when I miss programming.
 
 ### Plan for today
-- [ ] setup ssh on vm
 - [ ] try some testing katas
 
 I recently found out about Socratic Dialogue. And the reason its big for me is because the two books which had a big impact on me as a developer were written that way. 
 The Little Schemer & The Seasoned Schemer are written as Socratic dialogue.
 
 I am going to read the 3rd book in the series The Reasoned Schemer, which is based on relational programming soon. I plan to read more of this style. Good stuff.
+
+I will be reading alot for a while.
 
 # 2022-04-18
 
