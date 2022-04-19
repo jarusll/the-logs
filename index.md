@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-19
+
+I know when I miss programming.
+
+### Plan for today
+- [ ] setup ssh on vm
+- [ ] try some testing katas
+
 # 2022-04-18
 
 I had the day for myself. I am going to write about my DND character and play some Divinity with Wolfie.
