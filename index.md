@@ -21,6 +21,10 @@ I have been itching alot to mess around with testing. Especially TDD. I am looki
 
 I started reading `Unit Testing: Principles, Practices & Patterns`. I really want to tinker with a good oop system but the only one which I like is smalltalk, nothing comes closer to the interactability of its IDE. I'll try it after testing for TDD.
 
+Good day, I am getting good with Invoker.
+
+Night
+
 # 2022-04-18
 
 I had the day for myself. I am going to write about my DND character and play some Divinity with Wolfie.
