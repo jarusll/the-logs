@@ -20,7 +20,8 @@ Here are some of the attributes I want my character to have
 - lone wolf
 - 4-5ft tall, nimble
 - lives over 500+ years
-- can transform to any other form
+- can transform to any other for
+- does whatever the fuck he likes, without worrying about consequences
 
 I'll dedicate a piece to my character
 
