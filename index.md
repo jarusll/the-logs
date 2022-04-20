@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-20
+
+Whenever a merge error happens, my GitJournal breaks. It happened today and I couldn't write from phone.
+
+I read today, alot. I am halfway through the testing book. I also looked that `Players Handbook` for DND.
+
+### Plan for today
+
 # 2022-04-19
 
 I know when I miss programming.
