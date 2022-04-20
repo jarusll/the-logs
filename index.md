@@ -8,6 +8,9 @@ layout: layouts/home.html
 Whenever a merge error happens, my GitJournal breaks. It happened today and I couldn't write from phone.
 
 I read today, alot. I am halfway through the testing book. I also looked that `Players Handbook` for DND.
+I like where I am headed as a dev. Docker then testing. 
+
+My cat is pregnant. Lets hope they make it this time.
 
 ### Plan for today
 
