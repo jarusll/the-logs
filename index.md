@@ -14,6 +14,16 @@ My cat is pregnant. Lets hope they make it this time.
 
 My DND character is Aarakocra Druid, once he levels up he'll be able to fly. And he already has a power of transforming into any other form. I feel like this would be too much power. I'll rethink my character's race.
 
+Here are some of the attributes I want my character to have
+- lives in nature, around trees
+- hungry for knowledge
+- lone wolf
+- 4-5ft tall, nimble
+- lives over 500+ years
+- can transform to any other form
+
+I'll dedicate a piece to my character
+
 ### Plan for today
 
 # 2022-04-19
