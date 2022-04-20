@@ -25,6 +25,9 @@ Here are some of the attributes I want my character to have
 
 I'll dedicate a piece to my character
 
+Good day, I am having absolute blast playing Invoker.
+Night
+
 ### Plan for today
 
 # 2022-04-19
