@@ -12,6 +12,8 @@ I like where I am headed as a dev. Docker then testing.
 
 My cat is pregnant. Lets hope they make it this time.
 
+My DND character is Aarakocra Druid, once he levels up he'll be able to fly. And he already has a power of transforming into any other form. I feel like this would be too much power. I'll rethink my character's race.
+
 ### Plan for today
 
 # 2022-04-19
