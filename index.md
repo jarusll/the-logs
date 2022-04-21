@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-21
+
+My cousin's here, we played Minecraft. I recommended him Portal, my first pc game.
+
 # 2022-04-20
 
 Whenever a merge error happens, my GitJournal breaks. It happened today and I couldn't write from phone.
@@ -20,7 +24,7 @@ Here are some of the attributes I want my character to have
 - lone wolf
 - 4-5ft tall, nimble
 - lives over 500+ years
-- can transform to any other form
+- can transform to any other for
 - does whatever the fuck he likes, without worrying about consequences
 
 I'll dedicate a piece to my character
