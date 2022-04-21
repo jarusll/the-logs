@@ -7,6 +7,8 @@ layout: layouts/home.html
 
 My cousin's here, we played Minecraft. I recommended him Portal, my first pc game.
 
+I am not getting any pc time today, he's been playing Portal. I'll read.
+
 # 2022-04-20
 
 Whenever a merge error happens, my GitJournal breaks. It happened today and I couldn't write from phone.
