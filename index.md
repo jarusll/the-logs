@@ -9,7 +9,14 @@ My cousin's here, we played Minecraft. I recommended him Portal, my first pc gam
 
 I am not getting any pc time today, he's been playing Portal. I'll read.
 
+![Image](/images/406a765d5812d69a243823ee1933f172.jpg) 
+*Test subject recruited*
+
 I finished the Unit testing section. I can start tdd.
+
+I started reading TDD by Example by Kent Beck. I am going to setup my TDD repo and fuck around some test cases.
+
+Good day, night.
 
 # 2022-04-20
 
