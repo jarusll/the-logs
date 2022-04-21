@@ -16,6 +16,8 @@ I finished the Unit testing section. I can start tdd.
 
 I started reading TDD by Example by Kent Beck. I am going to setup my TDD repo and fuck around some test cases.
 
+From what I've read about Gnomes, it suits my character. But I'll look for other races as well, I don't care how niche it gets. I am pretty sure about class, Druid.
+
 Good day, night.
 
 # 2022-04-20
