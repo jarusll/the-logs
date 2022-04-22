@@ -10,6 +10,8 @@ Coming monday Leetcode grind starts. I will fuck around my personal things until
 
 I realised the testing things pretty easy if you are good at design, which smalltalk taught me. 
 
+Also [Dr. Ziltch](https://open.spotify.com/track/04RO1gAZbF34O2gv0Oak5U?si=lfdELlM0SgCfXZbESUv8Aw) slaps
+
 # 2022-04-21
 
 My cousin's here, we played Minecraft. I recommended him Portal, my first pc game.
