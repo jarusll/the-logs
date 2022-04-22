@@ -6,7 +6,9 @@ layout: layouts/home.html
 # 2022-04-22
 I started with the TDD practice. I will finish the first exercise.
 
-Coming monday Leetcode grind starts.
+Coming monday Leetcode grind starts. I will fuck around my personal things until this weekend, from monday strict DSA.
+
+I realised the testing things pretty easy if you are good at design, which smalltalk taught me. 
 
 # 2022-04-21
 
