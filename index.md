@@ -6,6 +6,8 @@ layout: layouts/home.html
 # 2022-04-22
 I started with the TDD practice. I will finish the first exercise.
 
+Coming monday Leetcode grind starts.
+
 # 2022-04-21
 
 My cousin's here, we played Minecraft. I recommended him Portal, my first pc game.
