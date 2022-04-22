@@ -10,6 +10,8 @@ Coming monday Leetcode grind starts. I will fuck around my personal things until
 
 I realised the testing things pretty easy if you are good at design, which smalltalk taught me. 
 
+I have been trying out the tdd in Javascript which doesn't really have good OOP support, It lacks some fundamentals. I am looking into Java, Java By Comparision - Pragmatic Bookshelf
+
 Also [Dr. Ziltch](https://open.spotify.com/track/04RO1gAZbF34O2gv0Oak5U?si=lfdELlM0SgCfXZbESUv8Aw) slaps
 
 # 2022-04-21
