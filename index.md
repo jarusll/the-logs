@@ -16,6 +16,8 @@ I have been trying out the tdd in Javascript which doesn't really have good OOP 
 
 Everything is just smalltalk & lisp. I don't need to learn the langauge, I just need to know its workflow, eg compilation, namespaces.
 
+I'll look into Competetive programming books now. I'll setup the tdd setup with java tomorrow.
+
 # 2022-04-21
 
 My cousin's here, we played Minecraft. I recommended him Portal, my first pc game.
