@@ -20,6 +20,10 @@ I'll look into Competetive programming books now. I'll setup the tdd setup with 
 
 Came across yasnippets, I'll use and abuse it.
 
+I'll get comfortable with Java tomorrow and start with some leetcode easy problems
+
+Good day, night
+
 # 2022-04-21
 
 My cousin's here, we played Minecraft. I recommended him Portal, my first pc game.
