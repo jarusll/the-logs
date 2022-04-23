@@ -7,6 +7,8 @@ layout: layouts/home.html
 
 The amount of boilerplate in java is bonkers. I am ditching it. I'll use smalltalk.
 
+Helped Xeon with his project, and the issue was Java's build system. I don't know why it has to be so complex.
+
 I slept today. Tomorrow's my day off as well. Only reading.
 
 Night
