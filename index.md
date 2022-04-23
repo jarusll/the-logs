@@ -11,6 +11,8 @@ Helped Xeon with his project, and the issue was Java's build system. I don't kno
 
 I slept today. Tomorrow's my day off as well. Only reading.
 
+[Your love is my drug](https://youtu.be/nWKPYs54INA)
+
 Night
 
 # 2022-04-22
