@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-23
+
+The amount of boilerplate in java is bonkers. I am ditching it. I'll use smalltalk.
+
 # 2022-04-22
 I started with the TDD practice. I will finish the first exercise.
 
