@@ -3,6 +3,11 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-24
+
+Tried out some easy leetcode problems and I really need to catchup. 
+I solved with python because it was the quickest to setup with tdd. I'll move on to cpp.
+
 # 2022-04-23
 
 The amount of boilerplate in java is bonkers. I am ditching it. I'll use smalltalk.
