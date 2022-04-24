@@ -11,6 +11,9 @@ I solved with python because it was the quickest to setup with tdd. I'll move on
 Spent some time looking into autotools. 
 I wrote an emacs babel function for evaluating python functions in org-mode.
 
+I don't like language quirks. I want determinism. I don't want to spend an hour on abs function which gives segmentation fault.
+I might have to try out rust or typescript.
+
 Good day, Grind starts tomorrow.
 
 # 2022-04-23
