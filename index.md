@@ -3,6 +3,8 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-25
+
 # 2022-04-24
 
 Tried out some easy leetcode problems and I really need to catchup. 
@@ -622,8 +624,6 @@ https://game.postdoesnotexist.com/ - Good game
 
 I was thinking about making a `shorts` section on my site. There are things which shouldn't go in my diary but shorts.
 
-Charu cute.
-
 Tomorrow I will be working on shorts section. I was also planning on doing screencasts. Maybe I can combine both of these in one section. They will be fragments of cool things which don't belong in my diary.
 
 Night friend.
@@ -635,8 +635,6 @@ Night friend.
 - [ ] draw portal companion cube
 
 Have been looking into guix, this is definitely something I'll look into someday.
-
-I want someone cute, I want to read, write and fuck around computers.
 
 I feel like I have familiarized myself with emacs well to move around quick enough. Next plan would be to setting custom keybinds.
 
@@ -784,7 +782,6 @@ Like LoL characters, but the game feels like a mobile game. Might give it one mo
 - [x] think about artworks integration 
 - [ ] plan for destiny thing with Wolfie
 
-Played roblox with Joles, it went... okay.
 Man i love playing Oracle
 
 I have my `posts` repo as gitsubmodule in `portfolio` repo and whenever I make a change in posts, I have to commit it twice, once in `post` & once in `portfolio`.
