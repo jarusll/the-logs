@@ -5,6 +5,9 @@ layout: layouts/home.html
 
 # 2022-04-25
 
+I solved one more problem today. I'll ramp up as I go.
+I am solving rustlings, will make rust my competetive programming language.
+
 # 2022-04-24
 
 Tried out some easy leetcode problems and I really need to catchup. 
