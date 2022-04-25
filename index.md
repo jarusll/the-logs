@@ -10,6 +10,8 @@ I am solving rustlings, will make rust my competetive programming language.
 
 I have integrated asserts in my programming, poor mans tdd. I like it.
 
+Speed is not my priority when it comes to problem solving, readability is.
+
 # 2022-04-24
 
 Tried out some easy leetcode problems and I really need to catchup. 
