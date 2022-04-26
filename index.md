@@ -14,6 +14,8 @@ Elegant code > everything.
 I could only solve 1 problem today. While taking things slow is good but the languages feel inadequate. They don't support the verbs I want to work it. Something as simple as position-if function. I want these high order functions at my disposal.
 I might have to build my own library. 
 
+Night
+
 # 2022-04-25
 
 I solved one more problem today. I'll ramp up as I go.
