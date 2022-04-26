@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-26
+
+I have to fight the compiler alot with Rust.
+
 # 2022-04-25
 
 I solved one more problem today. I'll ramp up as I go.
