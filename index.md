@@ -7,6 +7,8 @@ layout: layouts/home.html
 
 I have to fight the compiler alot with Rust.
 
+Nope, rust is def not suitable for competitive programming for me.
+
 # 2022-04-25
 
 I solved one more problem today. I'll ramp up as I go.
