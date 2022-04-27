@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-27
+
+If it compiles, it works. Am I right? - *Some rust programmer*
+
 # 2022-04-26
 
 I have to fight the compiler alot with Rust.
