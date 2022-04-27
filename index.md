@@ -7,6 +7,8 @@ layout: layouts/home.html
 
 If it compiles, it works. Am I right? - *Some rust programmer*
 
+![Image](/images/2f34c02994684b2cc351b079904cf163.jpg) 
+
 # 2022-04-26
 
 I have to fight the compiler alot with Rust.
