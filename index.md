@@ -11,6 +11,10 @@ If it compiles, it works. Am I right? - *Some rust programmer*
 
 Leetcode is tough. I might have to take it at this pace, slow.
 
+Solved 2 problems today. Good day.
+
+Night
+
 # 2022-04-26
 
 I have to fight the compiler alot with Rust.
