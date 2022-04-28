@@ -11,7 +11,9 @@ Been a while since I played dota. Imma play some today.
 
 I am going to deep dry clean my keyboard today.
 
-Github copilot is a boon. I like pure functions & it just gives me exactly what I ask for.
+Solved 5 problems in total today. I am picking up basics of algo analysis.
+
+Good day, Night
 
 # 2022-04-27
 
