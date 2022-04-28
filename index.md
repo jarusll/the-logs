@@ -11,6 +11,8 @@ Been a while since I played dota. Imma play some today.
 
 I am going to deep dry clean my keyboard today.
 
+Github copilot is a boon. I like pure functions & it just gives me exactly what I ask for.
+
 # 2022-04-27
 
 If it compiles, it works. Am I right? - *Some rust programmer*
