@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-28
+
+Solved 3 problems so far. Good start for the day.
+
 # 2022-04-27
 
 If it compiles, it works. Am I right? - *Some rust programmer*
