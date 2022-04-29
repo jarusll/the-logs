@@ -13,6 +13,10 @@ I like memoization.
 
 I saw The Mitchell's vs. The Machines, like the artstyle.
 
+Solved some problems with Jun. Tried out other domains as well.
+
+Good day
+
 # 2022-04-28
 
 Solved 3 problems so far. Good start for the day.
