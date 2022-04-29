@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-04-29
+
+Solved 2 problems in morning. 
+Something's wrong with leetcode. The submit test cases flag error but when I check on local, it gives me correct answer.
+To verify it I ran the failing test case in leetcode's test cases and it gave correct answer but submission is flagging wrong answer.
+
+I like memoization.
+
 # 2022-04-28
 
 Solved 3 problems so far. Good start for the day.
