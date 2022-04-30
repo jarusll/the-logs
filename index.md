@@ -10,6 +10,8 @@ I am very comfortable with Binary search now.
 I will be doing BSTs and Linked lists tomorrow.
 I am going to treat myself with icecream.
 
+Leetcode still did that thing of passing Wrong Answer verdict for a working solution. I do not know what the issue is and I cannot do anything about it.
+
 # 2022-04-29
 
 Solved 2 problems in morning. 
