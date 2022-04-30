@@ -6,7 +6,7 @@ layout: layouts/home.html
 # 2022-04-30
 
 Solved some Binary search & Linked List problems. The 14 day plan of Leetcode is locked, I can't access all of them at once.
-I am very comfortable with Binary search trees now. 
+I am very comfortable with Binary search now. 
 I will be doing BSTs and Linked lists tomorrow.
 I am going to treat myself with icecream.
 
