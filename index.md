@@ -12,6 +12,12 @@ I am going to treat myself with icecream.
 
 Leetcode still did that thing of passing Wrong Answer verdict for a working solution. I do not know what the issue is and I cannot do anything about it.
 
+Solved some more of linked list. I missed recursion. Its back.
+
+I feel I am ramping up with my problem solving skills. I don't wanna lose this momentum. Its been a while since I had this rush of problem solving. I want to continue doing this consistently.
+
+Good day, Night
+
 # 2022-04-29
 
 Solved 2 problems in morning. 
