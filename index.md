@@ -10,6 +10,11 @@ Plan is to solve BST & Linked Lists today and look into bit masking.
 ![Image](/images/0a9b90f2a33b3be82eb38a49e7a356f8.jpg) 
 I'll be bald this whole summer, probably.
 
+I conducted a survey with a sample size of 2, including me if the 1/6th sliced sandwich is too big and the results are
+- Yes - 100
+- No - 0
+We really need to rethink about sandwich slicing.
+
 # 2022-04-30
 
 Solved some Binary search & Linked List problems. The 14 day plan of Leetcode is locked, I can't access all of them at once.
