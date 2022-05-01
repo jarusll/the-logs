@@ -15,6 +15,10 @@ I conducted a survey with a sample size of 2, including me if the 1/6th sliced s
 - No - 0
 We really need to rethink about sandwich slicing.
 
+Dint really solve any today.
+
+Night
+
 # 2022-04-30
 
 Solved some Binary search & Linked List problems. The 14 day plan of Leetcode is locked, I can't access all of them at once.
