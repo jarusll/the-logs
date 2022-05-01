@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-01
+
+Plan is to solve BST & Linked Lists today and look into bit masking.
+
 # 2022-04-30
 
 Solved some Binary search & Linked List problems. The 14 day plan of Leetcode is locked, I can't access all of them at once.
