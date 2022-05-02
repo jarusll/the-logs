@@ -3,6 +3,13 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-02
+
+Solved a linked list problem with 2 pointers. I am better off solving medium problems now.
+
+![Image](/images/567adb1b5ddccd84b7228fa87394cd61.jpg)  
+I should've bought her home but her siblings were around.
+
 # 2022-05-01
 
 Plan is to solve BST & Linked Lists today and look into bit masking.
