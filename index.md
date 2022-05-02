@@ -10,6 +10,10 @@ Solved a linked list problem with 2 pointers. I am better off solving medium pro
 ![Image](/images/567adb1b5ddccd84b7228fa87394cd61.jpg)  
 I should've bought her home but her siblings were around.
 
+One of the downsides of recursion is the hard limit langauges have for recursive calls. Even if it's tail recursion.
+
+Good day, Night
+
 # 2022-05-01
 
 Plan is to solve BST & Linked Lists today and look into bit masking.
