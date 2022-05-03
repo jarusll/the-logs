@@ -3,6 +3,9 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-03
+Solved a sliding hash problem
+
 # 2022-05-02
 
 Solved a linked list problem with 2 pointers. I am better off solving medium problems now.
