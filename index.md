@@ -4,7 +4,10 @@ layout: layouts/home.html
 ---
 
 # 2022-05-03
-Solved a sliding hash problem
+Solved a sliding hash problem.
+Solved 2 more medium recursion problems.
+
+I have decided to publish my leetcode solutions in fragments. I'll do that from tomorrow.
 
 # 2022-05-02
 
