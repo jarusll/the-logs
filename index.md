@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-04
+Feel pretty comfortable with Linked lists & Doubly linked lists.
+Recursion still seems to have downside with function call overhead. But I still prefer it over iterative solutions.
+
+I have decided to publish the solutions as literate programming, using emacs `org-mode`
+
 # 2022-05-03
 Solved a sliding hash problem.
 Solved 2 more medium recursion problems.
