@@ -9,6 +9,8 @@ Recursion still seems to have downside with function call overhead. But I still 
 
 I have decided to publish the solutions as literate programming, using emacs `org-mode`
 
+I'll be getting better at `org-mode` for the coming week.
+
 # 2022-05-03
 Solved a sliding hash problem.
 Solved 2 more medium recursion problems.
