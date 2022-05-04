@@ -11,6 +11,10 @@ I have decided to publish the solutions as literate programming, using emacs `or
 
 I'll be getting better at `org-mode` for the coming week.
 
+Solved some more linked list & doubly linked list problems. Came across counting sort.
+
+Tomorrow's plan is to solve some easy->medium dynamic programming problems.
+
 # 2022-05-03
 Solved a sliding hash problem.
 Solved 2 more medium recursion problems.
