@@ -6,12 +6,11 @@ layout: layouts/home.html
 # 2022-05-05
 
 Dynamic programming & org-mode it is today.
-
 I haven't setup emacs as proper ide so I've been using vscode for leetcode.
-
 It happened again, Leetcode passed Wrong answer verdict for a working solution. This has happened multiple time and its frustrating.
-
 I'll be moving towards cpp for problem solving
+
+I have familiarized myself with debugging and now I can't live without it.
 
 # 2022-05-04
 Feel pretty comfortable with Linked lists & Doubly linked lists.
