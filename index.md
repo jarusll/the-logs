@@ -11,6 +11,8 @@ I haven't setup emacs as proper ide so I've been using vscode for leetcode.
 
 It happened again, Leetcode passed Wrong answer verdict for a working solution. This has happened multiple time and its frustrating.
 
+I'll be moving towards cpp for program solving
+
 # 2022-05-04
 Feel pretty comfortable with Linked lists & Doubly linked lists.
 Recursion still seems to have downside with function call overhead. But I still prefer it over iterative solutions.
