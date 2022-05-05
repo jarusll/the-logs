@@ -6,12 +6,11 @@ layout: layouts/home.html
 # 2022-05-05
 
 Dynamic programming & org-mode it is today.
-
 I haven't setup emacs as proper ide so I've been using vscode for leetcode.
-
 It happened again, Leetcode passed Wrong answer verdict for a working solution. This has happened multiple time and its frustrating.
+I'll be moving towards cpp for problem solving
 
-I'll be moving towards cpp for program solving
+I have familiarized myself with debugging and now I can't live without it.
 
 ![Image](/images/85f74287984d72c156b421909461417b.jpg) 
 
@@ -40,10 +39,15 @@ Solved a linked list problem with 2 pointers. I am better off solving medium pro
 ![Image](/images/567adb1b5ddccd84b7228fa87394cd61.jpg)  
 I should've bought her home but her siblings were around.
 
+<<<<<<< HEAD
+One of the downsides of recursion is maybe the languages have hard limit on recursive calls. So even if my solution is correct, it will flag "Maximum recursive depth exceeded". Even if its tail call recursion.
+
+=======
 One of the downsides of recursion is the hard limit langauges have for recursive calls. Even if it's tail recursion.
 
 Good day, Night
 
+>>>>>>> d5d9e86a1b79468e29a64610f4cdeb0b948b422b
 # 2022-05-01
 
 Plan is to solve BST & Linked Lists today and look into bit masking.
