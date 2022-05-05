@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-05
+
+Dynamic programming & org-mode it is today.
+
+I haven't setup emacs as proper ide so I've been using vscode for leetcode.
+
+It happened again, Leetcode passed Wrong answer verdict for a working solution. This has happened multiple time and its frustrating.
+
 # 2022-05-04
 Feel pretty comfortable with Linked lists & Doubly linked lists.
 Recursion still seems to have downside with function call overhead. But I still prefer it over iterative solutions.
