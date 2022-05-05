@@ -17,6 +17,10 @@ I have familiarized myself with debugging and now I can't live without it. Right
 
 ![Image](/images/85f74287984d72c156b421909461417b.jpg) 
 
+I need to figure out the layout I'll be using for literate programming.
+
+Good day, Night
+
 # 2022-05-04
 Feel pretty comfortable with Linked lists & Doubly linked lists.
 Recursion still seems to have downside with function call overhead. But I still prefer it over iterative solutions.
