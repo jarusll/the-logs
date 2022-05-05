@@ -13,6 +13,8 @@ It happened again, Leetcode passed Wrong answer verdict for a working solution. 
 
 I'll be moving towards cpp for program solving
 
+![Image](/images/85f74287984d72c156b421909461417b.jpg) 
+
 # 2022-05-04
 Feel pretty comfortable with Linked lists & Doubly linked lists.
 Recursion still seems to have downside with function call overhead. But I still prefer it over iterative solutions.
