@@ -7,6 +7,8 @@ layout: layouts/home.html
 
 I am just spamming recursion with memoization and I am loving it.
 
+I got TLE(Time Limit Extended) on 2 medium Dynamic programming problems today. Need to think about optimization.
+
 # 2022-05-05
 
 Dynamic programming & org-mode it is today.
