@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-06
+
+I am just spamming recursion with memoization and I am loving it.
+
 # 2022-05-05
 
 Dynamic programming & org-mode it is today.
