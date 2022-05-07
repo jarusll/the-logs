@@ -3,6 +3,11 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-07
+Org-mode is very good. Good as in it can take over my life for documentation, programming and note taking.
+
+I'll be moving towards org mode slowly.
+
 # 2022-05-06
 
 I am just spamming recursion with memoization and I am loving it.
