@@ -8,6 +8,12 @@ Org-mode is very good. Good as in it can take over my life for documentation, pr
 
 I'll be moving towards org mode slowly.
 
+Maybe in an year I can get really efficient with org-mode and migrate my site to it.
+
+I wrote a literal program in org-mode today. I still need to figure out how to integrate it on my site because my site uses markdown. There are some issues which need to be fixed for markdown export from org-mode.
+
+Good day, night.
+
 # 2022-05-06
 
 I am just spamming recursion with memoization and I am loving it.
