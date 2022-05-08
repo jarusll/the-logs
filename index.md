@@ -14,6 +14,8 @@ Nixos would be an overkill for me. Another alternative for me would be managing 
 
 I am diving deeper in literate programming. I came across Leo editor today and I'll check it out tomorrow
 
+I am absolutely fancied by literate programming.
+
 Good day, night
 
 # 2022-05-07
