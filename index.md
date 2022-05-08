@@ -8,6 +8,8 @@ I came across noweb for org-mode and I have fallen in love with it. It allows me
 
 The other problem, more of an inconvenience is lack of support for org-mode for 11ty framework. I am looking into exporting my site to org-mode.
 
+When I seperate the code in chunks and prepend the required code for evaluation, the prepended code also shows up in export. The prepended code is duplicated so it shows up twice. Using the `:noweb strip-export` flag fixes it. This is turning out to be real good.
+
 # 2022-05-07
 Org-mode is very good. Good as in it can take over my life for documentation, programming and note taking.
 
