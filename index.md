@@ -3,6 +3,11 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-08
+I came across noweb for org-mode and I have fallen in love with it. It allows me to write seperate chunks of code and include in other chunks. I can start writing literate programs now. 
+
+The other problem, more of an inconvenience is lack of support for org-mode for 11ty framework. I am looking into exporting my site to org-mode.
+
 # 2022-05-07
 Org-mode is very good. Good as in it can take over my life for documentation, programming and note taking.
 
