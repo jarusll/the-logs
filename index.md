@@ -10,7 +10,7 @@ I'll be moving towards org mode slowly.
 
 Maybe in an year I can get really efficient with org-mode and migrate my site to it.
 
-I wrote a literal program in org-mode today. I still need to figure out how to integrate it on my site because my site uses markdown. There are some issues which need to be fixed for markdown export from org-mode.
+I wrote a literal program in org-mode today. I still need to figure out how to integrate it on my site because it uses markdown. There are some issues which need to be fixed for markdown export from org-mode.
 
 Good day, night.
 
