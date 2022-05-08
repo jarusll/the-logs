@@ -12,6 +12,10 @@ When I seperate the code in chunks and prepend the required code for evaluation,
 
 Nixos would be an overkill for me. Another alternative for me would be managing dotfiles using GNU Stow and flatpak everything (I don't know if it's possible).
 
+I am diving deeper in literate programming. I came across Leo editor today and I'll check it out tomorrow
+
+Good day, night
+
 # 2022-05-07
 Org-mode is very good. Good as in it can take over my life for documentation, programming and note taking.
 
