@@ -3,6 +3,16 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-10
+
+Started with a devops challenge, I am using literate programming for it and I am absolutely loving it. I am going in blind. Lets see if I can do this.
+
+# 2022-05-09
+
+Looked into noweb.
+
+Occupied with personal stuff.
+
 # 2022-05-08
 I came across noweb for org-mode and I have fallen in love with it. It allows me to write seperate chunks of code and include in other chunks. I can start writing literate programs now. 
 
