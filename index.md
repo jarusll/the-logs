@@ -3,6 +3,12 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-11
+
+Couldn't use my pc or wifi for 24 hours because the socket broke down.
+
+Worked on the devops problem. Should be done by tomorrow.
+
 # 2022-05-10
 
 Started with a devops challenge, I am using literate programming for it and I am absolutely loving it. I am going in blind. Lets see if I can do this.
