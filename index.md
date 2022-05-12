@@ -8,7 +8,9 @@ layout: layouts/home.html
 I made a small mistake of using JSON as storage, should've gone with sqlite. I can't serialize python datetime into jsonvalue.
 I have to look into it. 
 
-Second, this is the first time I am using org-mode & literate programming for my development. I am still figuring out optimal ways to use it. I run snippets as well so the dev is iterative. I write a main program with the logical chunks-tags and then write those chunk tags in another block. But I want to test the chunk as well, so I write another block to test that code. If there are dependencies for a chunk, the get expanded as well so code is duplicated in the source file. I need to come up with a better solution for this so I can write my program as chunks but, test them and the resulting source has no duplication.
+Second, this is the first time I am using org-mode & literate programming for my development. I am still figuring out optimal ways to use it. I run snippets as well so the dev is iterative. I write a main program with the logical chunks-tags and then write those chunk tags in another block. But I want to test the chunk as well, so I write another block to test that code. If there are dependencies for a chunk, the get expanded as well so code is duplicated in the source file. I need to come up with a better solution for this so I can write my program as chunks, test them and the resulting source has no duplication.
+
+All of this because I want to organize my program like a blog and instant feedback.
 
 # 2022-05-11
 
