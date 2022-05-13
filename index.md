@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-13
+
+I wasn't able to complete the challenge but on the upside I can write programs literate style now.
+
+![Image](/images/d312a0c721255e43827d273349806bcf.jpg) 
+
+![Image](/images/42a5a9804d0033e4ef3586135fd2d355.jpg) 
+
 # 2022-05-12
 
 I made a small mistake of using JSON as storage, should've gone with sqlite. I can't serialize python datetime into jsonvalue.
