@@ -9,6 +9,15 @@ Plan is to dockerize a fullstack sample app.
 This evil & emacs combo is working very good. I don't want to switch my workflow to evil fully. I just want vim's powerful motions.
 For the rest, emacs will do.
 
+Integrating the backend is remaining in frontend.
+Barebones backend is up.
+DB needs to be implemented.
+The whole thing is dockerized.
+
+I tweaked which-key for faster response time. I still need a way to make which-key overlay on all the time. I'll be looking into it soon.
+
+Good day, Night.
+
 # 2022-05-14
 
 I switched to `evil-mode`. The plan is to use evil-mode for editable buffers & emacs for read-only buffers.
