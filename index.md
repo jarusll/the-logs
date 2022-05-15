@@ -3,6 +3,18 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-15
+
+Plan is to dockerize a fullstack sample app.
+This evil & emacs combo is working very good. I don't want to switch my workflow to evil fully. I just want vim's powerful motions.
+For the rest, emacs will do.
+
+# 2022-05-14
+
+I switched to `evil-mode`. The plan is to use evil-mode for editable buffers & emacs for read-only buffers.
+
+I had my personal day. 
+
 # 2022-05-13
 
 I wasn't able to complete the challenge but on the upside I can write programs literate style now.
