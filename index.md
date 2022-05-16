@@ -7,6 +7,8 @@ layout: layouts/home.html
 
 I'll be messing around with Databases & its design for a while.
 
+I am a beginner with database modelling. I could really improve there. I have decided to master psql and redis for now.
+
 # 2022-05-15
 
 Plan is to dockerize a fullstack sample app.
