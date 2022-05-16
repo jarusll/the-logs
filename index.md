@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-16
+
+I'll be messing around with Databases & its design for a while.
+
 # 2022-05-15
 
 Plan is to dockerize a fullstack sample app.
