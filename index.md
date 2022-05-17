@@ -3,6 +3,16 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-17
+
+Finally was able to get Prisma working in docker.
+
+And after that I wasn't able to access the db instance from internal network. Turns out I was trying to access on external port. This was the first time I am trying to setup a full stack app. 
+
+Tomorrow I should be able to be done with bulk of the problem. And then only finishing touches.
+
+Good day, night
+
 # 2022-05-16
 
 I'll be messing around with Databases & its design for a while.
