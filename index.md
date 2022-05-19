@@ -7,7 +7,7 @@ layout: layouts/home.html
 
 The sample fullstack app is ready.
 
-I had the whole thing up & running on localhost & I thought about trying it on my phone and oops, it doens't run since localhost no longer points to my pc running the backend. Hopefully, the people from docker discord server helped me out and I learnt that its out of scope of my task.
+I had the whole thing up & running on localhost & I thought about trying it on my phone and oops, it doesn't run since localhost no longer points to my pc running the backend. Hopefully, the people from docker discord server helped me out and I learnt that its out of scope of my task.
 
 Random people from discord are way helpful than any person I've met. You post one issue and two of them spam you with solutions and encourage you to ask more questions. Nice people.
 Here's the server [Docker Discord server](https://discord.gg/XwvrsZ6r)
