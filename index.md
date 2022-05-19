@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-19
+
+I'll be reading about horizontal scaling today. System design is my new obsession.
+
 # 2022-05-18
 
 The sample fullstack app is ready.
@@ -92,8 +96,6 @@ When I seperate the code in chunks and prepend the required code for evaluation,
 Nixos would be an overkill for me. Another alternative for me would be managing dotfiles using GNU Stow and flatpak everything (I don't know if it's possible).
 
 I am diving deeper in literate programming. I came across Leo editor today and I'll check it out tomorrow
-
-I am absolutely fancied by literate programming.
 
 Good day, night
 
