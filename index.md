@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-20
+
+Personal day today.
+
+Took a online assessment test. Pretty good in frontend.  Average in backend. The backend assessment had alot of cryptographic security questions. 
+
+Tomorrow, I'll start publishing org-mode. The plan is to get the system ASAP and then I can port my site slowly.
+
 # 2022-05-19
 
 I'll be reading about horizontal scaling today. System design is my new obsession.
