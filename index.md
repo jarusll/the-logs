@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-21
+
+Migrated to use-package in emacs & started using mnemonics for keybinds like spacemacs.
+
 # 2022-05-20
 
 Personal day today.
