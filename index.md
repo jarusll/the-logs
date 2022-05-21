@@ -7,6 +7,10 @@ layout: layouts/home.html
 
 Migrated to use-package in emacs & started using mnemonics for keybinds like spacemacs.
 
+Base system for org site is up. I'll port my site over the coming days.
+
+Good day, night
+
 # 2022-05-20
 
 Personal day today.
