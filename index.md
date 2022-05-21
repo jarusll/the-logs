@@ -9,7 +9,7 @@ Personal day today.
 
 Took a online assessment test. Pretty good in frontend.  Average in backend. The backend assessment had alot of cryptographic security questions. 
 
-Tomorrow, I'll start publishing org-mode. The plan is to get the system ASAP and then I can port my site slowly.
+Tomorrow, I'll start publishing org-mode. The plan is to get the system up ASAP and then I can port my site slowly.
 
 # 2022-05-19
 
