@@ -11,6 +11,9 @@ I played Transistor today. Its aesthetic. The art style and the little touches l
 
 Today's plan is to solve some leetcode problems. 
 
+`It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.` 
+- *Nathaniel Borenstein, 1992*
+
 # 2022-05-21
 
 Migrated to use-package in emacs & started using mnemonics for keybinds like spacemacs.
