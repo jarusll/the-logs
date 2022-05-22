@@ -3,6 +3,14 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-22
+
+I binged Love, Death & Robots last night.
+
+I played Transistor today. Its aesthetic. The art style and the little touches like the humming and the songs, this definitely makes in my top 10 list.
+
+Today's plan is to solve some leetcode problems. 
+
 # 2022-05-21
 
 Migrated to use-package in emacs & started using mnemonics for keybinds like spacemacs.
