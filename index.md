@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-23
+
+Personal day. 
+
 # 2022-05-22
 
 I binged Love, Death & Robots last night.
