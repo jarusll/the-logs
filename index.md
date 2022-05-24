@@ -3,6 +3,18 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-24
+
+I started reading about Hadoop.
+I have been looking upto something. Fingers crossed.
+
+Good day.
+
+# 2022-05-23
+
+I got a feedback today.
+Personal day.
+
 # 2022-05-22
 
 I binged Love, Death & Robots last night.
