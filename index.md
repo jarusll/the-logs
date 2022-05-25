@@ -3,6 +3,18 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-25
+
+My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
+I came across Bionic reading today. Its my new obsession. I installed a chrome extension so its on every page. I converted all my ebooks to bionic & sent to kindle. Been a while since I was this excited about reading.
+
+# 2022-05-24
+
+I have been looking up to something.
+I read abit about Hadoop today. I am very interested in horizontal scaling these days.
+
+Good day
+
 # 2022-05-23
 
 Personal day. 
