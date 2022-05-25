@@ -8,6 +8,8 @@ layout: layouts/home.html
 My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
 I came across Bionic reading today. Its my new obsession. I installed a chrome extension so its on every page. I converted all my ebooks to bionic & sent to kindle. Been a while since I was this excited about reading.
 
+I increased my font size on every system and my readability increased alot.
+
 # 2022-05-24
 
 I have been looking up to something.
