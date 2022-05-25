@@ -10,6 +10,8 @@ I came across Bionic reading today. Its my new obsession. I installed a chrome e
 
 I increased my font size on every system and my readability increased alot.
 
+I have been thinking about hugo because of its native support for org files. Let me think about this.
+
 # 2022-05-24
 
 I have been looking up to something.
