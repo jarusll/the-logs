@@ -3,6 +3,16 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-26
+
+Spent the day migrating to hugo. Need to setup cicd. 
+Used [hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) 
+![Preview](https://github.com/nodejh/hugo-theme-mini)
+
+Once this is up, I can start writing with org-mode.
+
+Good day, night.
+
 # 2022-05-25
 
 My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
