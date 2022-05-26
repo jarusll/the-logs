@@ -16,6 +16,8 @@ Good day, night.
 Testing new site trigger from submodule update. 
 The new site didn't had the submodule push triggers. Added. Testing again.
 
+IT WORKS!!!!!!!! AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+
 # 2022-05-25
 
 My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
