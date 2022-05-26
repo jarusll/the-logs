@@ -18,6 +18,8 @@ The new site didn't had the submodule push triggers. Added. Testing again.
 
 IT WORKS!!!!!!!! AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
 
+Tomorrow, I'll fix the assets and it should be good to go.
+
 # 2022-05-25
 
 My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
