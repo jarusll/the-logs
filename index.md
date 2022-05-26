@@ -13,7 +13,8 @@ Once this is up, I can start writing with org-mode.
 
 Good day, night.
 
-Testing new site trigger from submodule update.
+Testing new site trigger from submodule update. 
+The new site didn't had the submodule push triggers. Added. Testing again.
 
 # 2022-05-25
 
