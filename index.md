@@ -13,6 +13,8 @@ Once this is up, I can start writing with org-mode.
 
 Good day, night.
 
+Testing new site trigger from submodule update.
+
 # 2022-05-25
 
 My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
