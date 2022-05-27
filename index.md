@@ -8,12 +8,14 @@ layout: layouts/home.html
 So much to work on today
 
 Todo
-- Remove word count and read time
-- Change footer
-- Increase font size
-- Copy assets to static script
-- Copy relevant files from theme and remove theme
-- Write in org mode
+- [ ] Remove word count and read time
+- [ ] Change footer
+- [ ] Increase font size
+- [ ] Copy assets to static script
+- [ ] Copy relevant files from theme and remove theme
+- [ ] Write in org mode
+
+Read about concurrency patterns. Concurrency is my new obsession. I'll mess around with go rountines.
 
 # 2022-05-26
 
