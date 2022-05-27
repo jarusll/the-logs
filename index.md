@@ -3,6 +3,18 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-27
+
+So much to work on today
+
+Todo
+- Remove word count and read time
+- Change footer
+- Increase font size
+- Copy assets to static script
+- Copy relevant files from theme and remove theme
+- Write in org mode
+
 # 2022-05-26
 
 Spent the day migrating to hugo. Need to setup cicd. 
