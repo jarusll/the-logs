@@ -8,20 +8,20 @@ layout: layouts/home.html
 So much to work on today
 
 Todo
-- [ ] Remove word count and read time
-- [ ] Change footer
-- [ ] Increase font size
+- [X] Remove word count and read time
+- [X] Change footer
+- [X] Increase font size
 - [ ] Copy assets to static script
-- [ ] Copy relevant files from theme and remove theme
+- [X] Copy relevant files from theme and remove theme
 - [ ] Write in org mode
 
-Read about concurrency patterns. Concurrency is my new obsession. I'll mess around with go rountines.
+Read about concurrency patterns. Concurrency is my new obsession. I'll mess around with go subroutines.
 
 # 2022-05-26
 
 Spent the day migrating to hugo. Need to setup cicd. 
 Used [hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) 
-![Preview](https://github.com/nodejh/hugo-theme-mini)
+![Preview](https://raw.githubusercontent.com/nodejh/hugo-theme-mini/master/images/screenshot.png)
 
 Once this is up, I can start writing with org-mode.
 
