@@ -11,11 +11,16 @@ Todo
 - [X] Remove word count and read time
 - [X] Change footer
 - [X] Increase font size
-- [ ] Copy assets to static script
+- [X] Copy assets to static script
 - [X] Copy relevant files from theme and remove theme
-- [ ] Write in org mode
 
 Read about concurrency patterns. Concurrency is my new obsession. I'll mess around with go subroutines.
+
+Setup tailscale today. I'll look into it more tomorrow.
+
+Tomorrows plan is to write some literate programs in org mode & read about concurrency.
+
+Good day, night.
 
 # 2022-05-26
 
