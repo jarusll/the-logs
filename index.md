@@ -11,7 +11,7 @@ I did it. My magnum opus till now. [Generating Permutations](https://surajyadav.
 Written & evaluated in `org-mode`. Socratic dialogue + first principles. I am very proud of myself.
 I will continue writing.
 
-I haven't been able to write because of distractions. I ordered a wireless keyboard. Its about time I go mobile.
+I haven't been able to write because of less desk time. I ordered a wireless keyboard. Its about time I go mobile.
 Its termux time.
 
 Good day, night.
