@@ -5,7 +5,16 @@ layout: layouts/home.html
 
 # 2022-05-28
 
-I am totally skipping over shared memory model in concurrency. Its too tedious and I'll never use it in IRL.
+I am totally skipping over shared memory model in concurrency. Its too tedious and I'll never use it IRL.
+
+I did it. My magnum opus till now. [Generating Permutations](https://surajyadav.xyz/fragments/generate-permutations/).
+Written & evaluated in `org-mode`. Socratic dialogue + first principles. I am very proud of myself.
+I will continue writing.
+
+I haven't been able to write because of distractions. I ordered a wireless keyboard. Its about time I go mobile.
+Its termux time.
+
+Good day, night.
 
 # 2022-05-27
 
