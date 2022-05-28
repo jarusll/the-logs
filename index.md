@@ -3,6 +3,10 @@ title: Diary
 layout: layouts/home.html
 ---
 
+# 2022-05-28
+
+I am totally skipping over shared memory model in concurrency. Its too tedious and I'll never use it in IRL.
+
 # 2022-05-27
 
 So much to work on today
