@@ -11,6 +11,8 @@ I feel like the code is redundant. Once idea has been passed, people can do it t
 
 I got the Oracle free forever VPS. I'll setup hosting my website on it. If everything goes well, I'll setup a git instance as well. All of this using tailscale.
 
+I don't see any point in having `fragments`. I'll merge it asap.
+
 # 2022-05-28
 
 I am totally skipping over shared memory model in concurrency. Its too tedious and I'll never use it IRL.
