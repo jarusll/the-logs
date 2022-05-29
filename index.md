@@ -1,12 +1,12 @@
 ---
 title: Diary
 layout: layouts/home.html
-date: 2022-03-24
+date: 2022-03-24T00:00:00+05:30
 ---
 
 # 2022-05-29
 
-I wrote a pieces today. One is half done.
+I wrote a piece today. One is half done.
 I feel like the code is redundant. Once idea has been passed, people can do it themselves. I'll soon move to psudocode
 
 I got the Oracle free forever VPS. I'll setup hosting my website on it. If everything goes well, I'll setup a git instance as well. All of this using tailscale.
