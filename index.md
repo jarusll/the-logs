@@ -18,7 +18,7 @@ I won't automate anything for now. Will run this scavenged setup for a while so 
 
 I learnt a lot today. Hosted my first site from scratch. Although `caddy` made alot of things easy, I will read about hosting for the coming days.
 
-This will be my playground. I'll go from this scavenged setup to production docker-compose with caddy or nginx. I am already 
+This will be my playground. I'll go from this scavenged setup to production docker-compose with caddy or nginx.
 
 # 2022-05-29
 
