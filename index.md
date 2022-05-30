@@ -12,9 +12,13 @@ Todays plan is to host the site on vps. The biggest letdown will be cicd. I have
 
 I have `next lexicographic permutation` in pipeline today.
 
-Brainfucked myself with firewall rules. For some reason 443 wasn't going through it. I switched to `ufw` and allowed all necessary ports and it worked. I can start migrating my site to vps.
+Brainfucked myself with firewall rules with `firewalld`. For some reason 443 wasn't going through it. I switched to `ufw` and allowed all necessary ports and it worked. I can start migrating my site to vps.
 
 I won't automate anything for now. Will run this scavenged setup for a while so I can appreciate abstractions.
+
+I learnt a lot today. Hosted my first site from scratch. Although `caddy` made alot of things easy, I will read about hosting for the coming days.
+
+This will be my playground. I'll go from this scavenged setup to production docker-compose with caddy or nginx. I am already 
 
 # 2022-05-29
 
