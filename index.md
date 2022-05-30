@@ -14,6 +14,8 @@ I have `next lexicographic permutation` in pipeline today.
 
 Brainfucked myself with firewall rules. For some reason 443 wasn't going through it. I switched to `ufw` and allowed all necessary ports and it worked. I can start migrating my site to vps.
 
+I won't automate anything for now. Will run this scavenged setup for a while so I can appreciate abstractions.
+
 # 2022-05-29
 
 I wrote a piece today. One is half done.
