@@ -10,6 +10,8 @@ Dark mode with invert hack integrated.
 Did some clean up as well. I need to do some more for mobile.
 Todays plan is to host the site on vps. The biggest letdown will be cicd. I have automated build triggers on submodule push. I don't know how I'll achieve that on vps.
 
+I have `next lexicographic permutation` in pipeline today.
+
 # 2022-05-29
 
 I wrote a piece today. One is half done.
