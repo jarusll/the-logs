@@ -12,6 +12,8 @@ Todays plan is to host the site on vps. The biggest letdown will be cicd. I have
 
 I have `next lexicographic permutation` in pipeline today.
 
+Brainfucked myself with firewall rules. For some reason 443 wasn't going through it. I switched to `ufw` and allowed all necessary ports and it worked. I can start migrating my site to vps.
+
 # 2022-05-29
 
 I wrote a piece today. One is half done.
