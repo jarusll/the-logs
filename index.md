@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-05-30
+
+Dark mode with invert hack integrated.
+Did some clean up as well. I need to do some more for mobile.
+Todays plan is to host the site on vps. The biggest letdown will be cicd. I have automated build triggers on submodule push. I don't know how I'll achieve that on vps.
+
 # 2022-05-29
 
 I wrote a piece today. One is half done.
