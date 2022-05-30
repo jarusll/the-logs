@@ -15,7 +15,7 @@ I don't see any point in having `fragments`. I'll merge it asap.
 
 I tried some Ruby today. Its the closest thing to smalltalk. It has definitely peaked my curiosity and I know I'll be solving Ruby koans soon.
 
-Recently Gopher came up in a conversation so I looked up other web protocols. I browsed gemini and gopher and I like the simplicity. I've always tried to go the other way. I don't need performance of fancy graphics. Thats why I use i3 and live in emacs. I'll look into porting my site to gemini and gopher. I'll be reading about them as well. 
+Recently Gopher came up in a conversation so I looked up other web protocols. I browsed gemini and gopher and I like the simplicity. I've always tried to go the other way. I don't need performance or fancy graphics. Thats why I use i3 and live in emacs. I'll look into porting my site to gemini and gopher. I'll be reading about them as well. 
 
 # 2022-05-28
 
