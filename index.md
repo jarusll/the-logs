@@ -8,6 +8,9 @@ date: 2022-03-24T00:00:00+05:30
 
 Just lost my changes by fucking around a detached head branch. 
 
+Your home made cicd, CRON.
+I could utilize github actions to build & push to vps but I won't because I will do things without automation for a week and automate incrementally.
+
 # 2022-05-30
 
 Dark mode with invert hack integrated.
