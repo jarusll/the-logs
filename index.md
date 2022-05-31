@@ -11,6 +11,8 @@ Just lost my changes by fucking around a detached head branch.
 Your home made cicd, CRON.
 I could utilize github actions to build & push to vps but I won't because I will do things without automation for a week and automate incrementally.
 
+Fixed nav background on mobile. The color glitch out on firefox because of vendor css props. I'll just use postcss to even everything out.
+
 # 2022-05-30
 
 Dark mode with invert hack integrated.
