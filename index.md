@@ -13,6 +13,11 @@ I could utilize github actions to build & push to vps but I won't because I will
 
 Fixed nav background on mobile. The color glitch out on firefox because of vendor css props. I'll just use postcss to even everything out.
 
+Wrote about Kadane's algorithm for linear time subarray sum. Looked at 
+Manacher's algorithm for longest palindrome.
+
+1 medium problem a day and a solution post is good enough. Tomorrow's plan is to integrate the artworks on site and cronify builds.
+
 # 2022-05-30
 
 Dark mode with invert hack integrated.
