@@ -18,6 +18,8 @@ Manacher's algorithm for longest palindrome.
 
 1 medium problem a day and a solution post is good enough. Tomorrow's plan is to integrate the artworks on site and cronify builds.
 
+I looked at prolog today along with 99 problems in prolog. Logic programming has very elegant solutions and I like it. 
+
 # 2022-05-30
 
 Dark mode with invert hack integrated.
