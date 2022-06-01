@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 Todays plan is to push the two post in pipeline and read about concurrency.
 
+Cronified builds.
+
 # 2022-05-31
 
 Just lost my changes by fucking around a detached head branch. 
