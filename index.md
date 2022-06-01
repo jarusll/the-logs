@@ -13,6 +13,10 @@ Cronified builds.
 ![Image](/images/f79daed00e572ea3ea066092cd5f878d.jpg) 
 *Low effort CyberDeck*
 
+Kadane's algorithm is out.
+
+Running full fat Emacs on termux was slow, so I am using it on the vps. How cool is that, my own lil codespace.
+
 # 2022-05-31
 
 Just lost my changes by fucking around a detached head branch. 
