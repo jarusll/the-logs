@@ -16,6 +16,9 @@ Cronified builds.
 Kadane's algorithm is out.
 
 Running full fat Emacs on termux was slow, so I am using it on the vps. How cool is that, my own lil codespace.
+I'll push Manacher's algorithm tomorrow.
+
+Read about the actor model in concurrency and it's my favourite concurrency model. I won't code anything concurrent until I have very good knowledge about it.
 
 # 2022-05-31
 
