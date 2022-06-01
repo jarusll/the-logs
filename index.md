@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-01
+
+Todays plan is to push the two post in pipeline and read about concurrency.
+
 # 2022-05-31
 
 Just lost my changes by fucking around a detached head branch. 
