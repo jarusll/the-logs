@@ -10,7 +10,7 @@ date: 2022-03-24T00:00:00+05:30
 
 Plan for today
 - [ ] Optimize site for mobile
-- [ ] Lookup basic seo files
+- [x] Lookup basic seo files
 - [x] Read mongodb manual
 
 RTFM has proved to be the best guide
