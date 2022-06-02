@@ -22,6 +22,8 @@ I think one of the reasons I do like distributed systems is the horizontal scali
 
 Writing about a solution helps me gain more clarity. Its like me directing the reader with the right questions at the right time to understand the solution.
 
+I need more clarity on Manacher's algorithm
+
 # 2022-06-01
 
 Todays plan is to push the two post in pipeline and read about concurrency.
