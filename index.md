@@ -4,6 +4,17 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-02
+
+0 config sftp is up. Although I don't have a use for now.
+
+Plan for today
+- [ ] Optimize site for mobile
+- [ ] Lookup basic seo files
+- [ ] Read mongodb manual
+
+RTFM has proved to be the best guide
+
 # 2022-06-01
 
 Todays plan is to push the two post in pipeline and read about concurrency.
