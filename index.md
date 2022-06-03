@@ -22,6 +22,8 @@ For the past few days my prototyping langauge has been Ruby. Even with 0 knowled
 
 I ll get comfortable with org roam
 
+Tomorrow's plan is to tinker around org roam and zoom through Ruby koans
+
 # 2022-06-02
 
 0 config sftp is up. Although I don't have a use for now.
