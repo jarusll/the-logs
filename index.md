@@ -13,6 +13,11 @@ Recently during our conversations, we came across [Zettelkasten](https://eugeney
 
 Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around alot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
 
+![Image](/images/1d911ae08bbc71bc60f71c388733d028.jpg) 
+*Stray release date announced*
+
+One of the games I am really excited for. I know I'll like it when it's produced by Annapurna Interactive
+
 # 2022-06-02
 
 0 config sftp is up. Although I don't have a use for now.
