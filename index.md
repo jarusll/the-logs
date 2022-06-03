@@ -29,7 +29,7 @@ I like distributed systems. I believe distributed programming & distributed stor
 
 I think one of the reasons I do like distributed systems is the horizontal scaling part. The fact that you can scale a system with relatively low powered hardware is cool.
 
-Writing about a solution helps me gain more clarity. Its like me directing the reader with the right questions at the right time to understand the solution.
+Writing about a solution helps me gain more clarity. Its me directing the reader with the right questions at the right time to understand the solution.
 
 I need more clarity on Manacher's algorithm
 
