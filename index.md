@@ -24,6 +24,8 @@ I ll get comfortable with org roam
 
 Tomorrow's plan is to tinker around org roam and zoom through Ruby koans
 
+![Image](/images/fa5711aacc7e9f5bb22a8f4c45d2f5fd.jpg) 
+
 # 2022-06-02
 
 0 config sftp is up. Although I don't have a use for now.
