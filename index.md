@@ -18,6 +18,8 @@ Now that I've been pretty acquainted with org-mode, I can start making notes. I 
 
 One of the games I am really excited for. I know I'll like it when it's produced by Annapurna Interactive
 
+For the past few days my prototyping langauge has been Ruby. Even with 0 knowledge I am able to prototype rapidly. Its about time I did Ruby koans.
+
 # 2022-06-02
 
 0 config sftp is up. Although I don't have a use for now.
