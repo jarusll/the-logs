@@ -20,6 +20,8 @@ One of the games I am really excited for. I know I'll like it when it's produced
 
 For the past few days my prototyping langauge has been Ruby. Even with 0 knowledge I am able to prototype rapidly. Its about time I did Ruby koans.
 
+I ll get comfortable with org roam
+
 # 2022-06-02
 
 0 config sftp is up. Although I don't have a use for now.
