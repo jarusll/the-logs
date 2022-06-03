@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-03
+
+Recently during our conversations, we came across [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/#what-is-a-zettelkasten) system.
+
+![Jun Zettelkasten setup](/images/jun_Z_setup.png)
+
+Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around alot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
+
 # 2022-06-02
 
 0 config sftp is up. Although I don't have a use for now.
