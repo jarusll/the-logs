@@ -7,6 +7,8 @@ date: 2022-03-24T00:00:00+05:30
 # 2022-06-04
 
 I need a refresher on redux. While I am at it, I'll write about rapid redux prototyping.
+Org mode turned out not to be so good with live programming.
+I installed & hosted jupyter notebook with javascript kernel. So far really good. I want live programming. Lets see how this goes.
 
 # 2022-06-03
 
