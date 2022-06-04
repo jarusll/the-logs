@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 I read about org roam today. 
 
+Started with Ruby koans. I can definitely see myself using it because it's objects all the way down
+
 I need a refresher on redux. While I am at it, I'll write about rapid redux prototyping.
 I can't do live programming with org mode.
 I installed & hosted jupyter notebook with javascript kernel. So far really good. I want live programming. Lets see how this goes.
