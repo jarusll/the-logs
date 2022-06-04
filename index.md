@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-04
+
+I need a refresher on redux. While I am at it, I'll write about rapid redux prototyping.
+
 # 2022-06-03
 
 Recently during our conversations, we came across [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/#what-is-a-zettelkasten) system.
@@ -20,7 +24,7 @@ One of the games I am really excited for. I know I'll like it when it's produced
 
 For the past few days my prototyping langauge has been Ruby. Even with 0 knowledge I am able to prototype rapidly. Its about time I did Ruby koans.
 
-I ll get comfortable with org roam
+I'll get comfortable with org roam
 
 Tomorrow's plan is to tinker around org roam and zoom through Ruby koans
 
