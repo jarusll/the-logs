@@ -6,9 +6,15 @@ date: 2022-03-24T00:00:00+05:30
 
 # 2022-06-04
 
+I read about org roam today. 
+
 I need a refresher on redux. While I am at it, I'll write about rapid redux prototyping.
-Org mode turned out not to be so good with live programming.
+I can't do live programming with org mode.
 I installed & hosted jupyter notebook with javascript kernel. So far really good. I want live programming. Lets see how this goes.
+
+I have been very rusty with redux So I looked at it today and setup the javascript jupyter notebook.
+
+I have so many ideas I can pair up with jupyter. The first is to get it running on my subdomain. I need to reverse proxy it. I'll debug it tomorrow.
 
 # 2022-06-03
 
