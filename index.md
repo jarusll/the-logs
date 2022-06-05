@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 Biggest oof of the day, I was trying to reverse proxy without registering the subdomain. Yayyy. In my defence this is my first reverse proxy setup and I barely know anything.
 
+Now I need to add jupyter as systemd service.
+
 # 2022-06-04
 
 I read about org roam today. 
