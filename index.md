@@ -10,6 +10,8 @@ Biggest oof of the day, I was trying to reverse proxy without registering the su
 
 Now I need to add jupyter as systemd service.
 
+Services felt like arcane magic for me until now. After getting to know about systemd, the big picture of Linux reveals itself. I believe that was one of biggest part which I dint know the inner workings of.
+
 # 2022-06-04
 
 I read about org roam today. 
