@@ -11,6 +11,7 @@ Biggest oof of the day, I was trying to reverse proxy without registering the su
 Now I need to add jupyter as systemd service.
 
 Services felt like arcane magic for me until now. After getting to know about systemd, the big picture of Linux reveals itself. I believe that was one of biggest part which I dint know the inner workings of.
+Added jupyter as systemd service.
 
 Jupyter has vim like keybinds, how cool is that?
 
