@@ -15,6 +15,9 @@ Added jupyter as systemd service.
 
 Jupyter has vim like keybinds, how cool is that?
 
+Dockerized the whole setup. And It'll serve my literate programming needs better than org mode. 
+The whole reason I dockerize something is reproduceability. 
+
 # 2022-06-04
 
 I read about org roam today. 
