@@ -16,7 +16,7 @@ Added jupyter as systemd service.
 Jupyter has vim like keybinds, how cool is that?
 
 Dockerized the whole setup. And It'll serve my literate programming needs better than org mode. 
-The whole reason I dockerize something is reproduceability. 
+The biggest reason I dockerize something is reproduceability. 
 
 ![Image](/images/cfd71781f957f8196f5113f35975e1e9.jpg)
 
