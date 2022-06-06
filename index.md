@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-06
+
+Just learnt about Jupyter lab and its way better than notebook. Dockerized & hosted Jupyter lab.
+Added vim extension on Jupyter lab.
+
 # 2022-06-05
 
 Biggest oof of the day, I was trying to reverse proxy without registering the subdomain. Yayyy. In my defence this is my first reverse proxy setup and I barely know anything.
