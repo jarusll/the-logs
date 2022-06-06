@@ -9,6 +9,14 @@ date: 2022-03-24T00:00:00+05:30
 Just learnt about Jupyter lab and its way better than notebook. Dockerized & hosted Jupyter lab.
 Added vim extension on Jupyter lab.
 
+This has to be the best dev environment, after smalltalk.
+
+Peak finding had peaked my curiosity and I will explore it tomorrow.
+
+One of the reasons I do write is to get upto speed asap. In this age I believe the best skill someone can have is the ability to learn quickly. Our brains are good at thinking not storing. Which reminds me I need to try org roam. One of the reason I haven't tried is it requires sqlite setup which means it might not work on multiple devices. I have to look into this before I commit.
+
+Good day, night
+
 # 2022-06-05
 
 Biggest oof of the day, I was trying to reverse proxy without registering the subdomain. Yayyy. In my defence this is my first reverse proxy setup and I barely know anything.
