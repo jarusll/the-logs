@@ -4,6 +4,22 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-07
+
+So I found out `Redux` has grown alot. `Redux toolkit` seems to eliminate alot of boilerplate. But I found this out after spending a day on Redux.
+
+Anyways I went through the docs and got upto speed. I pushed a redux primer along with jupyter notebook.
+Binder is a good way to share notebooks. I even installed the javascript kernel so anyone reading my notebook can interact with the code.
+Jupyter is one of the best environment.
+
+The whole reason I did this was because I had been out of touch with redux. Tomorrow I will rapidly prototype.
+
+I was busy with figuring out how to host it interactively. I tried alot of options including `Google collab` but `Binder` works best for me.
+
+There are quality small fragments I could write but it won't suit on the main page. Time to bring fragments back but not another repo. I'll keep it simple.
+
+Good day, night
+
 # 2022-06-06
 
 Just learnt about Jupyter lab and its way better than notebook. Dockerized & hosted Jupyter lab.
