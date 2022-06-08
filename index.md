@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-08
+
+I have developed critical thinking so I can tackle almost any new problem. I wish I could've done it sooner, only if i could visualize math better. 
+
+I will be binging through 6006 - Introduction to algorithms to fill the gap.
+
 # 2022-06-07
 
 So I found out `Redux` has grown alot. `Redux toolkit` seems to eliminate alot of boilerplate. But I found this out after spending a day on Redux.
