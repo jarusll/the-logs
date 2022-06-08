@@ -14,6 +14,11 @@ Slimmed down my docker image and installed ruby. Smalltalk would've been fun but
 
 Had a vps messup. Jupyter was dockerized but my site wasn't. Dockerized it and good to go.
 
+I think I went through deployment hell. Altho there were no consequences It ate up my time.
+I had planned to write about peak finding but oh well.
+
+Good day, night
+
 # 2022-06-07
 
 So I found out `Redux` has grown alot. `Redux toolkit` seems to eliminate alot of boilerplate. But I found this out after spending a day on Redux.
