@@ -10,6 +10,10 @@ I have developed critical thinking so I can tackle almost any new problem. I wis
 
 I will be binging through 6006 - Introduction to algorithms to fill the gap.
 
+Slimmed down my docker image and installed ruby. Smalltalk would've been fun but Ruby will work. I also need a functional language.
+
+Had a vps messup. Jupyter was dockerized but my site wasn't. Dockerized it and good to go.
+
 # 2022-06-07
 
 So I found out `Redux` has grown alot. `Redux toolkit` seems to eliminate alot of boilerplate. But I found this out after spending a day on Redux.
