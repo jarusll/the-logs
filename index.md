@@ -14,6 +14,9 @@ Slimmed down my docker image and installed ruby. Smalltalk would've been fun but
 
 Had a vps messup. Jupyter was dockerized but my site wasn't. Dockerized it and good to go.
 
+It was 2 things, first being `ufw` and second being caddy not serving static files.
+Replacing ufw with firewalld solved it and for the second, serving by Hugo and reverse proxying fixed it.
+
 I think I went through deployment hell. Altho there were no consequences It ate up my time.
 I had planned to write about peak finding but oh well.
 
