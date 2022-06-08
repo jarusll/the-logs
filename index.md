@@ -17,6 +17,8 @@ Had a vps messup. Jupyter was dockerized but my site wasn't. Dockerized it and g
 I think I went through deployment hell. Altho there were no consequences It ate up my time.
 I had planned to write about peak finding but oh well.
 
+MIT OCW is a gem. I remember watching those about 2 years back. I did not have the fundamentals clear so I could only understand parts of it which lead to demotivation. I can do it now. The plan is to go through 6006 and then 6046. If there are any advanced courses than 6046 for algorithms I will go through them as well.
+
 Good day, night
 
 # 2022-06-07
