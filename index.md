@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-09
+
+I started drinking milk again, thanks to chocolate syrups.
+
+Today's plan is to write about peak finding and setup wireguard on vps.
+
 # 2022-06-08
 
 I have developed critical thinking so I can tackle almost any new problem. I wish I could've done it sooner, only if i could visualize math better. 
