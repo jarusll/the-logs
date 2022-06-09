@@ -12,6 +12,12 @@ Today's plan is to write about peak finding and setup wireguard on vps.
 
 1D Peak finding - check.
 
+It'll take some time to setup wireguard.
+
+Tomorrow it's 2D peak finding.
+
+Night
+
 # 2022-06-08
 
 I have developed critical thinking so I can tackle almost any new problem. I wish I could've done it sooner, only if i could visualize math better. 
