@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-10
+
+I like how [LowSpecGamer](https://youtube.com/c/LowSpecGamer) pivoted. He's been making some good content about tech industry.
+
 # 2022-06-09
 
 I started drinking milk again, thanks to chocolate syrups.
