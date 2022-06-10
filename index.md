@@ -6,7 +6,7 @@ date: 2022-03-24T00:00:00+05:30
 
 # 2022-06-10
 
-I like how [LowSpecGamer](https://youtube.com/c/LowSpecGamer) pivoted(Not because low spec content is no longer relevant but because he is genuinely passionate about what he's doing). He's been making some good content about tech industry.
+I like how [LowSpecGamer](https://youtube.com/c/LowSpecGamer) pivoted. He's been making some good content about tech industry.
 
 I also like the fact that the lower bound of tech is increasing. I would totally be okay with an entry level GPU.
 
