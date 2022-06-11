@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-11
+
+The reason I buzz my head is because it's one less thing to worry about. The plan is to reach to a state where I worry about very less things so I can truly focus on things which matter.
+
 # 2022-06-10
 
 I like how [LowSpecGamer](https://youtube.com/c/LowSpecGamer) pivoted. He's been making some good content about tech industry.
