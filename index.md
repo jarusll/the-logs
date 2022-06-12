@@ -16,7 +16,7 @@ I have so many "awesome" links. Soon I'll make a section on my site and call it 
 
 ![Image](/images/6cdb4f871a0deba0cb40420196c0227c.jpg) 
 
-Had an unexpected visit from am old friend, pretty sweet.
+Had an unexpected visit from an old friend, sweet.
 
 Good day, night
 
