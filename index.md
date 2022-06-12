@@ -10,6 +10,10 @@ Spent the whole day reading about lexers and parsers. I have the grammer and lex
 
 Also I found out Oracle cloud has free eligible arm machines with upto 12 core and 72 gigs of memory. I tried out 4core and 6gig config and it's way better than the micro instance which crashes under heavy workloads. I will test it out for the coming days.
 
+[Toby Ho](https://youtube.com/channel/UCo3DTdFQphyjdnGy0xjLfZA) - one of the best resources on compiler 101. 
+
+I have so many "awesome" links. Soon I'll make a section on my site and call it `awesome`
+
 Good day, night
 
 # 2022-06-11
