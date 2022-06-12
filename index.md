@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-12
+
+Spent the whole day reading about lexers and parsers. I have the grammer and lexer ready. I am using `nearley`. I should have the prototype ready tomorrow.
+
+Also I found out Oracle cloud has free eligible arm machines with upto 12 core and 72 gigs of memory. I tried out 4core and 6gig config and it's way better than the micro instance which crashes under heavy workloads. I will test it out for the coming days.
+
+Good day, night
+
 # 2022-06-11
 
 The reason I buzz my head is because it's one less thing to worry about. The plan is to reach to a state where I worry about very less things so I can truly focus on things which matter.
