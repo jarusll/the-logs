@@ -14,6 +14,8 @@ Also I found out Oracle cloud has free eligible arm machines with upto 12 core a
 
 I have so many "awesome" links. Soon I'll make a section on my site and call it `awesome`
 
+![Image](/images/6cdb4f871a0deba0cb40420196c0227c.jpg) 
+
 Good day, night
 
 # 2022-06-11
