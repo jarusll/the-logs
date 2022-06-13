@@ -8,6 +8,14 @@ date: 2022-03-24T00:00:00+05:30
 
 I DID IT!!! I made the compiler. The prototype is ready. 
 
+![Image](/images/0039a54e7ea7c4ffcad83c082905e785.png) 
+
+For now it can only execute single line and there's no assignment. I will add these over the coming days.
+
+The next logical thing would be to look into combinators. My fav is the `Y combinator` because that's how you implement recursion in lambda calculus.
+
+Good day, night
+
 # 2022-06-12
 
 Spent the whole day reading about lexers and parsers. I have the grammer and lexer ready. I am using `nearley`. I should have the prototype ready tomorrow.
