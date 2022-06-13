@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-13
+
+I DID IT!!! I made the compiler. The prototype is ready. 
+
 # 2022-06-12
 
 Spent the whole day reading about lexers and parsers. I have the grammer and lexer ready. I am using `nearley`. I should have the prototype ready tomorrow.
