@@ -14,6 +14,8 @@ For now it can only execute single line and there's no assignment. I will add th
 
 The next logical thing would be to look into combinators. My fav is the `Y combinator` because that's how you implement recursion in lambda calculus.
 
+My IEMs will arrive tomorrow, I am so excited.
+
 Good day, night
 
 # 2022-06-12
