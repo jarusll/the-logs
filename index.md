@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-14
+
+Added assignment and multiline support.
+
+I am cleaning it up right now and will write a series of notes 
+- Introduction to lambda calculus - grammer and lexer
+- Making the AST
+- Evaluating the AST
+
 # 2022-06-13
 
 I DID IT!!! I made the compiler. The prototype is ready. 
