@@ -13,7 +13,7 @@ I am cleaning it up right now and will write a series of notes
 - Making the AST
 - Evaluating the AST
 
-Running Emacs as daemon has made my life easier. No more slow load times.
+Running Emacs as daemon has made my life easier. No more longer load times.
 
 # 2022-06-13
 
