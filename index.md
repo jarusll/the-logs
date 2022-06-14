@@ -21,7 +21,7 @@ I DID IT!!! I made the compiler. The prototype is ready.
 
 For now it can only execute single line and there's no assignment. I will add these over the coming days.
 
-The next logical thing would be to look into combinators. My fav is the `Y combinator` because that's how you implement recursion in lambda calculus.
+The next logical thing would be to look into combinators. My favourite is the `Y combinator` because that's how you implement recursion in lambda calculus.
 
 My IEMs will arrive tomorrow, I am so excited.
 
