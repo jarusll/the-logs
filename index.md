@@ -13,6 +13,8 @@ I am cleaning it up right now and will write a series of notes
 - Making the AST
 - Evaluating the AST
 
+Running Emacs as daemon has made my life easier. No more slow load times.
+
 # 2022-06-13
 
 I DID IT!!! I made the compiler. The prototype is ready. 
