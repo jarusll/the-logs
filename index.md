@@ -9,6 +9,9 @@ date: 2022-03-24T00:00:00+05:30
 ![Image](/images/ee21839185dd2ef87722f8e5b340f3bb.jpg) 
 *My IEMs are here*
 
+![Image](/images/30e94995dc5ffff67f764d7cbe6a0fc9.jpg) 
+*Day 83 since recorded history, I am listening things on low volume. I can make out the details with my IEMs*
+
 # 2022-06-14
 
 Added assignment and multiline support.
