@@ -12,6 +12,14 @@ date: 2022-03-24T00:00:00+05:30
 ![Image](/images/30e94995dc5ffff67f764d7cbe6a0fc9.jpg) 
 *Day 83 since recorded history, I am listening things on low volume. I can make out the details with my IEMs*
 
+I had to break down the notes into even smaller chunks.
+The grammer itself will span over 3 posts
+- Literals
+- Abstractions
+- Applications
+
+Good day, night
+
 # 2022-06-14
 
 Added assignment and multiline support.
