@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-15
+
+![Image](/images/ee21839185dd2ef87722f8e5b340f3bb.jpg) 
+*My IEMs are here*
+
 # 2022-06-14
 
 Added assignment and multiline support.
