@@ -36,7 +36,7 @@ Good day, night
 
 # 2022-06-12
 
-Spent the whole day reading about lexers and parsers. I have the grammer and lexer ready. I am using `nearley`. I should have the prototype ready tomorrow.
+Spent the whole day reading about lexers and parsers. I have the grammar and lexer ready. I am using `nearley`. I should have the prototype ready tomorrow.
 
 Also I found out Oracle cloud has free eligible arm machines with upto 12 core and 72 gigs of memory. I tried out 4core and 6gig config and it's way better than the micro instance which crashes under heavy workloads. I will test it out for the coming days.
 
