@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-16
+
+Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with fun languages.
+I'll clean it up tomorrow. 
+I'll push operator precendence tomorrow.
+This will be my magnum opus for a long time.
+
+Good day, night.
+
 # 2022-06-15
 
 ![Image](/images/ee21839185dd2ef87722f8e5b340f3bb.jpg) 
@@ -13,7 +22,7 @@ date: 2022-03-24T00:00:00+05:30
 *Day 83 since recorded history, I am listening things on low volume. I can make out the details with my IEMs*
 
 I had to break down the notes into even smaller chunks.
-The grammar itself will span over 3 posts
+The grammar itself will span over 3 notes
 - Literals
 - Abstractions
 - Applications
