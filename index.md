@@ -25,7 +25,7 @@ Good day, night
 Added assignment and multiline support.
 
 I am cleaning it up right now and will write a series of notes 
-- Introduction to lambda calculus - grammer and lexer
+- Introduction to lambda calculus - grammar and lexer
 - Making the AST
 - Evaluating the AST
 
