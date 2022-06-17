@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-17
+
+The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro. 
+I hosted a service on it last night and I have been thinking about switching to arm fully. I think I will be able to switch well given that I dockerize everything. Let me think about this.
+
 # 2022-06-16
 
 Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with fun languages.
