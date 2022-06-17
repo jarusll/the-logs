@@ -996,9 +996,8 @@ Night friend
 `The more we pursue the idea
 of programs as literature, the better our programs become.` - *Some wise literate programmer*
 
-Omg, r/instant_regret
 
-I take it back, it was a blast. One of the best time with the Bois.
+It was a blast. One of the best time with the Bois.
 I am tired, I'll look into docker when I wake up. 
 
 Somehow chrome seems to freeze exwm. I am switching to firefox permanently.
