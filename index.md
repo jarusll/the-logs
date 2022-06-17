@@ -9,6 +9,12 @@ date: 2022-03-24T00:00:00+05:30
 The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro. 
 I hosted a service on it last night and I have been thinking about switching to arm fully. I think I will be able to switch well given that I dockerize everything. Let me think about this.
 
+Someone has already made a better playground for nearley So I can move on to something else. Or I could improve it, I'll think about it. Time for some dog fooding. I realised I don't need backend for this So I could just make a Client side rendered webapp.
+
+One of the things I want to build with is Codemirror. Just because I use like editors and use editors I want to build using one.
+
+Pushed part 2 `Grammar & Primitive Operations`. Next will be `Abstraction` and `Application`
+
 # 2022-06-16
 
 Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with fun languages.
