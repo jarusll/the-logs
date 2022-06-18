@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-18
+
+Went down the rabbit hole of compressing the assets. Its done and I'll integrate it soon. 
+
 # 2022-06-17
 
 The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro. 
