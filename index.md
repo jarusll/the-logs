@@ -8,6 +8,10 @@ date: 2022-03-24T00:00:00+05:30
 
 Went down the rabbit hole of compressing the assets. Its done and I'll integrate it soon. 
 
+Will gzip & minify my assets soon.
+
+Pushed `Abstractions`.
+
 # 2022-06-17
 
 The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro. 
@@ -15,7 +19,7 @@ I hosted a service on it last night and I have been thinking about switching to 
 
 Someone has already made a better playground for nearley So I can move on to something else. Or I could improve it, I'll think about it. Time for some dog fooding. I realised I don't need backend for this So I could just make a Client side rendered webapp.
 
-One of the things I want to build with is Codemirror. Just because I do like editors and use editors I want to build using one.
+One of the things I want to build with is Codemirror/Monaco. Just because I do like editors and use editors I want to build using one.
 
 Pushed part 2 `Grammar & Primitive Operations`. Next will be `Abstraction` and `Application`
 
