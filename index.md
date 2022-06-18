@@ -12,6 +12,10 @@ Will gzip & minify my assets soon.
 
 Pushed `Abstractions`.
 
+Added awesome. Need to think about how I will organise. 
+
+Metro stream at night by Flare, Yayy
+
 # 2022-06-17
 
 The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro. 
