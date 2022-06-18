@@ -21,7 +21,7 @@ Pushed part 2 `Grammar & Primitive Operations`. Next will be `Abstraction` and `
 
 # 2022-06-16
 
-Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with fun languages.
+Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with grammar.
 I'll clean it up tomorrow. 
 I'll push operator precendence tomorrow.
 This will be my magnum opus for a long time.
