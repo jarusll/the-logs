@@ -14,6 +14,8 @@ Pushed `Abstractions`.
 
 Added awesome. Need to think about how I will organise. 
 
+Had a meaningful conversation about work culture today.
+
 Metro stream at night by Flare, Yayy
 
 # 2022-06-17
