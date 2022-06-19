@@ -4,6 +4,18 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-19
+
+Played some Apex and Dota after a long time.
+
+I am thinking about new ideas, solely for amusement.
+
+Setup org-roam and it's portable so I can use it on multiple devices. I will lookup ways to browse org files on Android.
+
+Tomorrow I will push `Application`.
+
+Good day, night
+
 # 2022-06-18
 
 Went down the rabbit hole of compressing the assets. Its done and I'll integrate it soon. 
