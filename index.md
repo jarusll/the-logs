@@ -10,6 +10,10 @@ Busy with working on a problem.
 
 I don't need git on my phone, I can just setup Syncthing and let the vps handle git commits. I just need my files synced across devices. I'll soon host Syncthing.
 
+Let's see if I can serve my org-roam notes with hugo.
+
+Good day, night
+
 # 2022-06-19
 
 Played some Apex and Dota after a long time.
