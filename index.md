@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-20
+
+Busy with working on a problem.
+
 # 2022-06-19
 
 Played some Apex and Dota after a long time.
