@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-21
+
+*Rabbits are machines for turning grass into rabbits* - Someone on hackernews
+
+I realised I could write a lot of notes with flashcards. Need to find a good flashcard android app. Bonus if it supports import/export so I can configure it with syncthing.
+
+*Famished* - Adjective of the day.
+
 # 2022-06-20
 
 Busy with working on a problem.
