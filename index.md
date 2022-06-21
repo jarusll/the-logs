@@ -18,6 +18,13 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 ![Image](/images/60c65c4c6b697a9d33b549ece6b9ba89.jpg) 
 *Omgomgomg they came back, ahahahahahahah*
 
+![Image](/images/612c79bf994e16a6bde6b17b027a7047.jpg) 
+*Put out some milk in box and they fell for it, ez scam*
+
+Solved some good problems today.
+
+Night
+
 # 2022-06-20
 
 Busy with working on a problem.
