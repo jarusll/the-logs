@@ -21,6 +21,8 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 ![Image](/images/612c79bf994e16a6bde6b17b027a7047.jpg) 
 *Put out some milk in box and they fell for it, ez scam*
 
+They went away again. I wish they come back tomorrow.
+
 Solved some good problems today.
 
 Night
