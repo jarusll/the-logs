@@ -16,7 +16,7 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 *Passing by kitties. I offered them food but they din't stay*
 
 ![Image](/images/60c65c4c6b697a9d33b549ece6b9ba89.jpg) 
-*Omgomgomg they came back, ahahahahahahah😍*
+*Omgomgomg they came back, ahahahahahahah*
 
 # 2022-06-20
 
