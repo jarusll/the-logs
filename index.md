@@ -12,6 +12,9 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 
 *Famished* - Adjective of the day.
 
+![Image](/images/98eb4943262815447564da00f41d87ae.jpg) 
+*Passing by kitties*
+
 # 2022-06-20
 
 Busy with working on a problem.
