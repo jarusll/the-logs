@@ -13,7 +13,7 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 *Famished* - Adjective of the day.
 
 ![Image](/images/98eb4943262815447564da00f41d87ae.jpg) 
-*Passing by kitties*
+*Passing by kitties. I offered them food but they din't stay*
 
 # 2022-06-20
 
