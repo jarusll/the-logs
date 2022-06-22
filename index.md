@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-22
+
+Need to think about priorities. Got sidetracked for 2 days.
+Back on my compiler.
+
 # 2022-06-21
 
 *Rabbits are machines for turning grass into rabbits* - Someone on hackernews
