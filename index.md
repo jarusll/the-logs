@@ -14,6 +14,8 @@ Back on my compiler.
 
 Should be able to cleanup the compiler tomorrow.
 
+*gaudy*
+
 Good day, night.
 
 # 2022-06-21
