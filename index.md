@@ -9,6 +9,9 @@ date: 2022-03-24T00:00:00+05:30
 Need to think about priorities. Got sidetracked for 2 days.
 Back on my compiler.
 
+![Image](/images/7db81936eb12efa72acea8427dd31d11.jpg) 
+*They did come, ahahahah*
+
 # 2022-06-21
 
 *Rabbits are machines for turning grass into rabbits* - Someone on hackernews
