@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-23
+
+Decoupled grammars.
+
+![Image](/images/3464523de4398584e81e40ae71bb2196.jpg) 
+
 # 2022-06-22
 
 Need to think about priorities. Got sidetracked for 2 days.
