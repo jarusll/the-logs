@@ -10,6 +10,10 @@ Decoupled grammars.
 
 ![Image](/images/3464523de4398584e81e40ae71bb2196.jpg) 
 
+The first stable version is out of the compiler. I will add features incrementally. This will be my test bed for lambda calculus.
+
+*vivacious*
+
 # 2022-06-22
 
 Need to think about priorities. Got sidetracked for 2 days.
