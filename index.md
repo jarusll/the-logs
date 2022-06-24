@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-24
+
+Spent the day thinking about new ideas. The bar that I've set for myself is to build something which I will use.
+I did narrow down some good ones and I'll start on it once I've a mini plan.
+
+*poised*
+
+Night
+
 # 2022-06-23
 
 Decoupled grammars.
