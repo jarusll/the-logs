@@ -9,6 +9,8 @@ date: 2022-03-24T00:00:00+05:30
 Spent the day thinking about new ideas. The bar that I've set for myself is to build something which I will use.
 I did narrow down some good ones and I'll start on it once I've a mini plan.
 
+One of the ideas is smalltalk inspired IDE for javascript. I looked into Reflection API. If Reflection & Proxy solve my problems then I might commit to this.
+
 *poised*
 
 Night
