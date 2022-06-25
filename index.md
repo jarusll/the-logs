@@ -4,6 +4,18 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-25
+
+I've been observing my kittens and I think this is what goes in their tiny kitten heads.
+- I am cute
+- DON'T TOUCH ME
+- Scritches, oh yeah
+- I wonder what this does *proceeds to paw it*, IT MOVES AHAHAHAHAH
+- I am water
+- *stretch and yawn and instant sleep*
+
+![Image](/images/d6deef424d00dcad51d02c9ebac642ed.jpg) 
+
 # 2022-06-24
 
 Spent the day thinking about new ideas. The bar that I've set for myself is to build something which I will use.
