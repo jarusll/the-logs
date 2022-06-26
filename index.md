@@ -9,6 +9,12 @@ date: 2022-03-24T00:00:00+05:30
 I have a mini plan and I am going to commit to it.
 I can't stress how good TDD & tests as specs are.
 
+I have a mini plan and I will be working on it this week. 
+I have been trying to build a prototype and I was lost with details. 
+Unit tests give clarity & confidence.
+
+*gregarious*
+
 # 2022-06-25
 
 I've been observing my kittens and I think this is what goes in their tiny kitten heads.
