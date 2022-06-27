@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-27
+
+I have specs for commands. I still need figure out how the whole system will communicate.
+
+*ethereal*
+
 # 2022-06-26
 
 I have a mini plan and I am going to commit to it.
