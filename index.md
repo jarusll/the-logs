@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 Personal day.
 
+The X dilemma, I could either believe an abstraction and build upon it or see for myself and build my own abstractions. With the former I won't get to the root and the latter will eat up my time. I, like always like a good balance. 
+
 *exemplary*
 
 # 2022-06-27
