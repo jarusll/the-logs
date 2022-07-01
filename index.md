@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-01
+
+I am working on a problem. React does have its quirk. I have my business logic in pure OO and view in pure functional. 
+
 # 2022-06-30
 
 Personal day.
