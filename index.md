@@ -14,6 +14,10 @@ My cat is a monster. Just killed a baby mouse and is playing with his body.
 
 I just finished a problem and used pure OO and TDD. This was good. I learnt alot.
 
+Correction, there's 3 of them. The third just walked in today and latched on mommy cat.
+
+![Image](/images/33cd1c3825a05befa522fabbbf85a8fa.jpg) 
+
 *fiery*
 
 # 2022-07-01
