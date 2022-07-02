@@ -10,6 +10,8 @@ When I am writing OO, I should be able to jump fast between classes & methods an
 
 I've been playing Valorant I am absolutely loving it. I like abilities more than gunplay. These days I am playing Initiators and I like that fact that I hunt/mark down enemies. My aim isn't good but I like abilities.
 
+My cat is a monster. Just killed a baby mouse and is playing with his body.
+
 # 2022-07-01
 
 I am working on a problem. React does have its quirk. I have my business logic in pure OO and view in pure functional. Writing OO code makes me miss smalltalk.
