@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 When I am writing OO, I should be able to jump fast between classes & methods and its better if I am able to view just 1 method at a time. Theres a saying in OO community(I've heard) that if you ask what a method does, the answer will be "I don't know". Just because its not your responsibility but of the class implementing it.
 
+I've been playing Valorant I am absolutely loving it. I like abilities more than gunplay. These days I am playing Initiators and I like that fact that I hunt/mark down enemies. My aim isn't good but I like abilities.
+
 # 2022-07-01
 
 I am working on a problem. React does have its quirk. I have my business logic in pure OO and view in pure functional. Writing OO code makes me miss smalltalk.
