@@ -12,6 +12,10 @@ I've been playing Valorant I am absolutely loving it. I like abilities more than
 
 My cat is a monster. Just killed a baby mouse and is playing with his body.
 
+I just finished a problem and used pure OO and TDD. This was good. I learnt alot.
+
+*fiery*
+
 # 2022-07-01
 
 I am working on a problem. React does have its quirk. I have my business logic in pure OO and view in pure functional. Writing OO code makes me miss smalltalk.
