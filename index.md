@@ -10,6 +10,10 @@ If I am working in a team, I'd definitely prefer OOP. I can understand Java's ap
 
 Using OOP for logic with React was pretty nice logically but pain to integrate. I'll see if there's a better way to integrate OOP with react. No, not class components. I had to recreate the object for reactivity.
 
+I remember the scene from Dota where Invoker is in a never ending library and books float mid air and pages turn by his will. I want that kind of power. Just float around and read things all day.
+
+*exultant*
+
 # 2022-07-02
 
 When I am writing OO, I should be able to jump fast between classes & methods and its better if I am able to view just 1 method at a time. Theres a saying in OO community(I've heard) that if you ask what a method does, the answer will be "I don't know". Just because its not your responsibility but of the class implementing it.
