@@ -12,6 +12,9 @@ Using OOP for logic with React was pretty nice logically but pain to integrate. 
 
 I remember the scene from Dota where Invoker is in a never ending library and books float mid air and pages turn by his will. I want that kind of power. Just float around and read things all day.
 
+![Image](/images/26d0d0aa8f02c71f40903c163cfeacaf.jpg) 
+*The council of kitties have blessed my rig*
+
 *exultant*
 
 # 2022-07-02
