@@ -10,6 +10,13 @@ I tried out java today and it was nice but its missing a good IDE.
 
 *One person's pattern can be another person's primitive building block* - Design Patterns, Elements of Reusable Object Oriented Software
 
+I have an itch for GUI programming these days.
+I am starting to like java for determinism. I looked into reflection in java. I have some ideas but I'll wait until I get comfortable with java. 
+
+I started reading "Design Patterns, Elements of Reusable Object Oriented Software".
+
+*hanker*
+
 # 2022-07-03
 
 If I am working in a team, I'd definitely prefer OOP. I can understand Java's appeal which is why I've decided for the nth time I'll setup java env and give it a go.
