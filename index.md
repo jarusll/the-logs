@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-04
+
+I tried out java today and it was nice but its missing a good IDE. 
+
+*One person's pattern can be another person's primitive building block* - Design Patterns, Elements of Reusable Object Oriented Software
+
 # 2022-07-03
 
 If I am working in a team, I'd definitely prefer OOP. I can understand Java's appeal which is why I've decided for the nth time I'll setup java env and give it a go.
