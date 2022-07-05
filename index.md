@@ -4,6 +4,16 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-05
+
+Hectic day today and an emotional ride. Fingers crossed.
+
+Design patterns yummy.
+
+One of my criticism is that I over engineer stuff. I need to think about this.
+
+*Amiable*
+
 # 2022-07-04
 
 I tried out java today and it was nice but its missing a good IDE. 
