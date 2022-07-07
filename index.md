@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-06
+
+Personal day.
+
+I might have a confirmation on a prototype by end of this week.
+
 # 2022-07-05
 
 Hectic day today and an emotional ride. Fingers crossed.
