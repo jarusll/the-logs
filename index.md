@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 Java browsing perspective in Eclipse, just what I was looking for. Installed vim keybinds and now just have to get comfortable with eclipse keybinds.
 
+*But I am busting with curiosity* - Anne, Anne With An E
+
 # 2022-07-07
 
 Looked at Java Reflections library. Read about Visitor and Decorator pattern. This is just too good. I feel like one man army designing things.
