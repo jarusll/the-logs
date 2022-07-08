@@ -10,6 +10,10 @@ Java browsing perspective in Eclipse, just what I was looking for. Installed vim
 
 *But I am busting with curiosity* - Anne, Anne With An E
 
+Setup the absolute(maybe) perfect environment for java in Eclipse, almost close to smalltalk with Java browsing perspective. The scrapbook page is one of the best features.
+
+*axiomatic*
+
 # 2022-07-07
 
 Looked at Java Reflections library. Read about Visitor and Decorator pattern. This is just too good. I feel like one man army designing things.
