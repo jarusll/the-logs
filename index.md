@@ -4,6 +4,18 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-09
+
+Made some prototypes in Godot.
+
+I will be using Entity Component System for my game. I made the interaction matrix and will fine tune it tomorrow.
+
+*imminent*
+
+# 2022-07-09
+
+Spent the day testing out game engines. It went so bad that I thought I might have to use Java swing to make my game but thanks to Godot.
+
 # 2022-07-08
 
 Java browsing perspective in Eclipse, just what I was looking for. Installed vim keybinds and now just have to get comfortable with eclipse keybinds.
