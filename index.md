@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-10
+
+Finally got the UI working. The Deck is ready. Tomorrows plan is to implement the Abilities & gameloop.
+
+I have been playing Valhiem with Wolfie & FLARE. My VPS has been slow for some reason, I'll investigate later on.
+
 # 2022-07-09
 
 Made some prototypes in Godot.
