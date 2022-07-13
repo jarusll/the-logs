@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-11
+
+Basic gameplay loop ready. Should be able to have a poc by tomorrow. Working at night is peaceful but it fucks up my sleep.
+
 # 2022-07-10
 
 Finally got the UI working. The Deck is ready. Tomorrows plan is to implement the Abilities & gameloop.
