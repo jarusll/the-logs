@@ -4,6 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-13
+
+Made artworks for the cards and simplified the mechanics. 
+
+# 2022-07-12
+Refined the gameplay loop. 
+
 # 2022-07-11
 
 Basic gameplay loop ready. Should be able to have a poc by tomorrow. Working at night is peaceful but it fucks up my sleep.
