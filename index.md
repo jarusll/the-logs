@@ -4,7 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-17
+
+The prototype of ClassBrowser vscode extension is ready. I ll add features incrementally and clean up the code.
+
 # 2022-07-16
+
 Where have I been? I've been working on my game. And for the past few days I've been working all night. My vps is broken and I haven't had time to fix it.
 
 I have the prototype ready. Tomorrow I'll add the Ability/Effect matrix.
