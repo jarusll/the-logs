@@ -4,6 +4,24 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-16
+Where have I been? I've been working on my game. And for the past few days I've been working all night. My vps is broken and I haven't had time to fix it.
+
+I have the prototype ready. Tomorrow I'll add the Ability/Effect matrix.
+
+I have learnt soooo much working on this game. I am having the absolute best time with OO right now. Everything is just message passing. Fire & forget.
+The Class/Object browser feature is just cherry on top. I want this functionality in every IDE.
+
+Good day
+
+# 2022-07-15
+
+Worked late night & played Valheim with FLARE
+
+# 2022-07-14
+
+Worked late night & played Valheim with FLARE
+
 # 2022-07-13
 
 Made artworks for the cards and simplified the mechanics. 
