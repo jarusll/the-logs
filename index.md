@@ -55,7 +55,7 @@ Spent the day testing out game engines. It went so bad that I thought I might ha
 
 Java browsing perspective in Eclipse, just what I was looking for. Installed vim keybinds and now just have to get comfortable with eclipse keybinds.
 
-*But I am busting with curiosity* - Anne, Anne With An E
+*But I am bursting with curiosity* - Anne, Anne With An E
 
 Setup the absolute(maybe) perfect environment for java in Eclipse, almost close to smalltalk with Java browsing perspective. The scrapbook page is one of the best features.
 
