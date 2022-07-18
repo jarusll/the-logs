@@ -18,6 +18,15 @@ Top right is class browser and bottom right is outline view.
 
 I might change the name given its not a class browser.
 
+*Everything is just an abstraction away.* - Suraj Yadav
+
+*The less code I look at, the better* - Zen Suraj Yadav
+
+Alright I used the extension for a while and here are somethings that I can improve.
+- Focus directly on input with a shortcut.
+- Navigate using arrow keys.
+- When I click open a file, it should automatically focus on outline view with it being expanded.
+
 # 2022-07-17
 
 The prototype of ClassBrowser vscode extension is ready. I ll add features incrementally and clean up the code.
