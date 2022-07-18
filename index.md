@@ -27,6 +27,10 @@ Alright I used the extension for a while and here are somethings that I can impr
 - Navigate using arrow keys.
 - When I click open a file, it should automatically focus on outline view with it being expanded.
 
+I feel like this would push me to write better code since I won't be looking at it much.
+
+Good day, night
+
 # 2022-07-17
 
 The prototype of ClassBrowser vscode extension is ready. I ll add features incrementally and clean up the code.
