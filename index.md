@@ -4,6 +4,20 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-18
+
+I DID IT!!!!!! I published my first extension. I actually wanted to make a smalltalk like class browser but then I would have to make an outline view and VSCode's outline view is just the best. I cannot make it any better so my extension just compliments it. Outline view for a file and class browser for global search(Class/Interface/Structs).
+
+I'll add the option to choose which types to filter out. But this looks good for an mvp.
+
+Heres a screenshot.
+
+![Image](/images/classbrowser.png) 
+
+Top right is class browser and bottom right is outline view.
+
+I might change the name given its not a class browser.
+
 # 2022-07-17
 
 The prototype of ClassBrowser vscode extension is ready. I ll add features incrementally and clean up the code.
