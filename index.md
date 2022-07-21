@@ -4,6 +4,20 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-21
+
+I added type filtering in my extension.
+
+![ClassBrowser in Action](https://raw.githubusercontent.com/jarusll/vscode-class-browser/master/extension/media/showcase.gif)
+
+# 2022-07-20
+
+Spent the day tinkering with visual IDEs. I don't think I can improve anything in that domain.
+
+# 2022-07-19
+
+Personal Day.
+
 # 2022-07-18
 
 I DID IT!!!!!! I published my first extension. I actually wanted to make a smalltalk like class browser but then I would have to make an outline view and VSCode's outline view is just the best. I cannot make it any better so my extension just compliments it. Outline view for a file and class browser for global search(Class/Interface/Structs).
