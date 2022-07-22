@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-22
+
+I am prototyping lazy loading for my extension.
+
 # 2022-07-21
 
 I added type filtering in my extension.
