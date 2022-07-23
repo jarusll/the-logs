@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-23
+
+Went out with the bois. Good day. 
+I am polishing the lazy loading in my extension. I am absolutely having a great time exploring codebases. Right now while testing my extension I have vscode repo on and sometimes I'll get distracted and explore its classes. I like when they are commented and I know whats its purpose.
+
 # 2022-07-22
 
 I am prototyping lazy loading for my extension.
