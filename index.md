@@ -4,6 +4,19 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-26
+
+I might take over as maintainer of vscode-snippets extension.
+
+# 2022-07-25
+
+Game night. FLARE streamed Stray. It was the cutest game ever and I almost cried at the end.
+I am totally going to replay it.
+
+# 2022-07-24
+
+Setup Obsidian along with syncthing to make my life easier with notetaking.
+
 # 2022-07-23
 
 Went out with the bois. Good day. 
