@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-27
+
+Spent the day solving a problem. Fingers crossed. Wrote about Discoverability in codebase. Turns out Static analysis and discoverability are almost same.
+FLARE sent all the screenshots of valheim, will post it soon.
+
 # 2022-07-26
 
 I might take over as maintainer of vscode-snippets extension.
