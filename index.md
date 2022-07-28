@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-28
+
+Looked into building GTK apps. Vala seems to be the most intuitive for me with better documentation and syntax. Things are hacky with other languages.
+I want to build one good gtk app, my gtk magnum opus.
+
 # 2022-07-27
 
 Spent the day solving a problem. Fingers crossed. Wrote about Discoverability in codebase. Turns out Static analysis and discoverability are almost same.
