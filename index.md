@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-29
+
+I can barely call it a diary now with these 1 line updates. I have been busy with other things. 
+I have started using Obsidian for note taking and I spent most of my time there. It would be nice if I can push my updates from there.
+I used to use GitJournal on Android but this file is too big to load and slows down badly.
+
+Either I'll come up with something to update frequently or I'll just rename this to `Logs`.
+
 # 2022-07-28
 
 Looked into building GTK apps. Vala seems to be the most intuitive for me with better documentation and syntax. Things are hacky with other languages.
