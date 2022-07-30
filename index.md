@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-30
+
+Finally switched to Opensuse so I can have a proper workstation experience. 
+I will install a tiling window utility just because I'll be fast but I don't mind using the mouse now.
+
 # 2022-07-29
 
 I can barely call it a diary now with these 1 line updates. I have been busy with other things. 
