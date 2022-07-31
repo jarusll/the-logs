@@ -4,6 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-31
+
+Wrote a wrapper for making API calls in Vala. 
+It will take a month for the prototype of `Reflections`.
+Riced my Gnome system with some goodies.
+UX is something I never noticed because I am used to tiling window managers. But Gnome has one of the most intuitive GUI UX.
+
 # 2022-07-30
 
 Finally switched to Opensuse so I can have a proper workstation experience. 
