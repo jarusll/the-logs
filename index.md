@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-02
+
+Slept all day, played some valorant and read about Socialism.
+
+# 2022-08-01
+
+My health hasn't been in a good shape and I am taking a break until I am back up.
+
 # 2022-07-31
 
 Wrote a wrapper for making API calls in Vala. 
