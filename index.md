@@ -6,7 +6,7 @@ date: 2022-03-24T00:00:00+05:30
 
 # 2022-08-02
 
-Slept all day, played some valorant and read about Socialism.
+Slept all day, played some valorant.
 
 # 2022-08-01
 
