@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-06
+
+My health is improving and I am almost back up.
+I played some GTA with the bois.
+
+# 2022-08-05
+# 2022-08-04
+# 2022-08-03
 # 2022-08-02
 
 Slept all day, played some valorant.
