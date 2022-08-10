@@ -4,6 +4,20 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-10
+
+Today I learned how to `finger` unix. I will probably have a banner on my diary page about how to finger my site. If you are reading this please lookup finger unix command.
+
+# 2022-08-09
+
+# 2022-08-08
+
+Learnt about Tauri, the gui framework. I am loving it. Platform independent UI with rust backend, sold. The only reason I haven't got into rust is the technical details. 
+
+# 2022-08-07
+
+Played GTA and Valheim with FLARE. 
+
 # 2022-08-06
 
 My health is improving and I am almost back up.
