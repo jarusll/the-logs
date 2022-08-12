@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-12
+
+I did something cursed today, mixed Mayo and ketchup for chipdip.
+
+# 2022-08-11
+
+I solved a problem and half today. Pretty easy.
+
 # 2022-08-10
 
 Today I learned how to `finger` unix. I will probably have a banner on my diary page about how to finger my site. If you are reading this please lookup finger unix command.
