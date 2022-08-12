@@ -10,7 +10,7 @@ I did something cursed today, mixed Mayo and ketchup for chipdip.
 
 Solved and hosted one problem. I'll do the other one tomorrow.
 
-![Image](./681471d513c7d34f234b067a773fd187.jpg) 
+![Image](/images/681471d513c7d34f234b067a773fd187.jpg) 
 Shes a survivor. I still remember the day she was born. Shes the only one who made it out of 3. She has grown so big I barely recognised her when she came upto my desk one day and I was scared for my kitten. That was my `Sintel` moment. Fortunately shes cool with other cats. I wish she came to my place more. I also got to pet my other cat(baby cat) yesterday and it looks like she has learnt the way of kitties. She'll survive. I was glad she recognised me(atleast that's what I think). It was a good day.
 
 # 2022-08-11
