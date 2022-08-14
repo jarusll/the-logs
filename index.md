@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-14
+
+I played valorant and had some sweets.
+I got started with rustlings and I am stuck on borrowing and ownership.
+Good day. 
+
 # 2022-08-13
 The remaining problem from yesterday, done. I m starting to like gnome. I am not as fast as I am on i3wm but the goodies it comes with make up for it. Also my wisdom tooth is emerging so that's a pain in the ass. I can barely eat anything these days. I had chocolate chips. Tomorrows my birthday, I am going to have Cadbury and play games.
 
