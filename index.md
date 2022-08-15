@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-15
+
+I am in love with Russian music/videos. Some of them are absolutely out of this world. I love it.
+Some of the ones which I've been listening are
+[Ленинград — ЗОЖ](https://youtu.be/DgdP5U28jHc)
+I had to hunt this down. I listened to this in one of Bald and Bankrupt's videos. 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/60gcgHGUfqg4dAMwtNitK7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 # 2022-08-14
 
 I played valorant and had some sweets.
