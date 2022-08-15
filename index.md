@@ -17,6 +17,8 @@ I am past borrow and ownership in rust. I made some progress with rustlings.
 
 I am deep diving `ctags` because I love code browsing and also for a thing.
 
+Setup finger on vps but for some reason it's not picking up .plan file. I'll look into it but it's not high priority.
+
 # 2022-08-14
 
 I played valorant and had some sweets.
