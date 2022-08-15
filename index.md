@@ -13,6 +13,10 @@ Some of the ones which I've been listening are
 I had to hunt this down. I listened to this in one of Bald and Bankrupt's videos. 
 - [Май](https://open.spotify.com/track/60gcgHGUfqg4dAMwtNitK7?si=7c95f295985848db)
 
+I am past borrow and ownership in rust. I made some progress with rustlings.
+
+I am deep diving `ctags` because I love code browsing and also for a thing.
+
 # 2022-08-14
 
 I played valorant and had some sweets.
