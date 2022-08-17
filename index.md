@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-17
+
+Back to back action. I was occupied with personal stuff today.
+
+# 2022-08-16
+
+Personal day. I solved some rustlings.
+
 # 2022-08-15
 
 I am in love with Russian music videos. Some of them are absolutely out of this world. I love it.
