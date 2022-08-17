@@ -12,6 +12,8 @@ Back to back action. I was occupied with personal stuff today.
 
 Personal day. I solved some rustlings.
 
+Besan ladoos are absolute gold.
+
 # 2022-08-15
 
 I am in love with Russian music videos. Some of them are absolutely out of this world. I love it.
