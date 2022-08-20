@@ -4,6 +4,21 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-19
+
+Things are going to change. I feel like I am in a new stage of life(probably).
+Dug up my Kindle and started reading [Imposter Syndrome](https://www.goodreads.com/book/show/55338924-impostor-syndrome)
+
+# 2022-08-18
+
+What a day. Its a good day. 
+I rewatched some of *The Eric Andre show*. I am glad the show is still going. Sometimes I don't understand it but I like what I see.
+Maybe I like bizzare stuff.
+
+##### Some of the places I want to be
+- [Metro Universe](https://metrovideogame.fandom.com/wiki/Metro_Wiki) sharing shoulders with comrade Artyom.
+- [Valheim Universe](https://valheim.fandom.com/wiki/Valheim_Wiki) with FLARE raiding dungeons. I wish Valhiem had building on ships so we wouldn't have to leave ships.
+
 # 2022-08-17
 
 Back to back action. I was occupied with personal stuff today.
