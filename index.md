@@ -16,7 +16,7 @@ I rewatched some of *The Eric Andre show*. I am glad the show is still going. So
 Maybe I like bizzare stuff.
 
 ##### Some of the places I want to be
-- [Metro Universe](https://metrovideogame.fandom.com/wiki/Metro_Wiki) sharing shoulders with comrade Artyom.
+- [Metro Universe](https://metrovideogame.fandom.com/wiki/Metro_Wiki) shoulder to shoulder with comrade Artyom.
 - [Valheim Universe](https://valheim.fandom.com/wiki/Valheim_Wiki) with FLARE raiding dungeons. I wish Valhiem had building on ships so we wouldn't have to leave ships.
 
 # 2022-08-17
