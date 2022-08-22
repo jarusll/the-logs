@@ -10,6 +10,8 @@ I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
 
 I have decided to use golang for the next thing but I haven't started with it. I will soon. Go is a very good choice because I want to dabble with concurrency and parallelism.
 
+I want to live a life where I can be creative whether it be games or art or programming. 
+
 # 2022-08-21
 
 Played Valheim with FLARE. We've made quite progress. Unfortunately the screenshots he sent me are not alot. I'll post when I have many.
