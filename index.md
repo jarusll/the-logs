@@ -4,6 +4,20 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-22
+
+I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
+
+# 2022-08-21
+
+Played Valheim with FLARE. We've made quite progress. Unfortunately the screenshots he sent me are not alot. I'll post when I have many.
+
+I also played GO with FLARE and Spicy. I am bad at FPS and I like when they play casual with me.
+
+# 2022-08-20
+
+These two days are going to be my guilt free gaming days.
+
 # 2022-08-19
 
 Things are going to change. I feel like I am in a new stage of life(probably).
