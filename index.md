@@ -12,6 +12,12 @@ I have decided to use golang for the next thing but I haven't started with it. I
 
 I want to live a life where I can be creative whether it be games or art or programming. 
 
+Almost halfway through [The Defining Decade](https://www.goodreads.com/book/show/40603783-the-defining-decade).
+
+Looked up React profiling and testing. Profiling is something I want to get into, get up some flamegraphs up and gain insights into performance.
+
+The train journey wasn't bad. I realised I never really got to see Mumbai. I like it when everythings just lively.
+
 # 2022-08-21
 
 Played Valheim with FLARE. We've made quite progress. Unfortunately the screenshots he sent me are not alot. I'll post when I have many.
