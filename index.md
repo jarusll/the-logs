@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
 
+I have decided to use golang for the next thing but I haven't started with it. I will soon.
+
 # 2022-08-21
 
 Played Valheim with FLARE. We've made quite progress. Unfortunately the screenshots he sent me are not alot. I'll post when I have many.
