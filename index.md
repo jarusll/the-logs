@@ -8,7 +8,7 @@ date: 2022-03-24T00:00:00+05:30
 
 I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
 
-I have decided to use golang for the next thing but I haven't started with it. I will soon.
+I have decided to use golang for the next thing but I haven't started with it. I will soon. Go is a very good choice because I want to dabble with concurrency and parallelism.
 
 # 2022-08-21
 
