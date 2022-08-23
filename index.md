@@ -12,6 +12,8 @@ I finished reading *The Defining Decade*, I want something else to read now.
 
 I had too many eggs yesterday so I can't eat any this week. I wish *methi* was available all year, i love greens.
 
+I am going to read [The diary of a young girl](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl)
+
 # 2022-08-22
 
 I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
