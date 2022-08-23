@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-23
+
+Deep dived GraphQL. My plan to being a good developer is to read lot of code and that's why I love code browsing.
+
+I finished reading *The Defining Decade*, I want something else to read now.
+
+I had too many eggs yesterday so I can't eat any this week. I wish *methi* was available all year, i love greens.
+
 # 2022-08-22
 
 I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
