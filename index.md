@@ -7,6 +7,8 @@ date: 2022-03-24T00:00:00+05:30
 # 2022-08-24
 
 They launched a new kind of train. It looks retro from inside.
+![New train](https://www.google.com/search?q=mumbai+train+new&client=ms-android-vivo-rvo2&tbm=isch&prmd=nvi&source=lnms&sa=X&ved=0ahUKEwi8ncbzx9_5AhVlUWwGHYzJCFgQ_AUIGCgD&biw=360&bih=716&dpr=2#imgrc=lWQqRNMXDnhjTM)
+[Image source - Mumbai Mirror](https://mumbaimirror.indiatimes.com/mumbai/other/western-railway-set-to-trial-uttam-rake-with-cctvs-better-seats/amp_articleshow/71914043.cms)
 
 I like a codebase where everything is said only once. I like it even more if it's terse.
 
