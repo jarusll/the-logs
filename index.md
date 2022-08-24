@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-24
+
+They launched a new kind of train. It looks retro from inside.
+
 # 2022-08-23
 
 Deep dived GraphQL. My plan to being a good developer is to read lot of code and that's why I love code browsing.
