@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-26
+
+Refactoring support of Webstorm is absolute insane. 
+
+Tried playing Bioshock. Feels like  "Extreme gone wrong". But after a while it feels repetitive that's why I prefer playing on easy mode because I like story more than combat. Maybe Bioshock isn't for me.
+
 # 2022-08-25
 
 I love debugging. Its sad that it isn't mainstream. 
