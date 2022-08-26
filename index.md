@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-25
+
+I love debugging. Its sad that it isn't mainstream. 
+
+`ctags` is fun as well. Pretty cool that I can integrate it with editors and zoom through code. It would be very nice if I could catalogue and query the tags.
+
 # 2022-08-24
 
 They launched a new kind of train. Pretty retro.
