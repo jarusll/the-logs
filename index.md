@@ -14,7 +14,7 @@ Tried playing Bioshock. Feels like  "Extreme gone wrong". But after a while it f
 
 I love debugging. Its sad that it isn't mainstream. 
 
-`ctags` is fun as well. Pretty cool that I can integrate it with editors and zoom through code. It would be very nice if I could catalogue and query the tags.
+`ctags` is fun as well. It would be very nice if I could catalogue and query the tags.
 
 # 2022-08-24
 
