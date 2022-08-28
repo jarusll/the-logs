@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-28
+
+I'll need to get familiar with golang's env.
+
+Started playing `Death Stranding`. I played about an hour and I think this is my type of game given its atmospheric and visually pleasing. I am playing on easy since I want story and not combat.
+
 # 2022-08-27
 
 I am very relieved when the debugger is up. Messing around with go and ctags, let's hope I get the mini MVP up by tomorrow.
