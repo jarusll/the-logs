@@ -10,7 +10,7 @@ Went to FLARE's place. It was nice. Good shit.
 
 # 2022-08-30
 
-Looked into Go's concurrency. I am going to fucking around concurrency soon.
+Looked into Go's concurrency. I am going to fuck around concurrency soon.
 
 # 2022-08-29
 
