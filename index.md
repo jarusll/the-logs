@@ -4,9 +4,17 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-31
+
+Went to FLARE's place. It was nice. Good shit.
+
+# 2022-08-30
+
+Looked into Go's concurrency. I am going to fucking around concurrency soon.
+
 # 2022-08-29
 
-My poor 1030 struggles bad with Death stranding. A couple of npcs and it dips below 10fps even though I am playing on 720 low settings. I'll have to wait until I can experience it better. I'll soon but a GPU.
+My poor 1030 struggles bad with Death stranding. A couple of npcs and it dips below 10fps even though I am playing on 720 low settings. I'll have to wait until I can experience it better. I'll soon buy a GPU.
 
 # 2022-08-28
 
