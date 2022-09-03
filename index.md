@@ -13,7 +13,7 @@ I experimeted with alot of dota characters. Skywraith is a good one. I'll soon b
 Played Valhiem & Dota with FLARE. He has made quite some upgrades to the main base.
 
 ![](/images/Bonemass.jpeg)
-*Finally defeated Bonemass*
+*Bonemass beat the fuck outta us, fortunately we managed to get rid of him*
 
 # 2022-09-02
 
