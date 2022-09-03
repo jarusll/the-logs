@@ -12,6 +12,9 @@ I experimeted with alot of dota characters. Skywraith is a good one. I'll soon b
 
 Played Valhiem & Dota with FLARE. He has made quite some upgrades to the main base.
 
+![](/images/Bonemass.jpeg)
+*Finally defeated Bonemass*
+
 # 2022-09-02
 
 Looked into go's concurrency patterns.
@@ -44,13 +47,13 @@ I am very relieved when the debugger is up. Messing around with go and ctags, le
 
 # 2022-08-26
 
-Refactoring support of Webstorm is absolute insane. 
+Refactoring support of Webstorm is absolute insane.
 
 Tried playing Bioshock. Feels like  "Extreme gone wrong". But after a while it feels repetitive that's why I prefer playing on easy mode because I like story more than combat. Maybe Bioshock isn't for me.
 
 # 2022-08-25
 
-I love debugging. Its sad that it isn't mainstream. 
+I love debugging. Its sad that it isn't mainstream.
 
 `ctags` is fun as well. It would be very nice if I could catalogue and query the tags.
 
@@ -80,7 +83,7 @@ I LOVE TRAINS!!!!! AHAHAHAHAHAHAH
 
 I have decided to use golang for the next thing but I haven't started with it. I will soon. Go is a very good choice because I want to dabble with concurrency and parallelism.
 
-I want to live a life where I can be creative whether it be games or art or programming. 
+I want to live a life where I can be creative whether it be games or art or programming.
 
 Almost halfway through [The Defining Decade](https://www.goodreads.com/book/show/40603783-the-defining-decade).
 
@@ -105,7 +108,7 @@ Dug up my Kindle and started reading [Imposter Syndrome](https://www.goodreads.c
 
 # 2022-08-18
 
-What a day. Its a good day. 
+What a day. Its a good day.
 I rewatched some of *The Eric Andre show*. I am glad the show is still going. Sometimes I don't understand it but I like what I see.
 Maybe I like bizzare stuff.
 
@@ -129,7 +132,7 @@ I am in love with Russian music videos. Some of them are absolutely out of this 
 Some of the ones which I've been listening are
 - [Ленинград — ЗОЖ](https://youtu.be/DgdP5U28jHc)
 
-I had to hunt this down. I listened to this in one of Bald and Bankrupt's videos. 
+I had to hunt this down. I listened to this in one of Bald and Bankrupt's videos.
 - [Май](https://open.spotify.com/track/60gcgHGUfqg4dAMwtNitK7?si=7c95f295985848db)
 
 I am past borrow and ownership in rust. I made some progress with rustlings.
@@ -142,12 +145,12 @@ Setup finger on vps but for some reason it's not picking up .plan file. I'll loo
 
 I played valorant and had some sweets.
 I got started with rustlings and I am stuck on borrowing and ownership.
-Good day. 
+Good day.
 
 # 2022-08-13
 The remaining problem from yesterday, done. I m starting to like gnome. I am not as fast as I am on i3wm but the goodies it comes with make up for it. Also my wisdom tooth is emerging so that's a pain in the ass. I can barely eat anything these days. I had chocolate chips. Tomorrows my birthday, I am going to have Cadbury and play games.
 
-Good day. 
+Good day.
 
 # 2022-08-12
 
@@ -155,7 +158,7 @@ I did something cursed today, mixed Mayo and ketchup for chipdip.
 
 Solved and hosted one problem. I'll do the other one tomorrow.
 
-![Image](/images/681471d513c7d34f234b067a773fd187.jpg) 
+![Image](/images/681471d513c7d34f234b067a773fd187.jpg)
 Shes a survivor. I still remember the day she was born. Shes the only one who made it out of 3. She has grown so big I barely recognised her when she came upto my desk one day and I was scared for my kitten. That was my `Sintel` moment. Fortunately shes cool with other cats. I wish she came to my place more. I also got to pet my other cat(baby cat) yesterday and it looks like she has learnt the way of kitties. She'll survive. I was glad she recognised me(atleast that's what I think). It was a good day.
 
 # 2022-08-11
@@ -170,11 +173,11 @@ Today I learned how to `finger` unix. I will probably have a banner on my diary 
 
 # 2022-08-08
 
-Learnt about Tauri, the gui framework. I am loving it. Platform independent UI with rust backend, sold. The only reason I haven't got into rust is the technical details. 
+Learnt about Tauri, the gui framework. I am loving it. Platform independent UI with rust backend, sold. The only reason I haven't got into rust is the technical details.
 
 # 2022-08-07
 
-Played GTA and Valheim with FLARE. 
+Played GTA and Valheim with FLARE.
 
 # 2022-08-06
 
@@ -194,19 +197,19 @@ My health hasn't been in a good shape and I am taking a break until I am back up
 
 # 2022-07-31
 
-Wrote a wrapper for making API calls in Vala. 
+Wrote a wrapper for making API calls in Vala.
 It will take a month for the prototype of `Reflections`.
 Riced my Gnome system with some goodies.
 UX is something I never noticed because I am used to tiling window managers. But Gnome has one of the most intuitive GUI UX.
 
 # 2022-07-30
 
-Finally switched to Opensuse so I can have a proper workstation experience. 
+Finally switched to Opensuse so I can have a proper workstation experience.
 I will install a tiling window utility just because I'll be fast but I don't mind using the mouse now.
 
 # 2022-07-29
 
-I can barely call it a diary now with these 1 line updates. I have been busy with other things. 
+I can barely call it a diary now with these 1 line updates. I have been busy with other things.
 I have started using Obsidian for note taking and I spend most of my time there. It would be nice if I can push my updates from there.
 I used to use GitJournal on Android but this file is too big to load and slows down badly.
 
@@ -237,7 +240,7 @@ Setup Obsidian along with syncthing to make my life easier with notetaking.
 
 # 2022-07-23
 
-Went out with the bois. Good day. 
+Went out with the bois. Good day.
 I am polishing the lazy loading in my extension. I am absolutely having a great time exploring codebases. Right now while testing my extension I have vscode repo on and sometimes I'll get distracted and explore its classes. I like when they are commented and I know whats its purpose.
 
 # 2022-07-22
@@ -266,7 +269,7 @@ I'll add the option to choose which types to filter out. But this looks good for
 
 Heres a screenshot.
 
-![Image](/images/classbrowser.png) 
+![Image](/images/classbrowser.png)
 
 Top right is class browser and bottom right is outline view.
 
@@ -310,10 +313,10 @@ Worked late night & played Valheim with FLARE
 
 # 2022-07-13
 
-Made artworks for the cards and simplified the mechanics. 
+Made artworks for the cards and simplified the mechanics.
 
 # 2022-07-12
-Refined the gameplay loop. 
+Refined the gameplay loop.
 
 # 2022-07-11
 
@@ -371,12 +374,12 @@ One of my criticism is that I over engineer stuff. I need to think about this.
 
 # 2022-07-04
 
-I tried out java today and it was nice but its missing a good IDE. 
+I tried out java today and it was nice but its missing a good IDE.
 
 *One person's pattern can be another person's primitive building block* - Design Patterns, Elements of Reusable Object Oriented Software
 
 I have an itch for GUI programming these days.
-I am starting to like java for determinism. I looked into reflection in java. I have some ideas but I'll wait until I get comfortable with java. 
+I am starting to like java for determinism. I looked into reflection in java. I have some ideas but I'll wait until I get comfortable with java.
 
 I started reading "Design Patterns, Elements of Reusable Object Oriented Software".
 
@@ -390,7 +393,7 @@ Using OOP for logic with React was pretty nice logically but pain to integrate. 
 
 I remember the scene from Dota where Invoker is in a never ending library and books float mid air and pages turn by his will. I want that kind of power. Just float around and read things all day.
 
-![Image](/images/26d0d0aa8f02c71f40903c163cfeacaf.jpg) 
+![Image](/images/26d0d0aa8f02c71f40903c163cfeacaf.jpg)
 *The council of kitties have blessed my rig*
 
 *exultant*
@@ -407,7 +410,7 @@ I just finished a problem and used pure OO and TDD. This was good. I learnt alot
 
 Correction, there's 3 of them. The third just walked in today and latched on mommy cat.
 
-![Image](/images/33cd1c3825a05befa522fabbbf85a8fa.jpg) 
+![Image](/images/33cd1c3825a05befa522fabbbf85a8fa.jpg)
 
 *fiery*
 
@@ -421,15 +424,15 @@ I am working on a problem. React does have its quirk. I have my business logic i
 
 Personal day.
 
-Oracle terminated the Minecraft server account without any clarification. 
+Oracle terminated the Minecraft server account without any clarification.
 
-I feel like writing short stories, inanimate objects becoming self aware and backstories. 
+I feel like writing short stories, inanimate objects becoming self aware and backstories.
 
 *flippant*
 
 # 2022-06-29
 
-I wrote something and I am proud of it. 
+I wrote something and I am proud of it.
 
 *stupendous*
 
@@ -439,7 +442,7 @@ Good day
 
 Personal day.
 
-The X dilemma, I could either believe an abstraction and build upon it or see for myself and build my own abstractions. With the former I won't get to the root and the latter will eat up my time. I, like always like a good balance. 
+The X dilemma, I could either believe an abstraction and build upon it or see for myself and build my own abstractions. With the former I won't get to the root and the latter will eat up my time. I, like always like a good balance.
 
 *exemplary*
 
@@ -454,8 +457,8 @@ I have specs for commands. I still need figure out how the whole system will com
 I have a mini plan and I am going to commit to it.
 I can't stress how good TDD & tests as specs are.
 
-I have a mini plan and I will be working on it this week. 
-I have been trying to build a prototype and I was lost with details. 
+I have a mini plan and I will be working on it this week.
+I have been trying to build a prototype and I was lost with details.
 Unit tests give clarity & confidence.
 
 *gregarious*
@@ -470,7 +473,7 @@ I've been observing my kittens and I think this is what goes in their tiny kitte
 - I am water
 - *stretch and yawn and instant sleep*
 
-![Image](/images/d6deef424d00dcad51d02c9ebac642ed.jpg) 
+![Image](/images/d6deef424d00dcad51d02c9ebac642ed.jpg)
 
 # 2022-06-24
 
@@ -487,7 +490,7 @@ Night
 
 Decoupled grammars.
 
-![Image](/images/3464523de4398584e81e40ae71bb2196.jpg) 
+![Image](/images/3464523de4398584e81e40ae71bb2196.jpg)
 
 The first stable version of the compiler is out. I will add features incrementally. This will be my test bed for lambda calculus.
 
@@ -500,7 +503,7 @@ Good day, night.
 Need to think about priorities. Got sidetracked for 2 days.
 Back on my compiler.
 
-![Image](/images/7db81936eb12efa72acea8427dd31d11.jpg) 
+![Image](/images/7db81936eb12efa72acea8427dd31d11.jpg)
 *They did come, ahahahah*
 
 Should be able to cleanup the compiler tomorrow.
@@ -517,13 +520,13 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 
 *Famished* - Adjective of the day.
 
-![Image](/images/98eb4943262815447564da00f41d87ae.jpg) 
+![Image](/images/98eb4943262815447564da00f41d87ae.jpg)
 *Passing by kitties. I offered them food but they din't stay*
 
-![Image](/images/60c65c4c6b697a9d33b549ece6b9ba89.jpg) 
+![Image](/images/60c65c4c6b697a9d33b549ece6b9ba89.jpg)
 *Omgomgomg they came back, ahahahahahahah*
 
-![Image](/images/612c79bf994e16a6bde6b17b027a7047.jpg) 
+![Image](/images/612c79bf994e16a6bde6b17b027a7047.jpg)
 *Put out some milk in box and they fell for it, ez scam*
 
 They went away again. I wish they come back tomorrow.
@@ -556,13 +559,13 @@ Good day, night
 
 # 2022-06-18
 
-Went down the rabbit hole of compressing the assets. Its done and I'll integrate it soon. 
+Went down the rabbit hole of compressing the assets. Its done and I'll integrate it soon.
 
 Will gzip & minify my assets soon.
 
 Pushed `Abstractions`.
 
-Added awesome. Need to think about how I will organise. 
+Added awesome. Need to think about how I will organise.
 
 Had a meaningful conversation about work culture today.
 
@@ -570,7 +573,7 @@ Metro stream at night by Flare, Yayy
 
 # 2022-06-17
 
-The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro. 
+The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro.
 I hosted a service on it last night and I have been thinking about switching to arm fully. I think I will be able to switch well given that I dockerize everything. Let me think about this.
 
 Someone has already made a better playground for nearley So I can move on to something else. Or I could improve it, I'll think about it. Time for some dog fooding. I realised I don't need backend for this So I could just make a Client side rendered webapp.
@@ -582,7 +585,7 @@ Pushed part 2 `Grammar & Primitive Operations`. Next will be `Abstraction` and `
 # 2022-06-16
 
 Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with grammar.
-I'll clean it up tomorrow. 
+I'll clean it up tomorrow.
 I'll push operator precendence tomorrow.
 This will be my magnum opus for a long time.
 
@@ -590,10 +593,10 @@ Good day, night.
 
 # 2022-06-15
 
-![Image](/images/ee21839185dd2ef87722f8e5b340f3bb.jpg) 
+![Image](/images/ee21839185dd2ef87722f8e5b340f3bb.jpg)
 *My IEMs are here*
 
-![Image](/images/30e94995dc5ffff67f764d7cbe6a0fc9.jpg) 
+![Image](/images/30e94995dc5ffff67f764d7cbe6a0fc9.jpg)
 *Day 83 since recorded history, I am listening things on low volume. I can make out the details with my IEMs*
 
 I had to break down the notes into even smaller chunks.
@@ -608,7 +611,7 @@ Good day, night
 
 Added assignment and multiline support.
 
-I am cleaning it up right now and will write a series of notes 
+I am cleaning it up right now and will write a series of notes
 - Introduction to lambda calculus - grammar and lexer
 - Making the AST
 - Evaluating the AST
@@ -617,9 +620,9 @@ Running Emacs as daemon has made my life easier. No more longer load times.
 
 # 2022-06-13
 
-I DID IT!!! I made the compiler. The prototype is ready. 
+I DID IT!!! I made the compiler. The prototype is ready.
 
-![Image](/images/0039a54e7ea7c4ffcad83c082905e785.png) 
+![Image](/images/0039a54e7ea7c4ffcad83c082905e785.png)
 
 For now it can only execute single line and there's no assignment. I will add these over the coming days.
 
@@ -635,11 +638,11 @@ Spent the whole day reading about lexers and parsers. I have the grammar and lex
 
 Also I found out Oracle cloud has free eligible arm machines with upto 12 core and 72 gigs of memory. I tried out 4core and 6gig config and it's way better than the micro instance which crashes under heavy workloads. I will test it out for the coming days.
 
-[Toby Ho](https://youtube.com/channel/UCo3DTdFQphyjdnGy0xjLfZA) - one of the best resources on compiler 101. 
+[Toby Ho](https://youtube.com/channel/UCo3DTdFQphyjdnGy0xjLfZA) - one of the best resources on compiler 101.
 
 I have so many "awesome" links. Soon I'll make a section on my site and call it `awesome`
 
-![Image](/images/6cdb4f871a0deba0cb40420196c0227c.jpg) 
+![Image](/images/6cdb4f871a0deba0cb40420196c0227c.jpg)
 
 Had an unexpected visit from an old friend, sweet.
 
@@ -681,7 +684,7 @@ Night
 
 # 2022-06-08
 
-I have developed critical thinking so I can tackle almost any new problem. I wish I could've done it sooner, only if i could visualize math better. 
+I have developed critical thinking so I can tackle almost any new problem. I wish I could've done it sooner, only if i could visualize math better.
 
 I will be binging through 6006 - Introduction to algorithms to fill the gap.
 
@@ -739,14 +742,14 @@ Added jupyter as systemd service.
 
 Jupyter has vim like keybinds, how cool is that?
 
-Dockerized the whole setup. And It'll serve my literate programming needs better than org mode. 
-The biggest reason I dockerize something is reproduceability. 
+Dockerized the whole setup. And It'll serve my literate programming needs better than org mode.
+The biggest reason I dockerize something is reproduceability.
 
 ![Image](/images/cfd71781f957f8196f5113f35975e1e9.jpg)
 
 # 2022-06-04
 
-I read about org roam today. 
+I read about org roam today.
 
 Started with Ruby koans. I can definitely see myself using it because it's objects all the way down
 
@@ -763,11 +766,11 @@ I have so many ideas I can pair up with jupyter. The first is to get it running 
 Recently during our conversations, we came across [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/#what-is-a-zettelkasten) system.
 
 ![Jun Zettelkasten setup](/images/jun_zel_setup.jpg)
-*[Jun](https://arjunchoudhary.com/)'s Z setup* 
+*[Jun](https://arjunchoudhary.com/)'s Z setup*
 
 Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around alot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
 
-![Image](/images/1d911ae08bbc71bc60f71c388733d028.jpg) 
+![Image](/images/1d911ae08bbc71bc60f71c388733d028.jpg)
 *Stray release date announced*
 
 One of the games I am really excited for. I know I'll like it when it's produced by Annapurna Interactive
@@ -778,7 +781,7 @@ I'll get comfortable with org roam
 
 Tomorrow's plan is to tinker around org roam and zoom through Ruby koans
 
-![Image](/images/fa5711aacc7e9f5bb22a8f4c45d2f5fd.jpg) 
+![Image](/images/fa5711aacc7e9f5bb22a8f4c45d2f5fd.jpg)
 
 # 2022-06-02
 
@@ -791,7 +794,7 @@ Plan for today
 
 RTFM has proved to be the best guide
 
-I skimmed through the mongodb manual. I learnt about the voting process if the primary node fails and I think its cool. 
+I skimmed through the mongodb manual. I learnt about the voting process if the primary node fails and I think its cool.
 I like distributed systems. I believe distributed programming & distributed storage comes under distributed systems. I might be wrong but I like them all.
 
 I think one of the reasons I do like distributed systems is the horizontal scaling part. The fact that you can scale a system with relatively low powered hardware is cool.
@@ -806,7 +809,7 @@ Todays plan is to push the two post in pipeline and read about concurrency.
 
 Cronified builds.
 
-![Image](/images/f79daed00e572ea3ea066092cd5f878d.jpg) 
+![Image](/images/f79daed00e572ea3ea066092cd5f878d.jpg)
 *Low effort CyberDeck*
 
 Kadane's algorithm is out.
@@ -818,19 +821,19 @@ Read about the actor model in concurrency and it's my favourite concurrency mode
 
 # 2022-05-31
 
-Just lost my changes by fucking around a detached head branch. 
+Just lost my changes by fucking around a detached head branch.
 
 Your home made cicd, CRON.
 I could utilize github actions to build & push to vps but I won't because I will do things without automation for a week and automate incrementally.
 
 Fixed nav background on mobile. The color glitch out on firefox because of vendor css props. I'll just use postcss to even everything out.
 
-Wrote about Kadane's algorithm for linear time subarray sum. Looked at 
+Wrote about Kadane's algorithm for linear time subarray sum. Looked at
 Manacher's algorithm for longest palindrome.
 
 1 medium problem a day and a solution post is good enough. Tomorrow's plan is to integrate the artworks on site and cronify builds.
 
-I looked at prolog today along with 99 problems in prolog. Logic programming has very elegant solutions and I like it. 
+I looked at prolog today along with 99 problems in prolog. Logic programming has very elegant solutions and I like it.
 
 # 2022-05-30
 
@@ -859,7 +862,7 @@ I don't see any point in having `fragments`. I'll merge it asap.
 
 I tried some Ruby today. Its the closest thing to smalltalk. It has definitely peaked my curiosity and I know I'll be solving Ruby koans soon.
 
-Recently Gopher came up in a conversation so I looked up other web protocols. I browsed gemini and gopher and I like the simplicity. I've always tried to go the other way. I don't need performance or fancy graphics. Thats why I use i3 and live in emacs. I'll look into porting my site to gemini and gopher. I'll be reading about them as well. 
+Recently Gopher came up in a conversation so I looked up other web protocols. I browsed gemini and gopher and I like the simplicity. I've always tried to go the other way. I don't need performance or fancy graphics. Thats why I use i3 and live in emacs. I'll look into porting my site to gemini and gopher. I'll be reading about them as well.
 
 # 2022-05-28
 
@@ -895,15 +898,15 @@ Good day, night.
 
 # 2022-05-26
 
-Spent the day migrating to hugo. Need to setup cicd. 
-Used [hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) 
+Spent the day migrating to hugo. Need to setup cicd.
+Used [hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini)
 ![Preview](https://raw.githubusercontent.com/nodejh/hugo-theme-mini/master/images/screenshot.png)
 
 Once this is up, I can start writing with org-mode.
 
 Good day, night.
 
-Testing new site trigger from submodule update. 
+Testing new site trigger from submodule update.
 The new site didn't had the submodule push triggers. Added. Testing again.
 
 IT WORKS!!!!!!!! AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
@@ -928,7 +931,7 @@ Good day
 
 # 2022-05-23
 
-Personal day. 
+Personal day.
 
 # 2022-05-22
 
@@ -936,9 +939,9 @@ I binged Love, Death & Robots last night.
 
 I played Transistor today. Its aesthetic. The art style and the little touches like the humming and the songs, this definitely makes in my top 10 list.
 
-Today's plan is to solve some leetcode problems. 
+Today's plan is to solve some leetcode problems.
 
-`It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.` 
+`It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.`
 - *Nathaniel Borenstein, 1992*
 
 # 2022-05-21
@@ -953,7 +956,7 @@ Good day, night
 
 Personal day today.
 
-Took a online assessment test. Pretty good in frontend.  Average in backend. The backend assessment had alot of cryptographic security questions. 
+Took a online assessment test. Pretty good in frontend.  Average in backend. The backend assessment had alot of cryptographic security questions.
 
 Tomorrow, I'll start publishing org-mode. The plan is to get the system up ASAP and then I can port my site slowly.
 
@@ -974,7 +977,7 @@ Here's the server [Docker Discord server](https://discord.gg/XwvrsZ6r)
 
 Finally was able to get Prisma working in docker.
 
-And after that I wasn't able to access the db instance from internal network. Turns out I was trying to access on external port. This was the first time I am trying to setup a full stack app. 
+And after that I wasn't able to access the db instance from internal network. Turns out I was trying to access on external port. This was the first time I am trying to setup a full stack app.
 
 Tomorrow I should be able to be done with bulk of the problem. And then only finishing touches.
 
@@ -1005,20 +1008,20 @@ Good day, Night.
 
 I switched to `evil-mode`. The plan is to use evil-mode for editable buffers & emacs for read-only buffers.
 
-I had my personal day. 
+I had my personal day.
 
 # 2022-05-13
 
 I wasn't able to complete the challenge but on the upside I can write programs literate style now.
 
-![Image](/images/d312a0c721255e43827d273349806bcf.jpg) 
+![Image](/images/d312a0c721255e43827d273349806bcf.jpg)
 
-![Image](/images/42a5a9804d0033e4ef3586135fd2d355.jpg) 
+![Image](/images/42a5a9804d0033e4ef3586135fd2d355.jpg)
 
 # 2022-05-12
 
 I made a small mistake of using JSON as storage, should've gone with sqlite. I can't serialize python datetime into jsonvalue.
-I have to look into it. 
+I have to look into it.
 
 Second, this is the first time I am using org-mode & literate programming for my development. I am still figuring out optimal ways to use it. I run snippets as well so the dev is iterative. I write a main program with the logical chunks-tags and then write those chunk tags in another block. But I want to test the chunk as well, so I write another block to test that code. If there are dependencies for a chunk, the get expanded as well so code is duplicated in the source file. I need to come up with a better solution for this so I can write my program as chunks, test them and the resulting source has no duplication.
 
@@ -1041,7 +1044,7 @@ Looked into noweb.
 Occupied with personal stuff.
 
 # 2022-05-08
-I came across noweb for org-mode and I have fallen in love with it. It allows me to write seperate chunks of code and include in other chunks. I can start writing literate programs now. 
+I came across noweb for org-mode and I have fallen in love with it. It allows me to write seperate chunks of code and include in other chunks. I can start writing literate programs now.
 
 The other problem, more of an inconvenience is lack of support for org-mode for 11ty framework. I am looking into exporting my site to org-mode.
 
@@ -1082,7 +1085,7 @@ I'll be moving towards cpp for problem solving
 
 I have familiarized myself with debugging and now I can't live without it. Right now, the only dynamic language with good debugging support is Python.
 
-![Image](/images/85f74287984d72c156b421909461417b.jpg) 
+![Image](/images/85f74287984d72c156b421909461417b.jpg)
 
 I need to figure out the layout I'll be using for literate programming.
 
@@ -1110,7 +1113,7 @@ I have decided to publish my leetcode solutions in fragments. I'll do that from 
 
 Solved a linked list problem with 2 pointers. I am better off solving medium problems now.
 
-![Image](/images/567adb1b5ddccd84b7228fa87394cd61.jpg)  
+![Image](/images/567adb1b5ddccd84b7228fa87394cd61.jpg)
 I should've bought her home but her siblings were around.
 
 One of the downsides of recursion is the hard limit langauges have for recursive calls. Even if it's tail recursion.
@@ -1121,7 +1124,7 @@ Good day, Night
 
 Plan is to solve BST & Linked Lists today and look into bit masking.
 
-![Image](/images/0a9b90f2a33b3be82eb38a49e7a356f8.jpg) 
+![Image](/images/0a9b90f2a33b3be82eb38a49e7a356f8.jpg)
 I'll be bald this whole summer, probably.
 
 I conducted a survey with a sample size of 2, including me if the 1/6th sliced sandwich is too big and the results are
@@ -1136,7 +1139,7 @@ Night
 # 2022-04-30
 
 Solved some Binary search & Linked List problems. The 14 day plan of Leetcode is locked, I can't access all of them at once.
-I am very comfortable with Binary search now. 
+I am very comfortable with Binary search now.
 I will be doing BSTs and Linked lists tomorrow.
 I am going to treat myself with icecream.
 
@@ -1150,7 +1153,7 @@ Good day, Night
 
 # 2022-04-29
 
-Solved 2 problems in morning. 
+Solved 2 problems in morning.
 Something's wrong with leetcode. The submit test cases flag Wrong Answer(WA) but when I check on local, it gives me correct answer.
 To verify it I ran the failing test case in leetcode's test cases and it gave correct answer but submission is flagging wrong answer.
 
@@ -1178,7 +1181,7 @@ Good day, Night
 
 If it compiles, it works. Am I right? - *Some rust programmer*
 
-![Image](/images/2f34c02994684b2cc351b079904cf163.jpg) 
+![Image](/images/2f34c02994684b2cc351b079904cf163.jpg)
 
 Leetcode is tough. I might have to take it at this pace, slow.
 
@@ -1195,7 +1198,7 @@ Nope, rust is definitely not suitable for competitive programming for me.
 Elegant code > everything.
 
 I could only solve 1 problem today. While taking things slow is good but the languages feel inadequate. They don't support the verbs I want to work it. Something as simple as position-if function. I want these high order functions at my disposal.
-I might have to build my own library. 
+I might have to build my own library.
 
 Night
 
@@ -1210,10 +1213,10 @@ Speed is not my priority when it comes to problem solving, readability is.
 
 # 2022-04-24
 
-Tried out some easy leetcode problems and I really need to catchup. 
+Tried out some easy leetcode problems and I really need to catchup.
 I solved with python because it was the quickest to setup with tdd. I'll move on to cpp.
 
-Spent some time looking into autotools. 
+Spent some time looking into autotools.
 I wrote an emacs babel function for evaluating python functions in org-mode.
 
 I don't like language quirks. I want determinism. I don't want to spend an hour on abs function which gives segmentation fault.
@@ -1238,7 +1241,7 @@ I started with the TDD practice. I will finish the first exercise.
 
 Coming monday Leetcode grind starts. I will fuck around my personal things until this weekend, from monday strict DSA.
 
-I realised the testing things pretty easy if you are good at design, which smalltalk taught me. 
+I realised the testing things pretty easy if you are good at design, which smalltalk taught me.
 
 Also [Dr. Ziltch](https://open.spotify.com/track/04RO1gAZbF34O2gv0Oak5U?si=lfdELlM0SgCfXZbESUv8Aw) slaps
 
@@ -1260,7 +1263,7 @@ My cousin's here, we played Minecraft. I recommended him Portal, my first pc gam
 
 I am not getting any pc time today, he's been playing Portal. I'll read.
 
-![Image](/images/406a765d5812d69a243823ee1933f172.jpg) 
+![Image](/images/406a765d5812d69a243823ee1933f172.jpg)
 *Test subject recruited*
 
 I finished the Unit testing section. I can start tdd.
@@ -1276,7 +1279,7 @@ Good day, night.
 Whenever a merge error happens, my GitJournal breaks. It happened today and I couldn't write from phone.
 
 I read today, alot. I am halfway through the testing book. I also looked that `Players Handbook` for DND.
-I like where I am headed as a dev. Docker then testing. 
+I like where I am headed as a dev. Docker then testing.
 
 My cat is pregnant. Lets hope they make it this time.
 
@@ -1305,7 +1308,7 @@ I know when I miss programming.
 ### Plan for today
 - [ ] try some testing katas
 
-I recently found out about Socratic Dialogue. And the reason its big for me is because the two books which had a big impact on me as a developer were written that way. 
+I recently found out about Socratic Dialogue. And the reason its big for me is because the two books which had a big impact on me as a developer were written that way.
 The Little Schemer & The Seasoned Schemer are written as Socratic dialogue.
 
 I am going to read the 3rd book in the series The Reasoned Schemer, which is based on relational programming soon. I plan to read more of this style. Good stuff.
@@ -1374,7 +1377,7 @@ Night
 
 ### Plan for today
   * [x] mirror a repo with ansible & cron it
-  
+
 Played dota after a long time. I need a singleplayer now.
 
 I noticed the two task I plan for the day need to be related. I'll keep that mind. I suppose I could edit & draw on Sundays.
@@ -1401,9 +1404,9 @@ There's no link styling on my site. I'll fix it today.
 
 I liked playing as Brim in Valorant. I'll draw his Stim Beacon soon.
 
-I'll soon setup a cyberdeck with termux. 
+I'll soon setup a cyberdeck with termux.
 Something like this
-![Image](/images/03725bccf6bc61b9eccdac7b6a7522f9.jpg) 
+![Image](/images/03725bccf6bc61b9eccdac7b6a7522f9.jpg)
 *Credit - https://sixohthree.com/termux-for-android*
 
 I haven't been able to get alot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
@@ -1441,7 +1444,7 @@ I call this mission accomplished.
 
 Time to focus on linux administration.
 
-Just learnt I can use service name instead of assigning static ips to containers. 
+Just learnt I can use service name instead of assigning static ips to containers.
 
 Linux administration is very vast so I have decided to constrain myself to practices.
   * user management
@@ -1455,7 +1458,7 @@ My progress as a dev
   * [x] lisp
   * [x] containerization(docker)
   * [ ] distributed computing(elixir/erlang)
-  
+
 Finally added checkboxes to my site, looks good.
 
 This style of keeping track is not efficient. I need to start using kanban. I have noticed there 1 big task & a small one which I do get done, I need to start planning considering that.
@@ -1483,7 +1486,7 @@ I tried using emacs as my window manager, din't work out because
   * would freeze up sometimes and had to reboot
 I realised I am better off with i3wm. I'll soon go through all the docs of i3 and rice it up, not that I haven't. But I'll be more comfortable tweaking it if I know everything.
 
-![Image](/images/be0164af19d609f5bf0c7549588cebc2.jpg) 
+![Image](/images/be0164af19d609f5bf0c7549588cebc2.jpg)
 *My new wallpaper*
 Credit - https://www.reddit.com/r/cycling/comments/tz4d80/the_perfect_cycling_wallpaper_doesnt_exi
 
@@ -1501,7 +1504,7 @@ docker-compose is wayyy too powerful, I like it.
 
 I composed them together. Now I need to make them talk to each other.
 
-![Image](/images/a1e1f6660ddceb55e12338623f7acea1.jpg) 
+![Image](/images/a1e1f6660ddceb55e12338623f7acea1.jpg)
 
 I am going to finish watching Puss in Boots and then solve the docker thing
 
@@ -1515,7 +1518,7 @@ My legs sore and painful from all the cycling.
 
 Busy with home stuff today. I'll dockerize my portfolio jut for fun today.
 
-![Image](/images/1fe105dcb9d332cd75e1765e6d7b7f76.jpg) 
+![Image](/images/1fe105dcb9d332cd75e1765e6d7b7f76.jpg)
 
 ### Plan for today
 - [x] dockerize portfolio
@@ -1540,7 +1543,7 @@ I am using make file for now, It should do the job. I'll use docker-compose.yml 
 
 I really need to edit my videos. I will edit them for the coming days along with tinkering with docker.
 
-Actually good day considering I worked relatively less than usual but got more done. 
+Actually good day considering I worked relatively less than usual but got more done.
 
 Night friend
 
@@ -1573,7 +1576,7 @@ of programs as literature, the better our programs become.` - *Some wise literat
 
 
 It was a blast. One of the best time with the Bois.
-I am tired, I'll look into docker when I wake up. 
+I am tired, I'll look into docker when I wake up.
 
 Somehow chrome seems to freeze exwm. I am switching to firefox permanently.
 
@@ -1615,7 +1618,7 @@ Idk how I managed until now. I wanna go to places just to see things this clear.
 
 I can see things on my pc from bed. This power... its too much. I have a fucking scope.
 
-I looked more into docker, it feels just linux. Thats it. 
+I looked more into docker, it feels just linux. Thats it.
 Shouldn't be hard to master it.
 
 Just enabled `ivy-rich` and it made my life even better. Gives the docstring of entities.
@@ -1626,7 +1629,7 @@ My eyes feel ticklish and watery, it ll be fine after they get used to glasses.
 
 Couldn't draw Emacs because spent the whole day in Linux.
 
-Tomorrow I'll push the `My favourite Emacs packages` article. 
+Tomorrow I'll push the `My favourite Emacs packages` article.
 
 I am going to attend the convocation of the Bois. Its party time. EZ.
 
@@ -1674,7 +1677,7 @@ I'll spend the day today configuring exwm and evil keybinds.
 Exwm with evil mode turned out to be a bit of hassle, my browser windows turn read only. This is something I'll look into later on.
 Vanilla emacs exwm it is for me for now.
 
-I looked up about `ssh-add` persistence and I came across `ssh-add -K /path/to/key`. Lets see if this works. 
+I looked up about `ssh-add` persistence and I came across `ssh-add -K /path/to/key`. Lets see if this works.
 It did prompt me once. Let me try again. Nope, no luck.
 
 Figured out how to show the command keybind in minibuffer completion. One of the best things.
@@ -1690,7 +1693,7 @@ One of these days I'll make an emacs artwork.
 - [ ] Edit with Kdenlive
 - [x] Add `fragments`
 
-I'll take a look at Davinci Resolve fusion nodes today. 
+I'll take a look at Davinci Resolve fusion nodes today.
 I might try NixOS in a VM. The documentation is very good.
 
 I tried out clojure today. It feels like it has more support due to being on JVM, but thats just how I feel.
@@ -1725,14 +1728,14 @@ Since I have one content for `shorts`, I can start working on it today.
 
 I am not calling it `shorts`, its `fragments`.
 
-I want an electric bicycle. I'll buy it next year. 
+I want an electric bicycle. I'll buy it next year.
 
-I finally made the companion cube. This will be my official logo everywhere now. 
+I finally made the companion cube. This will be my official logo everywhere now.
 ![Companion Cube](https://raw.githubusercontent.com/jarusll/artworks/main/companion_cube/cube.svg)
 
 I finished watching `The way of the househusband`, pretty wholesome. I'll read the manga now
 
-Instead of figuring things out how to filter, I'll just push `fragments` for now. I'll manage filtering later on. So I can finish base implementation tomorrow. 
+Instead of figuring things out how to filter, I'll just push `fragments` for now. I'll manage filtering later on. So I can finish base implementation tomorrow.
 
 I'll push the videos every alternate days so I can get comfortable with an editor in a day and push the video next day.
 
@@ -1762,7 +1765,7 @@ Things I need to do for the edit
 - Background music(lofi chill)
 - Color grading(warm and low contrast)
 
-There is just too much to learn about video editing. I will give this a day more. 
+There is just too much to learn about video editing. I will give this a day more.
 I am blurring things out right now. I am yet to add text banners. Commentary is out of the question.
 
 Editing is a bitch. I did an amateur of not doing things in incognito and I now have to blur things out. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1782,21 +1785,21 @@ Night friend.
 - [ ] watch some linear video editing
 - [x] play dota with the bois, been a while since I played(played lol)
 
-I'll read some short stories today. 
+I'll read some short stories today.
 One of these days need to think about seamless images integration on portfolio. I can add image in diary but they get added in diary repo, that directory hasn't been configured for images. There will be more resources directories in future. Need a futureproof(enough) solution.
 
 Next week I'll setup RSS for my portfolio.
 
-![My Setup](/images/45c1d0ac5c158dbe491e518249607dc5.jpg) 
+![My Setup](/images/45c1d0ac5c158dbe491e518249607dc5.jpg)
 *My Setup*
 
-Testing image. 
+Testing image.
 Needs to be prefixed by `/images/`. Testing again.
 Works.
 
 Images can be easily added by passthrough copy in 11ty. The raw images uploaded from phone would be unoptimized but this will suffice for now.
 
-I am still yet to design the setup for shorts. Since there will be lots of posts, I will need filtering. 
+I am still yet to design the setup for shorts. Since there will be lots of posts, I will need filtering.
 
 Halfway through clojure koans.
 Once I have a stable recording setup I can start recording other things.
@@ -1810,12 +1813,12 @@ Once I have a stable recording setup I can start recording other things.
 I'll start applying for jobs soon.
 
 I love github copilot. No, it won't make people lose their jobs, it'll help them grow as a dev.
-One of the things will be sensible names when they try to use copilot suggestions. For me it'll be generating boilerplate, discoverability(with caution) 
+One of the things will be sensible names when they try to use copilot suggestions. For me it'll be generating boilerplate, discoverability(with caution)
 and automating trivial things. I will decompose my problem more and thus improve my code quality.
 
 I have made a Point class library for fun. That library can have some more functions if I had Angle class. I will be making the Angle class
  with the help of github copilot. Lets see how this goes.
- 
+
 Looks like there's no pornhub comments api, just scraping solutions.
 
 https://game.postdoesnotexist.com/ - Good game
@@ -1840,7 +1843,7 @@ I feel like I have familiarized myself with emacs well to move around quick enou
 
 Emacs has a diary. I looked into it. My current setup works for now given that I push from my phone as well.
 
-All this time I have been on a scavenged linux setup. I picked the first obvious solution & stuck to it. I really want to craft a system and stick to it. 
+All this time I have been on a scavenged linux setup. I picked the first obvious solution & stuck to it. I really want to craft a system and stick to it.
 The setup will be
 - minimal
 - stable
@@ -1872,7 +1875,7 @@ One of these days need to think about seo. It feels spammy and unethical. I'll k
 
 Found out a really sweet [Clojure Koans website](http://clojurescriptkoans.com/). Will give it a try soon.
 
-Helped out Xeon with his assignment today. Java isn't that bad. I'll give it a try someday. 
+Helped out Xeon with his assignment today. Java isn't that bad. I'll give it a try someday.
 
 `"CL (and elisp!) provides the programmer with more than enough rope to hang themself."` - *elisp-koans*
 
@@ -1899,7 +1902,7 @@ Seems like `ssh-add` doesn't persist. I don't know how long but it doesn't. I am
 I know just enough about elisp so that I can read the manual & get stuff done.
 Also the credential helper thing doesn't store any ssh keys. I'll have to look into it soon.
 
-Found out `which-key`, It lists all the commands available in current mode. 
+Found out `which-key`, It lists all the commands available in current mode.
 Here's a preview from ![justbur/emacs-which-key](https://github.com/justbur/emacs-which-key/raw/master/img/which-key-bottom.png)
 This is very helpful. I can just scroll through the commands to see what action I want, It shows the keybind as well. After a while it'll become second nature.
 
@@ -1918,7 +1921,7 @@ Ez, night friend
 - [ ] setup git on android
 
 The mount is here. Power tools are scary.
-I have enough desk space now, I can use my drawing tablet. 
+I have enough desk space now, I can use my drawing tablet.
 I set it up everything. I ll play Far Changing Tides, I've earned it.
 
 I'll be messing around with emacs lisp for a while. My goal is to start talking in terms of emacs objects like buffers, windows & frames and then write some trivial macros.
@@ -1926,7 +1929,7 @@ I'll be messing around with emacs lisp for a while. My goal is to start talking 
 Man I love magit, I am quickly able to do git actions which is letting me make rapid small changes. Good stuff.
 
 I'll be trying out [elisp koans](https://github.com/jtmoulia/elisp-koans)
-I did some elisp koans. I expected emacs types but this is standard lisp stuff. 
+I did some elisp koans. I expected emacs types but this is standard lisp stuff.
 Anyways the youtube series by System Crafters should get me upto speed with emacs types.
 
 I wanted to open my diary file quickly, I came across emacs registers. You can store any thing, good stuff. I stored my diary file at d. So I can access it by `C-x r j d` from anywhere in emacs. ezpz.
@@ -1969,7 +1972,7 @@ Just found out I can add ssh keys and I won't have to input password. VERY BIG, 
 
 Its been a while since I had any day off, tomorrow is my day. No work tomorrow. I ll play dota and draw.
 
-`The Green Knight` was the last decent movie I saw. I might watch some `Monty Python`. 
+`The Green Knight` was the last decent movie I saw. I might watch some `Monty Python`.
 
 Me and Wolfie discussed about the Destiny thing(`D2Newspaper` for now). I'll be working on it with him.
 
@@ -1979,7 +1982,7 @@ Like LoL characters, but the game feels like a mobile game. Might give it one mo
 ### Plan for today
 - [x] integrate diary
 - [ ] push `why i like smalltalk - message protocols`
-- [x] think about artworks integration 
+- [x] think about artworks integration
 - [ ] plan for destiny thing with Wolfie
 
 Man i love playing Oracle
@@ -2011,6 +2014,6 @@ Hello friend
 
 `Just let it crash and drop in debugger, we'll define things on the fly` - *Some wise smalltalk programmer*
 
-Easy day, dint really get much done. Pushed "Why I made a public diary" and made the diary. 
+Easy day, dint really get much done. Pushed "Why I made a public diary" and made the diary.
 
 Need to clone the diary repo in GitHub workflow.
