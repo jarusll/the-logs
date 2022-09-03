@@ -4,6 +4,22 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-03
+
+Started reading `Nonsequential and Distributed Programming with Go`
+
+I experimeted with alot of dota characters. Skywraith is a good one. I'll soon be trying out OmniKnight.
+
+Played Valhiem & Dota with FLARE. He has made quite some upgrades to the main base.
+
+# 2022-09-02
+
+Looked into go's concurrency patterns.
+
+# 2022-09-01
+
+Setup go env and play around some boilerplate.
+
 # 2022-08-31
 
 Went to FLARE's place. It was nice. Good shit.
