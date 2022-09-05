@@ -8,7 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 I discovered buffered channels in go and it blew my mind away. 
 
-"Paper is patient than 
+> Paper has more patience than people 
+- * Anne Frank*
 
 # 2022-09-04
 
