@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 I discovered buffered channels in go and it blew my mind away. 
 
+"Paper is patient than 
+
 # 2022-09-04
 
 Played alot of dota, I experimented with playing support with IO and it was good.
