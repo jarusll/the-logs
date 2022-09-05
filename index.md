@@ -4,6 +4,16 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-05
+
+I discovered buffered channels in go and it blew my mind away. 
+
+# 2022-09-04
+
+Played alot of dota, I experimented with playing support with IO and it was good.
+
+I read about concurrency.
+
 # 2022-09-03
 
 Started reading `Nonsequential and Distributed Programming with Go`
