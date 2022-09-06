@@ -10,6 +10,8 @@ I discovered buffered channels in go and it blew my mind away.
 
 > Paper has more patience than people - *Anne Frank*
 
+I like it when the trains at full speed when I am reading on my Kindle.
+
 # 2022-09-04
 
 Played alot of dota, I experimented with playing support with IO and it was good.
