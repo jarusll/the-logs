@@ -6,7 +6,7 @@ date: 2022-03-24T00:00:00+05:30
 
 # 2022-09-05
 
-I discovered buffered channels in go and it blew my mind away. 
+I discovered buffered channels in go and it blew my mind away. This just now feels like factorio.
 
 > Paper has more patience than people - *Anne Frank*
 
