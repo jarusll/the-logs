@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-06
+
+Turns out I like profiling. Getting frame graphs up and looking at performance bottlenecks, i like it.
+
+Been using obsidian alot at work. 
+
+Good day 
+
 # 2022-09-05
 
 I discovered buffered channels in go and it blew my mind away. This just now feels like factorio.
