@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-07
+
+Making things is easy, maintaining isn't. 
+
+I'll soon be deep diving webpack now that I've got a knack for diagnostics. Also I am dying to try out golangs buffered channels. 
+
+I seem to have the ability to make big changes on a codebase by observability.
+
 # 2022-09-06
 
 Turns out I like profiling. Getting frame graphs up and looking at performance bottlenecks, i like it.
