@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-08 
+
+Given how much I've been dealing with metrics these days I might read about it soon.
+
 # 2022-09-07
 
 Making things is easy, maintaining isn't. 
