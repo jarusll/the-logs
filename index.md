@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-10
+
+I can really get lost into webpack. I do understand that it's overengineered and I feared it before but now that I am comfortable with it, I spent hours last night optimizing a build. I think i am big into observability.
+
+# 2022-09-09
+
+Spent the day taking readings with webpack bundle analyzer.
+
 # 2022-09-08 
 
 Given how much I've been dealing with metrics these days I might read about it soon.
