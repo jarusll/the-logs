@@ -8,6 +8,8 @@ date: 2022-03-24T00:00:00+05:30
 
 I can really get lost into webpack. I do understand that it's overengineered and I feared it before but now that I am comfortable with it, I spent hours last night optimizing a build. I think i am big into observability.
 
+Also, [Jun](https://arjun.lol/), good guy, talks alot about optimization. Check him out.
+
 # 2022-09-09
 
 Spent the day taking readings with webpack bundle analyzer.
@@ -808,7 +810,7 @@ I have so many ideas I can pair up with jupyter. The first is to get it running 
 Recently during our conversations, we came across [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/#what-is-a-zettelkasten) system.
 
 ![Jun Zettelkasten setup](/images/jun_zel_setup.jpg)
-*[Jun](https://arjunchoudhary.com/)'s Z setup*
+*[Jun](https://arjun.lol/)'s Z setup*
 
 Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around alot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
 
