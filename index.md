@@ -4,6 +4,16 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-12
+
+So I've been helping cook my lunch these days and my fried rice tasted sour until i realised i got the wrong Schezwan sauce.
+
+I finished reading `Diary of Anne Frank`. I'll just read technical for a while.
+
+# 2022-09-11
+
+Looked at svelte for a thing.
+
 # 2022-09-10
 
 I can really get lost into webpack. I do understand that it's overengineered and I feared it before but now that I am comfortable with it, I spent hours last night optimizing a build. I think i am big into observability.
