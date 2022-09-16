@@ -4,6 +4,8 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-15
+# 2022-09-14
 # 2022-09-13
 
 I read the Afterword of Anne's diary and I wish I dint. It felt like someone hit me so hard I couldn't get back up or I dint want to. I am going to read more books around WW2.
