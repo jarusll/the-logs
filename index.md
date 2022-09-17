@@ -13,10 +13,10 @@ date: 2022-03-24T00:00:00+05:30
 ![](/images/ModerInTears.jpeg)
 
 ![](/images/WolfGang.jpeg)
-**
+We were finally able to tame the two wolves. Eventually they were brought back to home base located on a different island. The journey was arduous, almost rigorous but we knew the cost we had to pay. After all, the wolves MUST survive.
 
 ![](/images/Home.jpeg)
-*We let them roam*
+*We let them roam around*
 
 # 2022-09-16
 # 2022-09-15
@@ -90,7 +90,7 @@ I experimeted with alot of dota characters. Skywraith is a good one. I'll soon b
 Played Valhiem & Dota with FLARE. He has made quite some upgrades to the main base.
 
 ![](/images/Bonemass.jpeg)
-*Bonemass beat the fuck outta us, fortunately we managed to get rid of him*
+*Bonemass beat the fuck outta us, fortunately we managed to get rid of him* - FLARE
 
 # 2022-09-02
 
