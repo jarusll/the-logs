@@ -4,6 +4,21 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-17
+
+![](/images/NowWeHere.jpeg)
+*Started from the bottom, Now we here*
+
+![](/images/Moder.jpeg)
+![](/images/ModerInTears.jpeg)
+
+![](/images/WolfGang.jpeg)
+**
+
+![](/images/Home.jpeg)
+*We let them roam*
+
+# 2022-09-16
 # 2022-09-15
 # 2022-09-14
 # 2022-09-13
