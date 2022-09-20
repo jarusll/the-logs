@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-19
+# 2022-09-18
+
+I DID IT!!!! I ordered a 6700xt. Thisos going to become of the highest points in my gaming life. 
+
 # 2022-09-17
 
 ![](/images/NowWeHere.jpeg)
