@@ -5,6 +5,19 @@ date: 2022-03-24T00:00:00+05:30
 ---
 
 # 2022-09-19
+
+![Image](./a64bf1bcb1397d6caf739f997a7c7d19.jpg) 
+
+![Image](./2af7d5893b1b877d2363b9130ac8cc59.jpg) 
+
+![Image](./98a8d84d17ddae3535b7e95bf42f9e95.jpg) 
+
+![Image](./accf734efa4835100f3bdd5e2252fe12.jpg) 
+
+![Image](./51789d7757d687f49e9dee14ca17566c.jpg) 
+
+![Image](./c17ac706c2e4f4757636d1a6fc32ceac.jpg) 
+
 # 2022-09-18
 
 I DID IT!!!! I ordered a 6700xt. This going to become of the highest points in my gaming life. 
