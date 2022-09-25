@@ -4,6 +4,14 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-24
+
+I have been having an absolute blast with my new GPU. There was an overheating issue which I resolved with a new thermal paste. I will resolve the heating with a couple of case fans.
+
+# 2022-09-23
+# 2022-09-22
+# 2022-09-21
+# 2022-09-20
 # 2022-09-19
 
 ![Image](./a64bf1bcb1397d6caf739f997a7c7d19.jpg) 
