@@ -8,6 +8,18 @@ date: 2022-03-24T00:00:00+05:30
 
 I have been having an absolute blast with my new GPU. There was an overheating issue which I resolved with a new thermal paste. I will resolve the heating with a couple of case fans.
 
+![](/images/DeathStranding.png)
+
+![](/images/Destiny.png)
+
+![](/images/Destiny2.png)
+
+![](/images/ValheimCart.png)
+*The day we discovered Carts*
+
+![](/images/ValheimRaft.png)
+*Ooga booga*
+
 # 2022-09-23
 # 2022-09-22
 # 2022-09-21
