@@ -10,14 +10,14 @@ I have been having an absolute blast with my new GPU. There was an overheating i
 
 ![](/images/DeathStranding.png)
 
-![](/images/Destiny.png)
+![](/images/Destiny.jpg)
 
-![](/images/Destiny2.png)
+![](/images/Destiny2.jpg)
 
-![](/images/ValheimCart.png)
+![](/images/ValheimCart.jpg)
 *The day we discovered Carts*
 
-![](/images/ValheimRaft.png)
+![](/images/ValheimRaft.jpg)
 *Ooga booga*
 
 # 2022-09-23
