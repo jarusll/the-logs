@@ -20,6 +20,8 @@ I have been having an absolute blast with my new GPU. There was an overheating i
 ![](/images/ValheimRaft.jpg)
 *Ooga booga*
 
+I'll soon be trying out Downsampling now that my GPU can handle it. My only requirements are 60fps and really good visuals.
+
 # 2022-09-23
 # 2022-09-22
 # 2022-09-21
