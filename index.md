@@ -9,6 +9,17 @@ date: 2022-03-24T00:00:00+05:30
 ![Image](./4912be9e3a71267d7b03403dbb749a1b.jpg) 
 I saw them again ahahahaha, hopefully they'll let me pet them after a while.
 
+[Jun](https://arjun.lol) said parsec is black magic and I can confirm it is. I have tried 
+- Steam Link(with 1030). 
+  - I do understand 1030 did not have any encoder but parsec is so good I won't even bother trying steam link with my 6700xt
+- Rainway
+- Amd Link
+  - I like Amd link for having remote access. 
+
+and a couple of other less known in home streaming solutions and parsec is the absolute best. I have always wanted to play games on my phone. I even had a controller with mount when I used to rock my 1030. I'll soon be buying a decent controller to stream games on my phone.
+
+Looks like there's no easy way to have on screen controls with parsec and I'll have to wait until I buy a controller.
+
 # 2022-09-25
 
 Played Death stranding on 4k downscaled to 1080 and it was absolute crisp. My 6700xt was able to handle it well given my only requirements were ultra/high settings with FSR and stable 60fps. I do admit 4k was overkill, I'll just downscale from 1440p.
