@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-26
+
+![Image](./4912be9e3a71267d7b03403dbb749a1b.jpg) 
+I saw them again ahahahaha, hopefully they'll let me pet them after a while.
+
+# 2022-09-25
+
+Played Death stranding on 4k downscaled to 1080 and it was absolute crisp. My 6700xt was able to handle it well given my only requirements were ultra/high settings with FSR and stable 60fps. I do admit 4k was overkill, I'll just downscale from 1440p.
+
 # 2022-09-24
 
 I have been having an absolute blast with my new GPU. There was an overheating issue which I resolved with a new thermal paste. I will resolve the heating with a couple of case fans.
