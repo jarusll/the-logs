@@ -11,6 +11,8 @@ Saw her again but she dint let me pet her. It'll take some time.
 
 I had my cpu configured wrong all this time. PBO enabled screws up everything and it boosts to 4.4ghz but with very bad thermals at 95C and so does eco mode. Keeping PBO at auto keeps things normal and it gets around 4.1ghz but with very good thermals at 80+-2C. This is with just 1 exhaust fan. Getting more fans will fix things.
 
+I had some really good lassi today, not so sweet and came with cream on top. Buttery smooth and some rubbery texture contrasted really good with the plain lassi. I still miss MM's lassi, it's not the same anymore with that prepackaged shit.
+
 # 2022-09-26
 
 ![Image](./4912be9e3a71267d7b03403dbb749a1b.jpg) 
