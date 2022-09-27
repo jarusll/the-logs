@@ -4,6 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-27
+
+![Image](./45a333782efdd4a5b67e3dc1bfa99c44.jpg) 
+Saw her again but she dint let me pet her. It'll take some time.
+
+I had my cpu configured wrong all this time. PBO enabled screws up everything and it boosts to 4.4ghz but with very bad thermals at 95C and so does eco mode. Keeping PBO at auto keeps things normal and it gets around 4.1ghz but with very good thermals at 80+-2C. This is with just 1 exhaust fan. Getting more fans will fix things.
+
 # 2022-09-26
 
 ![Image](./4912be9e3a71267d7b03403dbb749a1b.jpg) 
