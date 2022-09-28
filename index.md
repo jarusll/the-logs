@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-28
+
+![Image](./9c1defe519af1a1217793aac0034b569.jpg) 
+Came across these cuties on my way to work. I am glad there's a guy taking care of them. Good guy.
+
+![Image](./7933a8af38edcf0e58188e050f1fe862.jpg) 
+
+I am working on a "code is data and data is code" thing.
+
 # 2022-09-27
 
 ![Image](./45a333782efdd4a5b67e3dc1bfa99c44.jpg) 
