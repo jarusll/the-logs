@@ -4,6 +4,26 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-10-03
+
+![Image](./d2c0fefcff8a3c89b2923a3202965950.jpg) 
+
+![Image](./b651daf99569dbc7558faf6321b5b9a0.jpg) 
+
+![Image](./d93abcf058c5eb61602d7432e2becfad.jpg) 
+
+![Image](./3de7b36420a4c52c0fef5d0930ea4463.jpg) 
+
+# 2022-10-02
+
+Defeated final boss of Valheim
+
+# 2022-10-01
+# 2022-09-30
+# 2022-09-29
+
+Setup my secondary monitor
+
 # 2022-09-28
 
 ![Image](./9c1defe519af1a1217793aac0034b569.jpg) 
