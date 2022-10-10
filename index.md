@@ -4,6 +4,12 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-10-10
+
+I won't be able to update here frequently with alot of things going.
+
+I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
+
 # 2022-10-03
 
 ![Image](./d2c0fefcff8a3c89b2923a3202965950.jpg) 
