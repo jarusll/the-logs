@@ -16,7 +16,7 @@ Yes I did try Parsec and it was good. There was a noticeable latency but I play 
 
 Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
 
-![Image](/image/c67f91b87b16c76466732da0d7fdcb2d.jpg) 
+![Image](/images/c67f91b87b16c76466732da0d7fdcb2d.jpg) 
 She finally let me pet her, came upto me all by herself.
 
 ![Image](/images/13085c7c5add7c17ac6031399b09dafb.jpg) 
