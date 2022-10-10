@@ -10,6 +10,21 @@ I won't be able to update here frequently with alot of things going.
 
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
+![Image](./c67f91b87b16c76466732da0d7fdcb2d.jpg) 
+
+![Image](./13085c7c5add7c17ac6031399b09dafb.jpg) 
+
+![Image](./cef8649120aabf430cad0aedde7acbd2.jpg) 
+
+![Image](./0f7e1a522a80244eb9f499280cacffda.jpg) 
+
+![Image](./5deb5c59c8a50ad051fa155c04ce6a32.jpg) 
+
+
+![Image](./e25ea9670302eaabb668338beafd38ce.jpg) 
+
+![Image](./556c10c0a0648bfaa57a7a99d30d9368.jpg) 
+
 # 2022-10-03
 
 ![Image](./d2c0fefcff8a3c89b2923a3202965950.jpg) 
