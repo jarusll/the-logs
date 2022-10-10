@@ -10,6 +10,12 @@ I won't be able to update here frequently with alot of things going.
 
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
+Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
+
+Yes I did try Parsec and it was good. There was a noticeable latency but I play cinematic so it was good. Although I really dont have any reason to play on parsec since I am always around my PC.
+
+Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
+
 ![Image](./c67f91b87b16c76466732da0d7fdcb2d.jpg) 
 She finally let me pet her, came upto me all by herself.
 
@@ -39,12 +45,6 @@ I only saw one of them in morning and all of the 4 in noon
 ![Image](./3de7b36420a4c52c0fef5d0930ea4463.jpg) 
 
 ![Image](./f6ff3a72bcfa25614c12907089ce908e.jpg) 
-
-Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
-
-Yes I did try Parsec and it was good. There was a noticeable latency but I play cinematic so it was good. Although I really dont have any reason to play on parsec since I am always around my PC.
-
-Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
 
 # 2022-10-02
 
