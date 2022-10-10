@@ -42,6 +42,10 @@ I only saw one of them in morning and all of the 4 in noon
 
 Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
 
+Yes I did try Parsec and it was good. There was a noticeable latency but I play cinematic so it was good. Although I really dont have any reason to play on parsec since I am always around my PC.
+
+Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
+
 # 2022-10-02
 
 Defeated final boss of Valheim
