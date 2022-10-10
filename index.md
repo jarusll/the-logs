@@ -16,29 +16,29 @@ Yes I did try Parsec and it was good. There was a noticeable latency but I play 
 
 Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
 
-![Image](./c67f91b87b16c76466732da0d7fdcb2d.jpg) 
+![Image](/image/c67f91b87b16c76466732da0d7fdcb2d.jpg) 
 She finally let me pet her, came upto me all by herself.
 
-![Image](./13085c7c5add7c17ac6031399b09dafb.jpg) 
+![Image](/images/13085c7c5add7c17ac6031399b09dafb.jpg) 
 
-![Image](./cef8649120aabf430cad0aedde7acbd2.jpg) 
+![Image](/images/cef8649120aabf430cad0aedde7acbd2.jpg) 
 
-![Image](./0f7e1a522a80244eb9f499280cacffda.jpg) 
+![Image](/images/0f7e1a522a80244eb9f499280cacffda.jpg) 
 
-![Image](./5deb5c59c8a50ad051fa155c04ce6a32.jpg) 
+![Image](/images/5deb5c59c8a50ad051fa155c04ce6a32.jpg) 
 
 
-![Image](./e25ea9670302eaabb668338beafd38ce.jpg) 
+![Image](/images/e25ea9670302eaabb668338beafd38ce.jpg) 
 
-![Image](./556c10c0a0648bfaa57a7a99d30d9368.jpg) 
+![Image](/images/556c10c0a0648bfaa57a7a99d30d9368.jpg) 
 
 # 2022-10-03
 
-![Image](./d2c0fefcff8a3c89b2923a3202965950.jpg) 
+![Image](/images/d2c0fefcff8a3c89b2923a3202965950.jpg) 
 
-![Image](./b651daf99569dbc7558faf6321b5b9a0.jpg) 
+![Image](/images/b651daf99569dbc7558faf6321b5b9a0.jpg) 
 
-![Image](./d93abcf058c5eb61602d7432e2becfad.jpg) 
+![Image](/images/d93abcf058c5eb61602d7432e2becfad.jpg) 
 
 I only saw one of them in morning and all of the 4 in noon
 
