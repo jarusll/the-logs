@@ -38,6 +38,10 @@ I only saw one of them in morning and all of the 4 in noon
 
 ![Image](./3de7b36420a4c52c0fef5d0930ea4463.jpg) 
 
+![Image](./f6ff3a72bcfa25614c12907089ce908e.jpg) 
+
+Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
+
 # 2022-10-02
 
 Defeated final boss of Valheim
