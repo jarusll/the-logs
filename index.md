@@ -11,6 +11,7 @@ I won't be able to update here frequently with alot of things going.
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
 ![Image](./c67f91b87b16c76466732da0d7fdcb2d.jpg) 
+She finally let me pet her, came upto me all by herself.
 
 ![Image](./13085c7c5add7c17ac6031399b09dafb.jpg) 
 
@@ -32,6 +33,8 @@ I have been absolutely deep diving into bundlers with webpack and these 2 weeks 
 ![Image](./b651daf99569dbc7558faf6321b5b9a0.jpg) 
 
 ![Image](./d93abcf058c5eb61602d7432e2becfad.jpg) 
+
+I only saw one of them in morning and all of the 4 in noon
 
 ![Image](./3de7b36420a4c52c0fef5d0930ea4463.jpg) 
 
