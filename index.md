@@ -10,6 +10,8 @@ I won't be able to update here frequently with alot of things going.
 
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
+![Image](/images/f6ff3a72bcfa25614c12907089ce908e.jpg) 
+
 Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
 
 Yes I did try Parsec and it was good. There was a noticeable latency but I play cinematic so it was good. Although I really dont have any reason to play on parsec since I am always around my PC.
