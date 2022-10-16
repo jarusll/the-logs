@@ -16,6 +16,10 @@ Played God of War at 1080 Ultra. It felt rich.
 
 I read Harry Potter till Goblet of fire about 2 years ago, binge watched the whole movie series past 3 days. I am beginning to realise I like Heroic Fantasy.
 
+# 2022-10-11
+
+![Image](/images/5ef65defc9248039d42721f8340b1fea.jpg) 
+
 # 2022-10-10
 
 I won't be able to update here frequently with alot of things going.
