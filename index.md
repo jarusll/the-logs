@@ -4,6 +4,18 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-10-17
+
+Setup [nextdns](https://nextdns.io/). Good stuff.
+
+# 2022-10-16
+
+Read about snowpack, parcel & esbuild. Snowpack was a good idea, it could be integrated in existing bundlers. Will setup a POC & test webpack, rollup, esbuild & parcel.
+
+Played God of War at 1080 Ultra. It felt rich. 
+
+I read Harry Potter till Goblet of fire about 2 years ago, binge watched the whole movie series past 3 days. I am beginning to realise I like Heroic Fantasy.
+
 # 2022-10-10
 
 I won't be able to update here frequently with alot of things going.
