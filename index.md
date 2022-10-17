@@ -8,6 +8,12 @@ date: 2022-03-24T00:00:00+05:30
 
 Setup [nextdns](https://nextdns.io/). Good stuff.
 
+![Image](/images/7789a60ab65ed77ef2d720fdfa1f6d3c.jpg) 
+
+![Image](/images/5e3b8debf831abde3f97c8e00241a719.jpg) 
+
+Good day
+
 # 2022-10-16
 
 Read about snowpack, parcel & esbuild. Snowpack was a good idea, it could be integrated in existing bundlers. Will setup a POC & test webpack, rollup, esbuild & parcel.
