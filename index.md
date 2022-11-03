@@ -4,13 +4,24 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-10-03
+Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
+
+I spent the Diwali vacation with the bois. Meetup and games, the best time ever with the bois.
+
+I have been experiencing mini stutter on my PC and it took a month to realize its signal interference with my mouse dongle.
+
+I had to replace the ribbon PCB on my dualshock 4 to fix a dead button. I have a decent screwdriver for now but I plan to buy a good screwdriver in future.
+
+I also bought case fans which fixed the thermals.
+
 # 2022-10-17
 
 Setup [nextdns](https://nextdns.io/). Good stuff.
 
-![Image](/images/7789a60ab65ed77ef2d720fdfa1f6d3c.jpg) 
+![Image](/images/7789a60ab65ed77ef2d720fdfa1f6d3c.jpg)
 
-![Image](/images/5e3b8debf831abde3f97c8e00241a719.jpg) 
+![Image](/images/5e3b8debf831abde3f97c8e00241a719.jpg)
 
 Good day
 
@@ -18,13 +29,13 @@ Good day
 
 Read about snowpack, parcel & esbuild. Snowpack was a good idea, it could be integrated in existing bundlers. Will setup a POC & test webpack, rollup, esbuild & parcel.
 
-Played God of War at 1080 Ultra. It felt rich. 
+Played God of War at 1080 Ultra. It felt rich.
 
 I read Harry Potter till Goblet of fire about 2 years ago, binge watched the whole movie series past 3 days. I am beginning to realise I like Heroic Fantasy.
 
 # 2022-10-11
 
-![Image](/images/5ef65defc9248039d42721f8340b1fea.jpg) 
+![Image](/images/5ef65defc9248039d42721f8340b1fea.jpg)
 
 # 2022-10-10
 
@@ -32,7 +43,7 @@ I won't be able to update here frequently with alot of things going.
 
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
-![Image](/images/f6ff3a72bcfa25614c12907089ce908e.jpg) 
+![Image](/images/f6ff3a72bcfa25614c12907089ce908e.jpg)
 
 Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
 
@@ -40,33 +51,33 @@ Yes I did try Parsec and it was good. There was a noticeable latency but I play 
 
 Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
 
-![Image](/images/c67f91b87b16c76466732da0d7fdcb2d.jpg) 
+![Image](/images/c67f91b87b16c76466732da0d7fdcb2d.jpg)
 She finally let me pet her, came upto me all by herself.
 
-![Image](/images/13085c7c5add7c17ac6031399b09dafb.jpg) 
+![Image](/images/13085c7c5add7c17ac6031399b09dafb.jpg)
 
-![Image](/images/cef8649120aabf430cad0aedde7acbd2.jpg) 
+![Image](/images/cef8649120aabf430cad0aedde7acbd2.jpg)
 
-![Image](/images/0f7e1a522a80244eb9f499280cacffda.jpg) 
+![Image](/images/0f7e1a522a80244eb9f499280cacffda.jpg)
 
-![Image](/images/5deb5c59c8a50ad051fa155c04ce6a32.jpg) 
+![Image](/images/5deb5c59c8a50ad051fa155c04ce6a32.jpg)
 
 
-![Image](/images/e25ea9670302eaabb668338beafd38ce.jpg) 
+![Image](/images/e25ea9670302eaabb668338beafd38ce.jpg)
 
-![Image](/images/556c10c0a0648bfaa57a7a99d30d9368.jpg) 
+![Image](/images/556c10c0a0648bfaa57a7a99d30d9368.jpg)
 
 # 2022-10-03
 
-![Image](/images/d2c0fefcff8a3c89b2923a3202965950.jpg) 
+![Image](/images/d2c0fefcff8a3c89b2923a3202965950.jpg)
 
-![Image](/images/b651daf99569dbc7558faf6321b5b9a0.jpg) 
+![Image](/images/b651daf99569dbc7558faf6321b5b9a0.jpg)
 
-![Image](/images/d93abcf058c5eb61602d7432e2becfad.jpg) 
+![Image](/images/d93abcf058c5eb61602d7432e2becfad.jpg)
 
 I only saw one of them in morning and all of the 4 in noon
 
-![Image](/images/3de7b36420a4c52c0fef5d0930ea4463.jpg) 
+![Image](/images/3de7b36420a4c52c0fef5d0930ea4463.jpg)
 
 # 2022-10-02
 
@@ -80,16 +91,16 @@ Setup my secondary monitor
 
 # 2022-09-28
 
-![Image](./9c1defe519af1a1217793aac0034b569.jpg) 
+![Image](./9c1defe519af1a1217793aac0034b569.jpg)
 Came across these cuties on my way to work. I am glad there's a guy taking care of them. Good guy.
 
-![Image](./7933a8af38edcf0e58188e050f1fe862.jpg) 
+![Image](./7933a8af38edcf0e58188e050f1fe862.jpg)
 
 I am working on a "code is data and data is code" thing.
 
 # 2022-09-27
 
-![Image](./45a333782efdd4a5b67e3dc1bfa99c44.jpg) 
+![Image](./45a333782efdd4a5b67e3dc1bfa99c44.jpg)
 Saw her again but she dint let me pet her. It'll take some time.
 
 I had my cpu configured wrong all this time. PBO enabled screws up everything and it boosts to 4.4ghz but with very bad thermals at 95C and so does eco mode. Keeping PBO at auto keeps things normal and it gets around 4.1ghz but with very good thermals at 80+-2C. This is with just 1 exhaust fan. Getting more fans will fix things.
@@ -98,15 +109,15 @@ I had some really good lassi today, not so sweet and came with cream on top. But
 
 # 2022-09-26
 
-![Image](./4912be9e3a71267d7b03403dbb749a1b.jpg) 
+![Image](./4912be9e3a71267d7b03403dbb749a1b.jpg)
 I saw them again ahahahaha, hopefully they'll let me pet them after a while.
 
-[Jun](https://arjun.lol) said parsec is black magic and I can confirm it is. I have tried 
-- Steam Link(with 1030). 
+[Jun](https://arjun.lol) said parsec is black magic and I can confirm it is. I have tried
+- Steam Link(with 1030).
   - I do understand 1030 did not have any encoder but parsec is so good I won't even bother trying steam link with my 6700xt
 - Rainway
 - Amd Link
-  - I like Amd link for having remote access. 
+  - I like Amd link for having remote access.
 
 and a couple of other less known in home streaming solutions and parsec is the absolute best. I have always wanted to play games on my phone. I even had a controller with mount when I used to rock my 1030. I'll soon be buying a decent controller to stream games on my phone.
 
@@ -140,21 +151,21 @@ I'll soon be trying out Downsampling now that my GPU can handle it. My only requ
 # 2022-09-20
 # 2022-09-19
 
-![Image](./a64bf1bcb1397d6caf739f997a7c7d19.jpg) 
+![Image](./a64bf1bcb1397d6caf739f997a7c7d19.jpg)
 
-![Image](./2af7d5893b1b877d2363b9130ac8cc59.jpg) 
+![Image](./2af7d5893b1b877d2363b9130ac8cc59.jpg)
 
-![Image](./98a8d84d17ddae3535b7e95bf42f9e95.jpg) 
+![Image](./98a8d84d17ddae3535b7e95bf42f9e95.jpg)
 
-![Image](./accf734efa4835100f3bdd5e2252fe12.jpg) 
+![Image](./accf734efa4835100f3bdd5e2252fe12.jpg)
 
-![Image](./51789d7757d687f49e9dee14ca17566c.jpg) 
+![Image](./51789d7757d687f49e9dee14ca17566c.jpg)
 
-![Image](./c17ac706c2e4f4757636d1a6fc32ceac.jpg) 
+![Image](./c17ac706c2e4f4757636d1a6fc32ceac.jpg)
 
 # 2022-09-18
 
-I DID IT!!!! I ordered a 6700xt. This going to be one of the highest points in my gaming life. 
+I DID IT!!!! I ordered a 6700xt. This going to be one of the highest points in my gaming life.
 
 # 2022-09-17
 
@@ -199,15 +210,15 @@ Also, [Jun](https://arjun.lol/), good guy, talks alot about optimization. Check 
 
 Spent the day taking readings with webpack bundle analyzer.
 
-# 2022-09-08 
+# 2022-09-08
 
 Given how much I've been dealing with metrics these days I might read about it soon.
 
 # 2022-09-07
 
-Making things is easy, maintaining isn't. 
+Making things is easy, maintaining isn't.
 
-I'll soon be deep diving webpack now that I've got a knack for diagnostics. Also I am dying to try out golangs buffered channels. 
+I'll soon be deep diving webpack now that I've got a knack for diagnostics. Also I am dying to try out golangs buffered channels.
 
 I seem to have the ability to make big changes on a codebase by observability.
 
@@ -215,9 +226,9 @@ I seem to have the ability to make big changes on a codebase by observability.
 
 Turns out I like profiling. Getting frame graphs up and looking at performance bottlenecks, i like it.
 
-Been using obsidian alot at work. 
+Been using obsidian alot at work.
 
-Good day 
+Good day
 
 # 2022-09-05
 
