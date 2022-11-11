@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-11-11
+
+![Image](/images/1dde633bf72c1e2a1d6523d27c0bc309.jpg) 
+
 # 2022-10-03
 Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
 
