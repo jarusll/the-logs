@@ -24,6 +24,7 @@ Here are some cuties
 ![Image](/images/IMG_20221102_092452.jpg)
 ![Image](/images/IMG_20221109_093148.jpg)
 ![Image](/images/IMG_20221109_092851.jpg)
+![Image](/images/93bf0652898c203032057bcd843e0709.jpg) 
 
 # 2022-10-03
 Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
