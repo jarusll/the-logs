@@ -28,6 +28,10 @@ Here are some cuties
 ![Image](/images/93bf0652898c203032057bcd843e0709.jpg)
 Photo Credits: *WolfsteinDromon*
 
+Daily updates are not possible so I am going to maintain it weekly. Shorter 1 point updates in Obsidian and update on weekends.
+
+I noticed I perform better with peers who I can look upto. Also when I have more freedom. Also that I like refactoring. Its mostly for making it terser and my satisfaction. Its been a good week and I'll play some Deep rock galactic, ofc with gyro + flick stick.
+
 # 2022-10-03
 Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
 
