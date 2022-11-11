@@ -13,6 +13,7 @@ The cooler took down the temps by 15 degrees.
 
 I have been playing games with gyro + flick stick for the past few days and I've been having an absolute blast.
 I want this control scheme bad in every game with aim. I am very bad at aiming but this enables better aiming with controller for me since I prefer controller.
+Huge thanks to [JibbSmart](https://www.youtube.com/c/GyroGamingJS). If you are a controller player or a tinkerer I recommend you check out [GyroWiki](http://gyrowiki.jibbsmart.com/). I will be uploading my key profiles there and on my site.
 
 I am at a phase in life where I do feel responsibilities and need to think about future.
 
