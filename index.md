@@ -20,6 +20,11 @@ Me and FLARE played *theHunter: Call of the Wild*. We held *First to 2 kills* co
 
 ![Image](/images/FlareHunter.png)
 
+Here are some cuties
+![Image](/images/IMG_20221102_092452.jpg)
+![Image](/images/IMG_20221109_093148.jpg)
+![Image](/images/IMG_20221109_092851.jpg)
+
 # 2022-10-03
 Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
 
