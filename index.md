@@ -5,8 +5,18 @@ date: 2022-03-24T00:00:00+05:30
 ---
 
 # 2022-11-11
+Xeon's monitor borked so we went shopping last saturday. He bought a monitor and I bought a Hyper 212 for my thermals and FLARE bought USB Switch which is cool. I will buy switches when I have proper remote work setup, not alot of space with dual monitors and mic.
+The cooler took down the temps by 15 degrees.
 
-![Image](/images/1dde633bf72c1e2a1d6523d27c0bc309.jpg) 
+![Image](/images/1dde633bf72c1e2a1d6523d27c0bc309.jpg)
+*Bless your eyes*(Sorry for the dust)
+
+I have been playing games with gyro + flick stick for the past few days and I've been having an absolute blast.
+I want this control scheme bad in every game with aim. I am very bad at aiming but this enables better aiming with controller for me since I prefer controller.
+
+I am at a phase in life where I do feel responsibilities and need to think about future.
+
+Me and FLARE played *theHunter: Call of the Wild*. We held *First to 2 kills* competition and I let him win.
 
 # 2022-10-03
 Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
