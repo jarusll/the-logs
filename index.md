@@ -18,6 +18,8 @@ I am at a phase in life where I do feel responsibilities and need to think about
 
 Me and FLARE played *theHunter: Call of the Wild*. We held *First to 2 kills* competition and I let him win.
 
+![Image](/images/FlareHunter.png)
+
 # 2022-10-03
 Its been a while. I haven't booted up linux in a while. My PC is just for gaming these days.
 
