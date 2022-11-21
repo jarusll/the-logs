@@ -11,6 +11,8 @@ I am absolutely obsessed with gyro controls. I am playing every game with gyro. 
 
 I saw alot of joycons gyro gaming videos and I thought about trying out 2 handed as well except wiimote isn't good and so are the joycons. I will sleep on this decision for a while. If I really want to try 2 handed gaming I'll buy it in 2-3 months.
 
+I started uploading gyro youtube on videos. This way I get to try out new games and test out gyro so I refine my control scheme everytime I try something new.
+
 # 2022-11-11
 Xeon's monitor borked so we went shopping last saturday. He bought a monitor and I bought a Hyper 212 for my thermals and FLARE bought USB Switch which is cool. I will buy switches when I have proper remote work setup, not alot of space with dual monitors and mic.
 The cooler took down the temps by 15 degrees.
