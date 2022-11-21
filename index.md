@@ -4,6 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-11-20
+I finished playing *Titanfall 2* and it was one of the best games. Another good "Machines with beings" game.
+
+I am absolutely obsessed with gyro controls. I am playing every game with gyro. I will soon be writing about gyro based after I have enough experience with it.
+
+I saw alot of joycons gyro gaming videos and I thought about trying out 2 handed as well except wiimote isn't good and so are the joycons. I will sleep on this decision for a while. If I really want to try 2 handed gaming I'll buy it in 2-3 months.
+
 # 2022-11-11
 Xeon's monitor borked so we went shopping last saturday. He bought a monitor and I bought a Hyper 212 for my thermals and FLARE bought USB Switch which is cool. I will buy switches when I have proper remote work setup, not alot of space with dual monitors and mic.
 The cooler took down the temps by 15 degrees.
