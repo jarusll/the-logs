@@ -10,6 +10,12 @@ I tried out acceleration with gyro and it's not for me. I have been streaming vi
 
 Me and the bois have been playing Hunt: Showdown and we've had some good moments and some really scuffed moments. I won't stop gaming even when I am older with responsibilities.
 
+I saw the [Alpakka](https://inputlabs.io/devices/alpakka) controller and I am excited for it. I am more excited for the one handed controller and I am glad they are coming up with more options for gyro gaming.
+
+I ordered Joycons and I am smoothing things out. I really want to try out two handed gaming.
+
+I am in a comfortable position right now and can take a breather. 
+
 # 2022-11-20
 I finished playing *Titanfall 2* and it was one of the best games. Another good "Machines with beings" game.
 
