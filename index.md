@@ -4,10 +4,16 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-11-30
+
+I tried out acceleration with gyro and it's not for me. I have been streaming videos on YouTube so I can get better with gyro aiming. My videos are not a good example for gyro gaming and I'll update there soon.
+
+Me and the bois have been playing Hunt: Showdown and we've had some good moments and some really scuffed moments. I won't stop gaming even when I am older with responsibilities.
+
 # 2022-11-20
 I finished playing *Titanfall 2* and it was one of the best games. Another good "Machines with beings" game.
 
-I am absolutely obsessed with gyro controls. I am playing every game with gyro. I will soon be writing about gyro based after I have enough experience with it.
+I am absolutely obsessed with gyro controls. I am playing every game with gyro. I will soon be writing about gyro after I have enough experience with it.
 
 I saw alot of joycons gyro gaming videos and I thought about trying out 2 handed as well except wiimote isn't good and so are the joycons. I will sleep on this decision for a while. If I really want to try 2 handed gaming I'll buy it in 2-3 months.
 
