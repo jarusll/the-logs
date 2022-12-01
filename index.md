@@ -10,7 +10,7 @@ I tried out acceleration with gyro and it's not for me. I have been streaming vi
 
 Me and the bois have been playing Hunt: Showdown and we've had some good moments and some really scuffed moments. I won't stop gaming even when I am older with responsibilities.
 
-I saw the [Alpakka](https://inputlabs.io/devices/alpakka) controller and I am excited for it. I am more excited for the one handed controller and I am glad they are coming up with more options for gyro gaming.
+I saw the [Alpakka](https://inputlabs.io/devices/alpakka) controller and I am excited for it. I am more excited for the one handed controller and glad they are coming up with more options for gyro gaming.
 
 I ordered Joycons and I am smoothing things out. I really want to try out two handed gaming.
 
