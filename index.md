@@ -4,6 +4,10 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-12-07
+
+I have to admit, I have been coming home all happy and bubbly. When I am away I am thinking about it. I think I am in love, IN LOVE WITH GYRO!!!! AHAHAHAHAHAHAHAHAH
+
 # 2022-11-30
 
 I tried out acceleration with gyro and it's not for me. I have been streaming videos on YouTube so I can get better with gyro aiming. My videos are not a good example for gyro gaming and I'll update there soon.
