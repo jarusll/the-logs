@@ -4,11 +4,16 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-12-11
+I have found my new drug, autohotkey. I am building a macro keyboard with it along with luamacros.
+
+The prints came in and its looking cute. I am waiting for other parts to arrive, this'll be my 2022's gift for myself.
+
 # 2022-12-07
 
 I have to admit, I have been coming home all happy and bubbly. When I am away I am thinking about it. I think I am in love, IN LOVE WITH GYRO!!!! AHAHAHAHAHAHAHAHAH
 
-Also, I AM BUILDING THE ALPAKKA CONTROLLER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+Also, I AM BUILDING THE ALPAKKA CONTROLLER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 # 2022-11-30
 
@@ -20,7 +25,7 @@ I saw the [Alpakka](https://inputlabs.io/devices/alpakka) controller and I am ex
 
 I ordered Joycons and I am smoothing things out. I really want to try out two handed gaming.
 
-I am in a comfortable position right now and can take a breather. 
+I am in a comfortable position right now and can take a breather.
 
 # 2022-11-20
 I finished playing *Titanfall 2* and it was one of the best games. Another good "Machines with beings" game.
