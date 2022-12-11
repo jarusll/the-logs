@@ -9,6 +9,8 @@ I have found my new drug, autohotkey. I am building a macro keyboard with it alo
 
 The prints came in and its looking cute. I am waiting for other parts to arrive, this'll be my 2022's gift for myself.
 
+![Image](/images/d90c7199560a5337015a3bc6559d95c4.jpg) 
+
 # 2022-12-07
 
 I have to admit, I have been coming home all happy and bubbly. When I am away I am thinking about it. I think I am in love, IN LOVE WITH GYRO!!!! AHAHAHAHAHAHAHAHAH
