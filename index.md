@@ -4,12 +4,31 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-12-21
+Today I tried something new, connected my bluetooth keyboard to both my pc and laptop and I am not going back. I'll use my old keyboard as macroboard. I also started using my speaker which was sitting around for about a year just because I use my iem or headphone on pc.
+
+Update on the ahk macro thingy, Luamacros seems inadequate for my usage. I want modifers in it and I'll have to look if luamacros can do that.
+I have a reason to learn simple video editing, I've started to stream on youtube.
+
+I have been feeling the itch to play management games, I'll try the new dwarf fortress soon. I don't have the skill or time for competetive games and I want to move away from them.
+
+I came across [Firestarter](https://open.spotify.com/track/67mbvNgp8qmt4GHpZgN7Ze?si=c387bdf4104c4048) and I can't really describe how It makes me feel but I like it. Also I've been listening alot to [CountryStar420](https://open.spotify.com/artist/2f8tYvk0zQhEjUJQ9sStyB?si=LVzgQwpmRoKm0XMXE6RbeA).
+
+Next year mid I'll buy a height adjustable desk for the space and my health, I feel I get more done while standing just because I am walking, I am thinking, I am not stuck in a place.
+
+This year has been big for me, I've grown alot and if I could list them down it'd be
+- The biggest being able to communicate with people
+- Gyro, can't thank enough the whole gyro gaming community, especially [Jibb Smart](https://www.jibbsmart.com/), I prefer my controller now over kbm
+- Buzzcut, I am permanent buzz cut now or bald
+
+Over and out.
+
 # 2022-12-11
 I have found my new drug, autohotkey. I am building a macro keyboard with it along with luamacros.
 
 The prints came in and its looking cute. I am waiting for other parts to arrive, this'll be my 2022's gift for myself.
 
-![Image](/images/d90c7199560a5337015a3bc6559d95c4.jpg) 
+![Image](/images/d90c7199560a5337015a3bc6559d95c4.jpg)
 
 # 2022-12-07
 
