@@ -4,8 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-12-31
+Spent my 31st playing Hunt: Showdown with the bois 9+ hours.
+
+Update on Alpakka controller, the prints were misaligned so the front & back casing are being reprinted. I should have it ready in 2-3 weeks.
+
 # 2022-12-26
-I lost my grandpa today. I wasn't really sad until I saw him burn away and the tears rolled, it was a short burst of emotions. It was negative but not net negative.
+I lost my grandpa today. I wasn't really sad until I saw him burn and the tears rolled, it was a short burst of emotions. It was negative but not net negative.
 
 # 2022-12-21
 Today I tried something new, connected my bluetooth keyboard to both my pc and laptop and I am not going back. I'll use my old keyboard as macroboard. I also started using my speaker which was sitting around for about a year just because I use my iem or headphone on pc.
