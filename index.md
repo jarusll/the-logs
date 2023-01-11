@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-01-12
+BALLS BALLS BALLS BALLS BALLS BALLS BALLS BALLS BALLS!!!!!
+
+I am a baller now.
+
+I rubbed balls on my face today.
+
+I bought a trackball for ergonomics and will switch to it for work.
+
 # 2022-12-31
 Spent my 31st playing Hunt: Showdown with the bois 9+ hours.
 
