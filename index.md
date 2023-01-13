@@ -41,6 +41,7 @@ Here are some pics.
 ![Group](/images/Star10.jpg)
 ![Group](/images/Star11.jpg)
 ![Group](/images/Star12.jpg)
+![Group](/images/Star12.jpeg)
 Photo Credits: *Kathani, Ketan & Pratik*
 
 # 2022-12-21
