@@ -4,6 +4,9 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-01-13
+I've been listening to alot of alt/rock, another genre that I like.
+
 # 2022-01-12
 BALLS BALLS BALLS BALLS BALLS BALLS BALLS BALLS BALLS!!!!!
 
@@ -20,6 +23,25 @@ Update on Alpakka controller, the prints were misaligned so the front & back cas
 
 # 2022-12-26
 I lost my grandpa today. I wasn't really sad until I saw him burn and the tears rolled, it was a short burst of emotions. It was negative but not net negative.
+
+# 2022-12-24
+Went out overnight stargazing. It was a good experience although it would have been wayyyy cooler if we cooked noodles and tea on the portable stove.
+Long story short, its confirmed that I do snore and everyone knows.
+Here are some pics.
+![Group](/images/StarGroup.jpg)
+![Group](/images/Star1.jpg)
+![Group](/images/Star2.jpg)
+![Group](/images/Star3.jpg)
+![Group](/images/Star4.jpg)
+![Group](/images/Star5.jpg)
+![Group](/images/Star6.jpg)
+![Group](/images/Star7.jpg)
+![Group](/images/Star8.jpg)
+![Group](/images/Star9.jpg)
+![Group](/images/Star10.jpg)
+![Group](/images/Star11.jpg)
+![Group](/images/Star12.jpg)
+Photo Credits: *Kathani, Ketan & Pratik*
 
 # 2022-12-21
 Today I tried something new, connected my bluetooth keyboard to both my pc and laptop and I am not going back. I'll use my old keyboard as macroboard. I also started using my speaker which was sitting around for about a year just because I use my iem or headphone on pc.
