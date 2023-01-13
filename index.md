@@ -29,19 +29,19 @@ Went out overnight stargazing. It was a good experience although it would have b
 Long story short, its confirmed that I do snore and everyone knows.
 Here are some pics.
 ![Group](/images/StarGroup.jpg)
-![Group](/images/Star1.jpg)
-![Group](/images/Star2.jpg)
-![Group](/images/Star3.jpg)
-![Group](/images/Star4.jpg)
-![Group](/images/Star5.jpg)
-![Group](/images/Star6.jpg)
-![Group](/images/Star7.jpg)
-![Group](/images/Star8.jpg)
-![Group](/images/Star9.jpg)
-![Group](/images/Star10.jpg)
-![Group](/images/Star11.jpg)
-![Group](/images/Star12.jpg)
-![Group](/images/Star12.jpeg)
+![Image](/images/Star1.jpg)
+![Image](/images/Star2.jpg)
+![Image](/images/Star3.jpg)
+![Image](/images/Star4.jpg)
+![Image](/images/Star5.jpg)
+![Image](/images/Star6.jpg)
+![Image](/images/Star7.jpg)
+![Image](/images/Star8.jpg)
+![Image](/images/Star9.jpg)
+![Image](/images/Star10.jpg)
+![Image](/images/Star11.jpg)
+![Image](/images/Star12.jpg)
+![Image](/images/Star13.jpeg)
 Photo Credits: *Kathani, Ketan & Pratik*
 
 # 2022-12-21
