@@ -4,6 +4,9 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-01-21
+I realised alot of things didn't make sense to me because I wasn't emotionally mature enough.
+
 # 2022-01-13
 I've been listening to alot of alt/rock, another genre that I like.
 
