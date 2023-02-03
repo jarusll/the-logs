@@ -14,7 +14,7 @@ I am thinking more these days. I am becoming me now, crystallizing. Letting go o
 Me and the bois went trekking at Prabalgad Fort a while ago, it went as expected. I was defeated, mentally & physically. It was a difficult expedition but we just had to keep moving forward. I am glad I did it and will be up again anyday.
 *मी मराठा*
 
-I have spearheading React testing these days. I will be comfortable testing anything now.
+I have been spearheading React testing these days. I will be comfortable testing anything now.
 
 # 2022-01-21
 I realised alot of things didn't make sense to me because I wasn't emotionally mature enough.
