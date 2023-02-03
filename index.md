@@ -4,6 +4,18 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-02-03
+Been helping my co workers, makes me feel good. I want the people around me better so I learn from them.
+
+I am a baller for life now. Ever since I started using my trackball vertically, I can't stop thinking about using my keyboard tented.
+
+I am thinking more these days. I am becoming me now, crystallizing. Letting go of the toxic folks around me.
+
+Me and the bois went trekking at Prabalgad Fort a while ago, it went as expected. I was defeated, mentally & physically. It was a difficult expedition but we just had to keep moving forward. I am glad I did it and will be up again anyday.
+*मी मराठा*
+
+I have spearheading React testing these days. I will be comfortable testing anything now.
+
 # 2022-01-21
 I realised alot of things didn't make sense to me because I wasn't emotionally mature enough.
 
