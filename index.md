@@ -9,7 +9,7 @@ Been helping my co workers, makes me feel good. I want the people around me bett
 
 I am a baller for life now. Ever since I started using my trackball vertically, I can't stop thinking about using my keyboard tented.
 
-I am thinking more these days. I am becoming me now, crystallizing. Letting go of the toxic folks around me.
+I am thinking more these days. I am becoming me now, crystallizing.
 
 Me and the bois went trekking at Prabalgad Fort a while ago, it went as expected. I was defeated, mentally & physically. It was a difficult expedition but we just had to keep moving forward. I am glad I did it and will be up again anyday.
 *मी मराठा*
