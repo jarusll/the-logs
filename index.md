@@ -11,6 +11,10 @@ I am in love with testing.
 
 I accidently flashed my dick pic to the bois while trying to show something on my phone. It feels weird to say this but that was the night me and the bois connected.
 
+My linux installation was all over the place, I had to do multiple actions to achieve anything. My preferred window manager is i3wm but I was on pop, using their tiling window manager which is good but just not fast enough. I dint want the animations and theres no absolute jumps. My dotfiles are git managed but not automatically symlinked. Using my linux install felt like a chore. So I decided today I am going to fix it. And I did, with `GNU stow`. I love `GNU stow`. It allows you to mirror 2 paths.
+
+I am tinkering with basic concurrency with golang these days.
+
 # 2022-02-03
 Been helping my co workers, makes me feel good. I want the people around me better so I learn from them.
 
