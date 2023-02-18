@@ -4,6 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-02-18
+Day 3 with Github copilot, I am having too much fun with this. I am mostly using this to automate the boring stuff, JK I AM USING IT EVERYWHERE AHAHAHAHAHAHAHAHAHA.
+
+I am in love with testing.
+
+I accidently flashed my dick pic to the bois while trying to show something on my phone. It feels weird to say this but that was the night me and the bois connected.
+
 # 2022-02-03
 Been helping my co workers, makes me feel good. I want the people around me better so I learn from them.
 
