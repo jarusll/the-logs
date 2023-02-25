@@ -4,6 +4,20 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-02-26
+I did something which I've been meaning to do for a really long time, removing the bloat on my phone. I can't tell you how many times I've been annoyed to click on a link and it opens with the inbuilt browser. I removed everything, all of it.
+
+I tried `swc` for jest and holy shit my test runtime went down from about `90s` to `20s`. I tried to integrate it for gatsby but it dint work out, neither did `esbuild`.
+
+Why are all the phones big these days, they dont fit my small hands. I want a smaller phone. The only option for me is the iphone mini but I dont want ios and theres no decent android alternative. What happened to 5inch phones?
+
+I can't limit the fps on my android. I want to limit it to like 24 fps and use it with greyscale filter. Battery life matters to me more than performance. I was looking at the Blackberry q10 listings and I am really tempted to buy it, but I know its not worth it.
+
+I am done with multiplayer games. I just want to have some drinks and play singleplayer these days.
+
+Whats wrong with talking about yourself all the time? You can be vulnerable and honest. You dont have to think about yourself highly all the time.
+
+I woke up yesterday and my shoulder was fucked, I sprained my shoulder in sleep. I couldn't look to my right or sit or walk. This was my first shoulder sprain. Reminds me of the time my ears were popped and I was in pain for like a day.
 # 2022-02-18
 Day 3 with Github copilot, I am having too much fun with this. I am mostly using this to automate the boring stuff, JK I AM USING IT EVERYWHERE AHAHAHAHAHAHAHAHAHA.
 
