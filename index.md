@@ -4,6 +4,9 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-02-28
+So I bought an Iphone mini 12.
+
 # 2022-02-26
 I did something which I've been meaning to do for a really long time, removing the bloat on my phone. I can't tell you how many times I've been annoyed to click on a link and it opens with the inbuilt browser. I removed everything, all of it.
 
