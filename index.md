@@ -4,6 +4,9 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-03-01
+The only thing stopping me from trying out other languages is setting up the env. Build systems should be easy to setup and use. I am trying out gradle this week, fingers crossed. The other thing stopping me is setting up tests, executing tests on a keypress for really quick feedback. Why not have a flat structure which I can query and browse as I want. Smalltalk did it really well.
+
 # 2022-02-28
 So I bought an Iphone mini 12.
 
