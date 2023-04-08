@@ -4,6 +4,13 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-04-08
+My domain expired in March and I had been pushing it to renew & update the diary. I got a really good deal on `suraj.lol`.
+
+I found out `eslint` has `--cache` option and its cool. I also found out jest has a `--findRelatedTests` so you can run only affected tests on `pre-commit`, really cool.
+I realized I was transforming `node_modules` and I should not because It fixed something when I was setting things up and I never came back to that option. I realized I dint need to. It saved almost 20s for me.
+Also running jest tests in parallel is halves the test runtime.
+
 # 2022-03-01
 The only thing stopping me from trying out other languages is setting up the env. Build systems should be easy to setup and use. I am trying out gradle this week, fingers crossed. The other thing stopping me is setting up tests, executing tests on a keypress for really quick feedback. Why not have a flat structure which I can query and browse as I want. Smalltalk did it really well.
 
