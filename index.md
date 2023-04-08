@@ -74,20 +74,20 @@ I lost my grandpa today. I wasn't really sad until I saw him burn and the tears 
 Went out overnight stargazing. It was a good experience although it would have been wayyyy cooler if we cooked noodles and tea on the portable stove.
 Long story short, its confirmed that I do snore and everyone knows.
 Here are some pics.
-![Group](/images/StarGroup.jpg)
-![Image](/images/Star1.jpg)
-![Image](/images/Star2.jpg)
-![Image](/images/Star3.jpg)
-![Image](/images/Star4.jpg)
-![Image](/images/Star5.jpg)
-![Image](/images/Star6.jpg)
-![Image](/images/Star7.jpg)
-![Image](/images/Star8.jpg)
-![Image](/images/Star9.jpg)
-![Image](/images/Star10.jpg)
-![Image](/images/Star11.jpg)
-![Image](/images/Star12.jpg)
-![Image](/images/Star13.jpeg)
+![Group](./StarGroup.jpg)
+![Image](./Star1.jpg)
+![Image](./Star2.jpg)
+![Image](./Star3.jpg)
+![Image](./Star4.jpg)
+![Image](./Star5.jpg)
+![Image](./Star6.jpg)
+![Image](./Star7.jpg)
+![Image](./Star8.jpg)
+![Image](./Star9.jpg)
+![Image](./Star10.jpg)
+![Image](./Star11.jpg)
+![Image](./Star12.jpg)
+![Image](./Star13.jpeg)
 Photo Credits: *Kathani, Ketan & Pratik*
 
 # 2022-12-21
@@ -114,7 +114,7 @@ I have found my new drug, autohotkey. I am building a macro keyboard with it alo
 
 The prints came in and its looking cute. I am waiting for other parts to arrive, this'll be my 2022's gift for myself.
 
-![Image](/images/d90c7199560a5337015a3bc6559d95c4.jpg)
+![Image](./d90c7199560a5337015a3bc6559d95c4.jpg)
 
 # 2022-12-07
 
@@ -147,7 +147,7 @@ I started uploading gyro youtube on videos. This way I get to try out new games 
 Xeon's monitor borked so we went shopping last saturday. He bought a monitor and I bought a Hyper 212 for my thermals and FLARE bought USB Switch which is cool. I will buy switches when I have proper remote work setup, not alot of space with dual monitors and mic.
 The cooler took down the temps by 15 degrees.
 
-![Image](/images/1dde633bf72c1e2a1d6523d27c0bc309.jpg)
+![Image](./1dde633bf72c1e2a1d6523d27c0bc309.jpg)
 *Bless your eyes*(Sorry for the dust)
 
 I have been playing games with gyro + flick stick for the past few days and I've been having an absolute blast.
@@ -158,14 +158,14 @@ I am at a phase in life where I do feel responsibilities and need to think about
 
 Me and FLARE played *theHunter: Call of the Wild*. We held *First to 2 kills* competition and I let him win.
 
-![Image](/images/FlareHunter.png)
-![Image](/images/bear1.png)
+![Image](./FlareHunter.png)
+![Image](./bear1.png)
 
 Here are some cuties
-![Image](/images/IMG_20221102_092452.jpg)
-![Image](/images/IMG_20221109_093148.jpg)
-![Image](/images/IMG_20221109_092851.jpg)
-![Image](/images/93bf0652898c203032057bcd843e0709.jpg)
+![Image](./IMG_20221102_092452.jpg)
+![Image](./IMG_20221109_093148.jpg)
+![Image](./IMG_20221109_092851.jpg)
+![Image](./93bf0652898c203032057bcd843e0709.jpg)
 Photo Credits: *WolfsteinDromon*
 
 Daily updates are not possible so I am going to maintain it weekly. Shorter 1 point updates in Obsidian and update on weekends.
@@ -187,9 +187,9 @@ I also bought case fans which fixed the thermals.
 
 Setup [nextdns](https://nextdns.io/). Good stuff.
 
-![Image](/images/7789a60ab65ed77ef2d720fdfa1f6d3c.jpg)
+![Image](./7789a60ab65ed77ef2d720fdfa1f6d3c.jpg)
 
-![Image](/images/5e3b8debf831abde3f97c8e00241a719.jpg)
+![Image](./5e3b8debf831abde3f97c8e00241a719.jpg)
 
 Good day
 
@@ -203,7 +203,7 @@ I read Harry Potter till Goblet of fire about 2 years ago, binge watched the who
 
 # 2022-10-11
 
-![Image](/images/5ef65defc9248039d42721f8340b1fea.jpg)
+![Image](./5ef65defc9248039d42721f8340b1fea.jpg)
 
 # 2022-10-10
 
@@ -211,7 +211,7 @@ I won't be able to update here frequently with alot of things going.
 
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
-![Image](/images/f6ff3a72bcfa25614c12907089ce908e.jpg)
+![Image](./f6ff3a72bcfa25614c12907089ce908e.jpg)
 
 Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
 
@@ -219,33 +219,33 @@ Yes I did try Parsec and it was good. There was a noticeable latency but I play 
 
 Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
 
-![Image](/images/c67f91b87b16c76466732da0d7fdcb2d.jpg)
+![Image](./c67f91b87b16c76466732da0d7fdcb2d.jpg)
 She finally let me pet her, came upto me all by herself.
 
-![Image](/images/13085c7c5add7c17ac6031399b09dafb.jpg)
+![Image](./13085c7c5add7c17ac6031399b09dafb.jpg)
 
-![Image](/images/cef8649120aabf430cad0aedde7acbd2.jpg)
+![Image](./cef8649120aabf430cad0aedde7acbd2.jpg)
 
-![Image](/images/0f7e1a522a80244eb9f499280cacffda.jpg)
+![Image](./0f7e1a522a80244eb9f499280cacffda.jpg)
 
-![Image](/images/5deb5c59c8a50ad051fa155c04ce6a32.jpg)
+![Image](./5deb5c59c8a50ad051fa155c04ce6a32.jpg)
 
 
-![Image](/images/e25ea9670302eaabb668338beafd38ce.jpg)
+![Image](./e25ea9670302eaabb668338beafd38ce.jpg)
 
-![Image](/images/556c10c0a0648bfaa57a7a99d30d9368.jpg)
+![Image](./556c10c0a0648bfaa57a7a99d30d9368.jpg)
 
 # 2022-10-03
 
-![Image](/images/d2c0fefcff8a3c89b2923a3202965950.jpg)
+![Image](./d2c0fefcff8a3c89b2923a3202965950.jpg)
 
-![Image](/images/b651daf99569dbc7558faf6321b5b9a0.jpg)
+![Image](./b651daf99569dbc7558faf6321b5b9a0.jpg)
 
-![Image](/images/d93abcf058c5eb61602d7432e2becfad.jpg)
+![Image](./d93abcf058c5eb61602d7432e2becfad.jpg)
 
 I only saw one of them in morning and all of the 4 in noon
 
-![Image](/images/3de7b36420a4c52c0fef5d0930ea4463.jpg)
+![Image](./3de7b36420a4c52c0fef5d0930ea4463.jpg)
 
 # 2022-10-02
 
@@ -299,16 +299,16 @@ Played Death stranding on 4k downscaled to 1080 and it was absolute crisp. My 67
 
 I have been having an absolute blast with my new GPU. There was an overheating issue which I resolved with a new thermal paste. I will resolve the heating with a couple of case fans.
 
-![](/images/DeathStranding.png)
+![](./DeathStranding.png)
 
-![](/images/Destiny.jpg)
+![](./Destiny.jpg)
 
-![](/images/Destiny2.jpg)
+![](./Destiny2.jpg)
 
-![](/images/ValheimCart.jpg)
+![](./ValheimCart.jpg)
 *The day we discovered Carts*
 
-![](/images/ValheimRaft.jpg)
+![](./ValheimRaft.jpg)
 *Ooga booga*
 
 I'll soon be trying out Downsampling now that my GPU can handle it. My only requirements are 60fps and really good visuals.
@@ -337,16 +337,16 @@ I DID IT!!!! I ordered a 6700xt. This going to be one of the highest points in m
 
 # 2022-09-17
 
-![](/images/NowWeHere.jpeg)
+![](./NowWeHere.jpeg)
 *Started from the bottom, Now we here*
 
-![](/images/Moder.jpeg)
-![](/images/ModerInTears.jpeg)
+![](./Moder.jpeg)
+![](./ModerInTears.jpeg)
 
-![](/images/WolfGang.jpeg)
+![](./WolfGang.jpeg)
 We were finally able to tame the two wolves. Eventually they were brought back to home base located on a different island. The journey was arduous, almost rigorous but we knew the cost we had to pay. After all, the wolves MUST survive.
 
-![](/images/Home.jpeg)
+![](./Home.jpeg)
 *We let them roam around*
 
 # 2022-09-16
@@ -420,7 +420,7 @@ I experimeted with alot of dota characters. Skywraith is a good one. I'll soon b
 
 Played Valhiem & Dota with FLARE. He has made quite some upgrades to the main base.
 
-![](/images/Bonemass.jpeg)
+![](./Bonemass.jpeg)
 *Bonemass beat the fuck outta us, fortunately we managed to get rid of him* - FLARE
 
 # 2022-09-02
@@ -566,7 +566,7 @@ I did something cursed today, mixed Mayo and ketchup for chipdip.
 
 Solved and hosted one problem. I'll do the other one tomorrow.
 
-![Image](/images/681471d513c7d34f234b067a773fd187.jpg)
+![Image](./681471d513c7d34f234b067a773fd187.jpg)
 Shes a survivor. I still remember the day she was born. Shes the only one who made it out of 3. She has grown so big I barely recognised her when she came upto my desk one day and I was scared for my kitten. That was my `Sintel` moment. Fortunately shes cool with other cats. I wish she came to my place more. I also got to pet my other cat(baby cat) yesterday and it looks like she has learnt the way of kitties. She'll survive. I was glad she recognised me(atleast that's what I think). It was a good day.
 
 # 2022-08-11
@@ -677,7 +677,7 @@ I'll add the option to choose which types to filter out. But this looks good for
 
 Heres a screenshot.
 
-![Image](/images/classbrowser.png)
+![Image](./classbrowser.png)
 
 Top right is class browser and bottom right is outline view.
 
@@ -801,7 +801,7 @@ Using OOP for logic with React was pretty nice logically but pain to integrate. 
 
 I remember the scene from Dota where Invoker is in a never ending library and books float mid air and pages turn by his will. I want that kind of power. Just float around and read things all day.
 
-![Image](/images/26d0d0aa8f02c71f40903c163cfeacaf.jpg)
+![Image](./26d0d0aa8f02c71f40903c163cfeacaf.jpg)
 *The council of kitties have blessed my rig*
 
 *exultant*
@@ -818,7 +818,7 @@ I just finished a problem and used pure OO and TDD. This was good. I learnt alot
 
 Correction, there's 3 of them. The third just walked in today and latched on mommy cat.
 
-![Image](/images/33cd1c3825a05befa522fabbbf85a8fa.jpg)
+![Image](./33cd1c3825a05befa522fabbbf85a8fa.jpg)
 
 *fiery*
 
@@ -881,7 +881,7 @@ I've been observing my kittens and I think this is what goes in their tiny kitte
 - I am water
 - *stretch and yawn and instant sleep*
 
-![Image](/images/d6deef424d00dcad51d02c9ebac642ed.jpg)
+![Image](./d6deef424d00dcad51d02c9ebac642ed.jpg)
 
 # 2022-06-24
 
@@ -898,7 +898,7 @@ Night
 
 Decoupled grammars.
 
-![Image](/images/3464523de4398584e81e40ae71bb2196.jpg)
+![Image](./3464523de4398584e81e40ae71bb2196.jpg)
 
 The first stable version of the compiler is out. I will add features incrementally. This will be my test bed for lambda calculus.
 
@@ -911,7 +911,7 @@ Good day, night.
 Need to think about priorities. Got sidetracked for 2 days.
 Back on my compiler.
 
-![Image](/images/7db81936eb12efa72acea8427dd31d11.jpg)
+![Image](./7db81936eb12efa72acea8427dd31d11.jpg)
 *They did come, ahahahah*
 
 Should be able to cleanup the compiler tomorrow.
@@ -928,13 +928,13 @@ I realised I could write a lot of notes with flashcards. Need to find a good fla
 
 *Famished* - Adjective of the day.
 
-![Image](/images/98eb4943262815447564da00f41d87ae.jpg)
+![Image](./98eb4943262815447564da00f41d87ae.jpg)
 *Passing by kitties. I offered them food but they din't stay*
 
-![Image](/images/60c65c4c6b697a9d33b549ece6b9ba89.jpg)
+![Image](./60c65c4c6b697a9d33b549ece6b9ba89.jpg)
 *Omgomgomg they came back, ahahahahahahah*
 
-![Image](/images/612c79bf994e16a6bde6b17b027a7047.jpg)
+![Image](./612c79bf994e16a6bde6b17b027a7047.jpg)
 *Put out some milk in box and they fell for it, ez scam*
 
 They went away again. I wish they come back tomorrow.
@@ -1001,10 +1001,10 @@ Good day, night.
 
 # 2022-06-15
 
-![Image](/images/ee21839185dd2ef87722f8e5b340f3bb.jpg)
+![Image](./ee21839185dd2ef87722f8e5b340f3bb.jpg)
 *My IEMs are here*
 
-![Image](/images/30e94995dc5ffff67f764d7cbe6a0fc9.jpg)
+![Image](./30e94995dc5ffff67f764d7cbe6a0fc9.jpg)
 *Day 83 since recorded history, I am listening things on low volume. I can make out the details with my IEMs*
 
 I had to break down the notes into even smaller chunks.
@@ -1030,7 +1030,7 @@ Running Emacs as daemon has made my life easier. No more longer load times.
 
 I DID IT!!! I made the compiler. The prototype is ready.
 
-![Image](/images/0039a54e7ea7c4ffcad83c082905e785.png)
+![Image](./0039a54e7ea7c4ffcad83c082905e785.png)
 
 For now it can only execute single line and there's no assignment. I will add these over the coming days.
 
@@ -1050,7 +1050,7 @@ Also I found out Oracle cloud has free eligible arm machines with upto 12 core a
 
 I have so many "awesome" links. Soon I'll make a section on my site and call it `awesome`
 
-![Image](/images/6cdb4f871a0deba0cb40420196c0227c.jpg)
+![Image](./6cdb4f871a0deba0cb40420196c0227c.jpg)
 
 Had an unexpected visit from an old friend, sweet.
 
@@ -1153,7 +1153,7 @@ Jupyter has vim like keybinds, how cool is that?
 Dockerized the whole setup. And It'll serve my literate programming needs better than org mode.
 The biggest reason I dockerize something is reproduceability.
 
-![Image](/images/cfd71781f957f8196f5113f35975e1e9.jpg)
+![Image](./cfd71781f957f8196f5113f35975e1e9.jpg)
 
 # 2022-06-04
 
@@ -1173,12 +1173,12 @@ I have so many ideas I can pair up with jupyter. The first is to get it running 
 
 Recently during our conversations, we came across [Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/#what-is-a-zettelkasten) system.
 
-![Jun Zettelkasten setup](/images/jun_zel_setup.jpg)
+![Jun Zettelkasten setup](./jun_zel_setup.jpg)
 *[Jun](https://arjun.lol/)'s Z setup*
 
 Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around alot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
 
-![Image](/images/1d911ae08bbc71bc60f71c388733d028.jpg)
+![Image](./1d911ae08bbc71bc60f71c388733d028.jpg)
 *Stray release date announced*
 
 One of the games I am really excited for. I know I'll like it when it's produced by Annapurna Interactive
@@ -1189,7 +1189,7 @@ I'll get comfortable with org roam
 
 Tomorrow's plan is to tinker around org roam and zoom through Ruby koans
 
-![Image](/images/fa5711aacc7e9f5bb22a8f4c45d2f5fd.jpg)
+![Image](./fa5711aacc7e9f5bb22a8f4c45d2f5fd.jpg)
 
 # 2022-06-02
 
@@ -1217,7 +1217,7 @@ Todays plan is to push the two post in pipeline and read about concurrency.
 
 Cronified builds.
 
-![Image](/images/f79daed00e572ea3ea066092cd5f878d.jpg)
+![Image](./f79daed00e572ea3ea066092cd5f878d.jpg)
 *Low effort CyberDeck*
 
 Kadane's algorithm is out.
@@ -1422,9 +1422,9 @@ I had my personal day.
 
 I wasn't able to complete the challenge but on the upside I can write programs literate style now.
 
-![Image](/images/d312a0c721255e43827d273349806bcf.jpg)
+![Image](./d312a0c721255e43827d273349806bcf.jpg)
 
-![Image](/images/42a5a9804d0033e4ef3586135fd2d355.jpg)
+![Image](./42a5a9804d0033e4ef3586135fd2d355.jpg)
 
 # 2022-05-12
 
@@ -1493,7 +1493,7 @@ I'll be moving towards cpp for problem solving
 
 I have familiarized myself with debugging and now I can't live without it. Right now, the only dynamic language with good debugging support is Python.
 
-![Image](/images/85f74287984d72c156b421909461417b.jpg)
+![Image](./85f74287984d72c156b421909461417b.jpg)
 
 I need to figure out the layout I'll be using for literate programming.
 
@@ -1521,7 +1521,7 @@ I have decided to publish my leetcode solutions in fragments. I'll do that from 
 
 Solved a linked list problem with 2 pointers. I am better off solving medium problems now.
 
-![Image](/images/567adb1b5ddccd84b7228fa87394cd61.jpg)
+![Image](./567adb1b5ddccd84b7228fa87394cd61.jpg)
 I should've bought her home but her siblings were around.
 
 One of the downsides of recursion is the hard limit langauges have for recursive calls. Even if it's tail recursion.
@@ -1532,7 +1532,7 @@ Good day, Night
 
 Plan is to solve BST & Linked Lists today and look into bit masking.
 
-![Image](/images/0a9b90f2a33b3be82eb38a49e7a356f8.jpg)
+![Image](./0a9b90f2a33b3be82eb38a49e7a356f8.jpg)
 I'll be bald this whole summer, probably.
 
 I conducted a survey with a sample size of 2, including me if the 1/6th sliced sandwich is too big and the results are
@@ -1589,7 +1589,7 @@ Good day, Night
 
 If it compiles, it works. Am I right? - *Some rust programmer*
 
-![Image](/images/2f34c02994684b2cc351b079904cf163.jpg)
+![Image](./2f34c02994684b2cc351b079904cf163.jpg)
 
 Leetcode is tough. I might have to take it at this pace, slow.
 
@@ -1671,7 +1671,7 @@ My cousin's here, we played Minecraft. I recommended him Portal, my first pc gam
 
 I am not getting any pc time today, he's been playing Portal. I'll read.
 
-![Image](/images/406a765d5812d69a243823ee1933f172.jpg)
+![Image](./406a765d5812d69a243823ee1933f172.jpg)
 *Test subject recruited*
 
 I finished the Unit testing section. I can start tdd.
@@ -1814,7 +1814,7 @@ I liked playing as Brim in Valorant. I'll draw his Stim Beacon soon.
 
 I'll soon setup a cyberdeck with termux.
 Something like this
-![Image](/images/03725bccf6bc61b9eccdac7b6a7522f9.jpg)
+![Image](./03725bccf6bc61b9eccdac7b6a7522f9.jpg)
 *Credit - https://sixohthree.com/termux-for-android*
 
 I haven't been able to get alot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
@@ -1894,7 +1894,7 @@ I tried using emacs as my window manager, din't work out because
   * would freeze up sometimes and had to reboot
 I realised I am better off with i3wm. I'll soon go through all the docs of i3 and rice it up, not that I haven't. But I'll be more comfortable tweaking it if I know everything.
 
-![Image](/images/be0164af19d609f5bf0c7549588cebc2.jpg)
+![Image](./be0164af19d609f5bf0c7549588cebc2.jpg)
 *My new wallpaper*
 Credit - https://www.reddit.com/r/cycling/comments/tz4d80/the_perfect_cycling_wallpaper_doesnt_exi
 
@@ -1912,7 +1912,7 @@ docker-compose is wayyy too powerful, I like it.
 
 I composed them together. Now I need to make them talk to each other.
 
-![Image](/images/a1e1f6660ddceb55e12338623f7acea1.jpg)
+![Image](./a1e1f6660ddceb55e12338623f7acea1.jpg)
 
 I am going to finish watching Puss in Boots and then solve the docker thing
 
@@ -1926,7 +1926,7 @@ My legs sore and painful from all the cycling.
 
 Busy with home stuff today. I'll dockerize my portfolio jut for fun today.
 
-![Image](/images/1fe105dcb9d332cd75e1765e6d7b7f76.jpg)
+![Image](./1fe105dcb9d332cd75e1765e6d7b7f76.jpg)
 
 ### Plan for today
 - [x] dockerize portfolio
@@ -2198,7 +2198,7 @@ One of these days need to think about seamless images integration on portfolio. 
 
 Next week I'll setup RSS for my portfolio.
 
-![My Setup](/images/45c1d0ac5c158dbe491e518249607dc5.jpg)
+![My Setup](./45c1d0ac5c158dbe491e518249607dc5.jpg)
 *My Setup*
 
 Testing image.
