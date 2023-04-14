@@ -4,12 +4,24 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-04-12
+Me and the bois started a minecraft server with `Create` mod. I am thinking about making a garden in front of my treehouse.
+
+# 2022-04-11
+I looked into caching for pipeline and brought down the runtime from about 7 minutes to 6 minutes.
+
+# 2022-04-10
+I optimized the build pipeline today from 16minutes to about 7minutes 30seconds by parallelizing build & test.
+
+# 2022-04-09
+Me and the bois played GO all day. Good day
+
 # 2022-04-08
 My domain expired in March and I had been pushing it to renew & update the diary. I got a really good deal on `suraj.lol`.
 
 I found out `eslint` has `--cache` option and its cool. I also found out jest has a `--findRelatedTests` so you can run only affected tests on `pre-commit`, really cool.
 I realized I was transforming `node_modules` and I should not because It fixed something when I was setting things up and I never came back to that option. I realized I dint need to. It saved almost 20s for me.
-Also running jest tests in parallel is halves the test runtime.
+Also running jest tests in parallel halves the test runtime.
 
 I have been binge watching `Curb Your Enthusiasm`. Love `Larry David`, his comedy is smooth.
 
