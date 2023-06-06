@@ -4,6 +4,22 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-06-06
+Hello friend, Its been a while.
+What am I upto?
+Alot of things.
+
+Me and the bois went to Gorai beach, cycling all the way. Time well spent and I realized I love cycling.
+So I bought a sweet ride and I am in love with it. I wanna go to places and take alot of pics. I am looking for cycle buddies now because 20+km is risky.
+
+My 12 mini gave me battery life anxiety so I traded it with `Nothing` phone.
+
+Me and the bois went to the arcade and movies and I tried the car sim and omg I am going to have a racing sim setup by end of this year with force feedback.
+
+I am beginning to realize standarized is the way to go, prime example my keyboard. I bought a `crkbd` and I have been having a hard time building the muscle memory. The numbers and symbols layer fucks me up.
+
+I have so much to do and so less time.
+
 # 2022-04-12
 Me and the bois started a minecraft server with `Create` mod. I am thinking about making a garden in front of my treehouse.
 
