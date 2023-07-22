@@ -4,6 +4,26 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-07-22
+Hello friend.
+
+Why today? I finished playing this cute game called `A short hike`. Long story short, in the final part of the game you gracefully glide through the shimmering northern lights. It really resonated with my newfound freedom with cycling and I just had to stop and write it down. I recommend you try out this short cute game.
+
+I finally joined gym and I have been working on myself. Alot of cardio and some of strength training.
+
+I got infected with `n + 1` as well and I bought 2 more bikes. Hold on, let me explain.
+
+I bought a `BTWIN Tilt 120`, a cute foldie bike for commuting.
+![BTWIN Tilt 120](./Tilt120Marines.jpg)
+
+I bought a `BOLT 28T MS`, a roadie for Dad. I don't use it, but its the lightest bike I ever rode.
+
+`Me n the bois` will be going to Alibaug and its going to be my best birthday ever, not that I celebrate birthdays but it would be nice to spend time with them.
+
+I have fully embraced the trucker life, sometimes I'll play `Snowrunner` with my gaming wheel and enjoy the slow truck ride. I realized driving slow is way better and soothing. I also have a trucker playlist now.
+
+Peace out
+
 # 2022-06-06
 Hello friend, Its been a while.
 What am I upto?
