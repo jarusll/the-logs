@@ -4,6 +4,15 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-08-06
+Hello
+
+Meet the goodest boy, Jack
+![Jack](./Jack.jpg)
+
+and the goodest girl ever, Angel
+![Angel](./Angel.jpg)
+
 # 2022-07-22
 Hello friend.
 
