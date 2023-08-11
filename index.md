@@ -812,7 +812,6 @@ Made some prototypes in Godot.
 
 I will be using Entity Component System for my game. I made the interaction matrix and will fine tune it tomorrow.
 
-*imminent*
 
 # 2022-07-09
 
@@ -826,13 +825,11 @@ Java browsing perspective in Eclipse, just what I was looking for. Installed vim
 
 Setup the absolute(maybe) perfect environment for java in Eclipse, almost close to smalltalk with Java browsing perspective. The scrapbook page is one of the best features.
 
-*axiomatic*
 
 # 2022-07-07
 
 Looked at Java Reflections library. Read about Visitor and Decorator pattern. This is just too good. I feel like one man army designing things.
 
-*Zealous*
 
 # 2022-07-06
 
@@ -848,7 +845,6 @@ Design patterns yummy.
 
 One of my criticism is that I over engineer stuff. I need to think about this.
 
-*Amiable*
 
 # 2022-07-04
 
@@ -861,7 +857,6 @@ I am starting to like java for determinism. I looked into reflection in java. I 
 
 I started reading "Design Patterns, Elements of Reusable Object Oriented Software".
 
-*hanker*
 
 # 2022-07-03
 
@@ -874,7 +869,6 @@ I remember the scene from Dota where Invoker is in a never ending library and bo
 ![Image](./26d0d0aa8f02c71f40903c163cfeacaf.jpg)
 *The council of kitties have blessed my rig*
 
-*exultant*
 
 # 2022-07-02
 
@@ -890,13 +884,11 @@ Correction, there's 3 of them. The third just walked in today and latched on mom
 
 ![Image](./33cd1c3825a05befa522fabbbf85a8fa.jpg)
 
-*fiery*
 
 # 2022-07-01
 
 I am working on a problem. React does have its quirk. I have my business logic in pure OO and view in pure functional. Writing OO code makes me miss smalltalk.
 
-*Idiomatic*
 
 # 2022-06-30
 
@@ -906,13 +898,11 @@ Oracle terminated the Minecraft server account without any clarification.
 
 I feel like writing short stories, inanimate objects becoming self aware and backstories.
 
-*flippant*
 
 # 2022-06-29
 
 I wrote something and I am proud of it.
 
-*stupendous*
 
 Good day
 
@@ -922,13 +912,11 @@ Personal day.
 
 The X dilemma, I could either believe an abstraction and build upon it or see for myself and build my own abstractions. With the former I won't get to the root and the latter will eat up my time. I, like always like a good balance.
 
-*exemplary*
 
 # 2022-06-27
 
 I have specs for commands. I still need figure out how the whole system will communicate.
 
-*ethereal*
 
 # 2022-06-26
 
@@ -939,7 +927,6 @@ I have a mini plan and I will be working on it this week.
 I have been trying to build a prototype and I was lost with details.
 Unit tests give clarity & confidence.
 
-*gregarious*
 
 # 2022-06-25
 
@@ -960,7 +947,6 @@ I did narrow down some good ones and I'll start on it once I've a mini plan.
 
 One of the ideas is smalltalk inspired IDE for javascript. I looked into Reflection API. If Reflection & Proxy solve my problems then I might commit to this.
 
-*poised*
 
 Night
 
@@ -972,7 +958,6 @@ Decoupled grammars.
 
 The first stable version of the compiler is out. I will add features incrementally. This will be my test bed for lambda calculus.
 
-*vivacious*
 
 Good day, night.
 
@@ -986,7 +971,6 @@ Back on my compiler.
 
 Should be able to cleanup the compiler tomorrow.
 
-*gaudy*
 
 Good day, night.
 
@@ -996,7 +980,6 @@ Good day, night.
 
 I realised I could write a lot of notes with flashcards. Need to find a good flashcard android app. Bonus if it supports import/export so I can configure it with syncthing.
 
-*Famished* - Adjective of the day.
 
 ![Image](./98eb4943262815447564da00f41d87ae.jpg)
 *Passing by kitties. I offered them food but they din't stay*
