@@ -4,6 +4,29 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-09-11
+
+Why? Why today?
+
+I had a mental block for about a month. I hate boring, repetitive stuff. Stuff which doesn't bring alot of value. I am out of it and thats why I am here.
+
+I like tweaking, performance enhancements. Things which give metrics so you can improve things. I think thats why I am big into observability.
+
+I hate monsoon. I do. I can't go out alot. I think winter would be my favourite seasons of all. I can go out, I can stay in.
+
+What was I working on? Boring stuff. But exciting as well. I tested if I can take my folding cycle in trains and it turns out I can except I have to buy luggage ticket and travel in luggage compartment so thats a bummer because I cant buy luggage tickets on my phone and luggage compartments are filthy.
+
+These days I am travelling on my kick scooter. The day I bought it I had an icecream while riding my scooter, peak childhood moment. I want to experience mono rail. Even though they are not an efficient way to travel, they look cool.
+
+I tried going to Juhu beach on my scooter and I waited for about 20 mins for the bus before I gave up. Buses are highly unreliable here. I think people use them just because they have no other option.
+
+We did go to Alibaug and the bois surprised me with a cake, which was very nice of them.
+
+What do I have planned for the coming months?
+DSA, I want problem solving, I like it. I am an engineer. And me writing here would hopefully push me to solve problems.
+
+I will also be implementing caching over the coming weeks. Nothing fancy for now, jsut client side caching but that would give me some insights with advanced caching systems.
+
 # 2022-08-06
 Hello
 
