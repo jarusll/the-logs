@@ -27,6 +27,24 @@ DSA, I want problem solving, I like it. I am an engineer. And me writing here wo
 
 I will also be implementing caching over the coming weeks. Nothing fancy for now, jsut client side caching but that would give me some insights with advanced caching systems.
 
+I am selling all the junk I dont need.
+- My split keyboard
+
+  It dint work out for me. I use vim. I use the whole keyboard. A 60% keyboard would work for me. I cant get comfortable with or
+
+- My Driving wheel
+
+  Bad purchase given how less I play games these days. I have the PSP for that now
+
+I am keeping a hard limit on the number of things I can own. Lets try that.
+
+On 2nd September, I tried riding 100kms but my body gave up on about 65kms. I realised the position was very aggressive, I was leaning forward and it would numb my wrists. Also the seat was very uncomfortable since it doesn't have any cushion or suspension. I did 2 useful upgrades to my ARC(electric bike)
+
+- Rear view mirror on right side
+- Seat cushion
+
+This will improve the ride quality for now. A better upgrade would be to raise the handlebar so I am in a vertical position which is very comfortable.
+
 # 2022-08-06
 Hello
 
