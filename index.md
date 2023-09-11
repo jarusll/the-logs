@@ -45,6 +45,11 @@ On 2nd September, I tried riding 100kms but my body gave up on about 65kms. I re
 
 This will improve the ride quality for now. A better upgrade would be to raise the handlebar so I am in a vertical position which is very comfortable.
 
+![My kick scooter](./scooter.jpg)
+I am going to name my scooter WISP, inspired by the Dota character IO which was formerly named WISP. IO is a character which links with an ally and boosts them with healing(health) and mana(currency for spells). While it cant do alot on its own but when paired with a skilled ally, it increases the chances of winning fights exponentially. And IO has an ability which can teleport itself and the linked ally anywhere and be back allowing both of them to pop in and out of fights. And I can pair my scooter with public transport which opens alot of possibilities for travelling. So yes. WISP
+
+I din't make it official but I named my foldie SOL. Its small, its cute, it folds and is modern. It also means the SUN and my name is Suraj which creates a strong connection between us.
+
 # 2022-08-06
 Hello
 
