@@ -1072,7 +1072,7 @@ Will gzip & minify my assets soon.
 
 Pushed `Abstractions`.
 
-Added awesome. Need to think about how I will organise.
+Added awesome. Need to think about how I will organize.
 
 Had a meaningful conversation about work culture today.
 
@@ -1083,7 +1083,7 @@ Metro stream at night by Flare, Yayy
 The arm instance on Oracle has been running really well. Infact we hosted a full fat modded Minecraft server on it and its been able to handle it like a pro.
 I hosted a service on it last night and I have been thinking about switching to arm fully. I think I will be able to switch well given that I dockerize everything. Let me think about this.
 
-Someone has already made a better playground for nearley So I can move on to something else. Or I could improve it, I'll think about it. Time for some dog fooding. I realised I don't need backend for this So I could just make a Client side rendered webapp.
+Someone has already made a better playground for nearley So I can move on to something else. Or I could improve it, I'll think about it. Time for some dog fooding. I realized I don't need backend for this So I could just make a Client side rendered webapp.
 
 One of the things I want to build with is Codemirror/Monaco. Just because I do like editors and use editors I want to build using one.
 
@@ -1091,9 +1091,9 @@ Pushed part 2 `Grammar & Primitive Operations`. Next will be `Abstraction` and `
 
 # 2022-06-16
 
-Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt alot about compilers. I will certainly be messing around with grammar.
+Made a webapp for prototyping with nearley. It will be an enabler for me just because past few days I've learnt a lot about compilers. I will certainly be messing around with grammar.
 I'll clean it up tomorrow.
-I'll push operator precendence tomorrow.
+I'll push operator precedence tomorrow.
 This will be my magnum opus for a long time.
 
 Good day, night.
@@ -1133,7 +1133,7 @@ I DID IT!!! I made the compiler. The prototype is ready.
 
 For now it can only execute single line and there's no assignment. I will add these over the coming days.
 
-The next logical thing would be to look into combinators. My favourite is the `Y combinator` because that's how you implement recursion in lambda calculus.
+The next logical thing would be to look into combinators. My favorite is the `Y combinator` because that's how you implement recursion in lambda calculus.
 
 My IEMs will arrive tomorrow, I am so excited.
 
@@ -1211,7 +1211,7 @@ Good day, night
 
 # 2022-06-07
 
-So I found out `Redux` has grown alot. `Redux toolkit` seems to eliminate alot of boilerplate. But I found this out after spending a day on Redux.
+So I found out `Redux` has grown a lot. `Redux toolkit` seems to eliminate a lot of boilerplate. But I found this out after spending a day on Redux.
 
 Anyways I went through the docs and got upto speed. I pushed a redux primer along with jupyter notebook.
 Binder is a good way to share notebooks. I even installed the javascript kernel so anyone reading my notebook can interact with the code.
@@ -1219,7 +1219,7 @@ Jupyter is one of the best environment.
 
 The whole reason I did this was because I had been out of touch with redux. Tomorrow I will rapidly prototype.
 
-I was busy with figuring out how to host it interactively. I tried alot of options including `Google collab` but `Binder` works best for me.
+I was busy with figuring out how to host it interactively. I tried a lot of options including `Google collab` but `Binder` works best for me.
 
 There are quality small fragments I could write but it won't suit on the main page. Time to bring fragments back but not another repo. I'll keep it simple.
 
@@ -1240,7 +1240,7 @@ Good day, night
 
 # 2022-06-05
 
-Biggest oof of the day, I was trying to reverse proxy without registering the subdomain. Yayyy. In my defence this is my first reverse proxy setup and I barely know anything.
+Biggest oof of the day, I was trying to reverse proxy without registering the subdomain. Yayyy. In my defense this is my first reverse proxy setup and I barely know anything.
 
 Now I need to add jupyter as systemd service.
 
@@ -1250,7 +1250,7 @@ Added jupyter as systemd service.
 Jupyter has vim like keybinds, how cool is that?
 
 Dockerized the whole setup. And It'll serve my literate programming needs better than org mode.
-The biggest reason I dockerize something is reproduceability.
+The biggest reason I dockerize something is reproducibility.
 
 ![Image](./cfd71781f957f8196f5113f35975e1e9.jpg)
 
@@ -1275,14 +1275,14 @@ Recently during our conversations, we came across [Zettelkasten](https://eugeney
 ![Jun Zettelkasten setup](./jun_zel_setup.jpg)
 *[Jun](https://arjun.lol/)'s Z setup*
 
-Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around alot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
+Now that I've been pretty acquainted with org-mode, I can start making notes. I realize I do tinker around a lot of things but I don't write it down. So when I do go back, I have to backtrack from the beginning. I will be trying out org-roam for the coming days.
 
 ![Image](./1d911ae08bbc71bc60f71c388733d028.jpg)
 *Stray release date announced*
 
 One of the games I am really excited for. I know I'll like it when it's produced by Annapurna Interactive
 
-For the past few days my prototyping langauge has been Ruby. Even with 0 knowledge I am able to prototype rapidly. Its about time I did Ruby koans.
+For the past few days my prototyping language has been Ruby. Even with 0 knowledge I am able to prototype rapidly. Its about time I did Ruby koans.
 
 I'll get comfortable with org roam
 
@@ -1324,7 +1324,7 @@ Kadane's algorithm is out.
 Running full fat Emacs on termux was slow, so I am using it on the vps. How cool is that, my own lil codespace.
 I'll push Manacher's algorithm tomorrow.
 
-Read about the actor model in concurrency and it's my favourite concurrency model. I won't code anything concurrent until I have very good knowledge about it.
+Read about the actor model in concurrency and it's my favorite concurrency model. I won't code anything concurrent until I have very good knowledge about it.
 
 # 2022-05-31
 
@@ -1354,7 +1354,7 @@ Brainfucked myself with firewall rules with `firewalld`. For some reason 443 was
 
 I won't automate anything for now. Will run this scavenged setup for a while so I can appreciate abstractions.
 
-I learnt a lot today. Hosted my first site from scratch. Although `caddy` made alot of things easy, I will read about hosting for the coming days.
+I learnt a lot today. Hosted my first site from scratch. Although `caddy` made a lot of things easy, I will read about hosting for the coming days.
 
 This will be my playground. I'll go from this scavenged setup to production docker-compose with caddy or nginx.
 
@@ -1425,7 +1425,7 @@ Tomorrow, I'll fix the assets and it should be good to go.
 My leetcode practice & horizontal scaling obsession paid off. Fingers crossed.
 I came across Bionic reading today. Its my new obsession. I installed a chrome extension so its on every page. I converted all my ebooks to bionic & sent to kindle. Been a while since I was this excited about reading.
 
-I increased my font size on every system and my readability increased alot.
+I increased my font size on every system and my readability increased a lot.
 
 I have been thinking about hugo because of its native support for org files. Let me think about this.
 
@@ -1463,7 +1463,7 @@ Good day, night
 
 Personal day today.
 
-Took a online assessment test. Pretty good in frontend.  Average in backend. The backend assessment had alot of cryptographic security questions.
+Took a online assessment test. Pretty good in frontend.  Average in backend. The backend assessment had a lot of cryptographic security questions.
 
 Tomorrow, I'll start publishing org-mode. The plan is to get the system up ASAP and then I can port my site slowly.
 
@@ -1551,11 +1551,11 @@ Looked into noweb.
 Occupied with personal stuff.
 
 # 2022-05-08
-I came across noweb for org-mode and I have fallen in love with it. It allows me to write seperate chunks of code and include in other chunks. I can start writing literate programs now.
+I came across noweb for org-mode and I have fallen in love with it. It allows me to write separate chunks of code and include in other chunks. I can start writing literate programs now.
 
 The other problem, more of an inconvenience is lack of support for org-mode for 11ty framework. I am looking into exporting my site to org-mode.
 
-When I seperate the code in chunks and prepend the required code for evaluation, the prepended code also shows up in export. The prepended code is duplicated so it shows up twice. Using the `:noweb strip-export` flag fixes it. This is turning out to be real good.
+When I separate the code in chunks and prepend the required code for evaluation, the prepended code also shows up in export. The prepended code is duplicated so it shows up twice. Using the `:noweb strip-export` flag fixes it. This is turning out to be real good.
 
 Nixos would be an overkill for me. Another alternative for me would be managing dotfiles using GNU Stow and flatpak everything (I don't know if it's possible).
 
@@ -1623,7 +1623,7 @@ Solved a linked list problem with 2 pointers. I am better off solving medium pro
 ![Image](./567adb1b5ddccd84b7228fa87394cd61.jpg)
 I should've bought her home but her siblings were around.
 
-One of the downsides of recursion is the hard limit langauges have for recursive calls. Even if it's tail recursion.
+One of the downsides of recursion is the hard limit languages have for recursive calls. Even if it's tail recursion.
 
 Good day, Night
 
@@ -1698,7 +1698,7 @@ Night
 
 # 2022-04-26
 
-I have to fight the compiler alot with Rust.
+I have to fight the compiler a lot with Rust.
 
 Nope, rust is definitely not suitable for competitive programming for me.
 
@@ -1712,7 +1712,7 @@ Night
 # 2022-04-25
 
 I solved one more problem today. I'll ramp up as I go.
-I am solving rustlings, will make rust my competetive programming language.
+I am solving rustlings, will make rust my competitive programming language.
 
 I have integrated asserts in my programming, poor mans tdd. I like it.
 
@@ -1748,15 +1748,15 @@ I started with the TDD practice. I will finish the first exercise.
 
 Coming monday Leetcode grind starts. I will fuck around my personal things until this weekend, from monday strict DSA.
 
-I realised the testing things pretty easy if you are good at design, which smalltalk taught me.
+I realized the testing things pretty easy if you are good at design, which smalltalk taught me.
 
 Also [Dr. Ziltch](https://open.spotify.com/track/04RO1gAZbF34O2gv0Oak5U?si=lfdELlM0SgCfXZbESUv8Aw) slaps
 
-I have been trying out the tdd in Javascript which doesn't really have good OOP support, It lacks some fundamentals. I am looking into Java, Java By Comparision - Pragmatic Bookshelf
+I have been trying out the tdd in Javascript which doesn't really have good OOP support, It lacks some fundamentals. I am looking into Java, Java By Comparison - Pragmatic Bookshelf
 
-Everything is just smalltalk & lisp. I don't need to learn the langauge, I just need to know its workflow, eg compilation, namespaces.
+Everything is just smalltalk & lisp. I don't need to learn the language, I just need to know its workflow, eg compilation, namespaces.
 
-I'll look into Competetive programming books now. I'll setup the tdd setup with java tomorrow.
+I'll look into Competitive programming books now. I'll setup the tdd setup with java tomorrow.
 
 Came across yasnippets, I'll use and abuse it.
 
@@ -1785,7 +1785,7 @@ Good day, night.
 
 Whenever a merge error happens, my GitJournal breaks. It happened today and I couldn't write from phone.
 
-I read today, alot. I am halfway through the testing book. I also looked that `Players Handbook` for DND.
+I read today, a lot. I am halfway through the testing book. I also looked that `Players Handbook` for DND.
 I like where I am headed as a dev. Docker then testing.
 
 My cat is pregnant. Lets hope they make it this time.
@@ -1820,9 +1820,9 @@ The Little Schemer & The Seasoned Schemer are written as Socratic dialogue.
 
 I am going to read the 3rd book in the series The Reasoned Schemer, which is based on relational programming soon. I plan to read more of this style. Good stuff.
 
-I will be reading alot for a while.
+I will be reading a lot for a while.
 
-I have been itching alot to mess around with testing. Especially TDD. I am looking into it.
+I have been itching a lot to mess around with testing. Especially TDD. I am looking into it.
 
 I started reading `Unit Testing: Principles, Practices & Patterns`. I really want to tinker with a good oop system but the only one which I like is smalltalk, nothing comes closer to the interactability of its IDE. I'll try it after testing for TDD.
 
@@ -1916,11 +1916,11 @@ Something like this
 ![Image](./03725bccf6bc61b9eccdac7b6a7522f9.jpg)
 *Credit - https://sixohthree.com/termux-for-android*
 
-I haven't been able to get alot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
+I haven't been able to get a lot of time on my desk. I really need a portable solution. Once I setup the vps I should be good to go with a ssh client.
 
 I am looking into how to read man pages efficiently. I can write "Your best friends on the CLI".
 
-I like determinism. I will be tinkering with ansible for the coming week. The first problem that I want to solve is mirroring my github repos on bitbucket with ansible. This will be a good exercize to learn ansible & to solve my problem.
+I like determinism. I will be tinkering with ansible for the coming week. The first problem that I want to solve is mirroring my github repos on bitbucket with ansible. This will be a good exercise to learn ansible & to solve my problem.
 
 Testing pushing from vps, success.
 
@@ -1971,7 +1971,7 @@ Finally added checkboxes to my site, looks good.
 This style of keeping track is not efficient. I need to start using kanban. I have noticed there 1 big task & a small one which I do get done, I need to start planning considering that.
 
 I'll soon tinker around with elixir.
-One of the aspects where I can improve alot is testing. This is very overlooked and it really pays off in the long run. I am going to setup a tdd lab and fuck around until I get comfortable.
+One of the aspects where I can improve a lot is testing. This is very overlooked and it really pays off in the long run. I am going to setup a tdd lab and fuck around until I get comfortable.
 
 Nasty thing happened, ref lock thing on my git repo. I am making backup repos now.
 
@@ -1991,7 +1991,7 @@ I'll read about terraform today.
 I tried using emacs as my window manager, din't work out because
   * had to manually send keys
   * would freeze up sometimes and had to reboot
-I realised I am better off with i3wm. I'll soon go through all the docs of i3 and rice it up, not that I haven't. But I'll be more comfortable tweaking it if I know everything.
+I realized I am better off with i3wm. I'll soon go through all the docs of i3 and rice it up, not that I haven't. But I'll be more comfortable tweaking it if I know everything.
 
 ![Image](./be0164af19d609f5bf0c7549588cebc2.jpg)
 *My new wallpaper*
@@ -2059,7 +2059,7 @@ Night friend
 ### Plan for today
 - [ ] dockerize something, anything
 
-Have been browsing alot of r/fuckcars. I have a craving for reading about city design.
+Have been browsing a lot of r/fuckcars. I have a craving for reading about city design.
 
 I'll be making my own home gym.
 
@@ -2136,7 +2136,7 @@ My eyes feel ticklish and watery, it ll be fine after they get used to glasses.
 
 Couldn't draw Emacs because spent the whole day in Linux.
 
-Tomorrow I'll push the `My favourite Emacs packages` article.
+Tomorrow I'll push the `My favorite Emacs packages` article.
 
 I am going to attend the convocation of the Bois. Its party time. EZ.
 
@@ -2172,7 +2172,7 @@ Easy day. Night friend
 - [x] Configure exwm
 - [ ] Edit with Kdenlive
 
-I noticed I haven't been using emacs alot for the past few days.
+I noticed I haven't been using emacs a lot for the past few days.
 And that changes today, I am installing exwm and making it my default window manager.
 Its everything emacs baby.
 
@@ -2364,7 +2364,7 @@ I looked at nixos, I like the idea. Now I need to find out & justify if it works
 
 I finished the koans, there are 2 koans but they are exercise. I might do them if I feel like it. Right now, I have to digest some elisp. I'll come back to these after a day or two.
 
-Haven't been able to do alot these days because I have been helping at home. If it becomes extreme I might look for a laptop or travel keyboard so I can work from phone.
+Haven't been able to do a lot these days because I have been helping at home. If it becomes extreme I might look for a laptop or travel keyboard so I can work from phone.
 
 Good day, night friend.
 
@@ -2395,12 +2395,12 @@ I like introspection. Thats one of the big reasons I like emacs & smalltalk.
 - [ ] do elisp koans
 - [x] watch system crafters
 
-Came across `elcord-mode`, discord rich presense for emacs. Looks cool.
+Came across `elcord-mode`, discord rich presence for emacs. Looks cool.
 `recentf-mode`, remembers all the recent files. I am using it now.
 
 Just found out about `describe-symbol` in emacs. It gives documentation about elisp symbols.
 
-One thing that I really want to master in emacs is motions, moving around in buffer fast, really fast. Thats the thing I liked about Vim alot. If I can make it happen here, I won't need any vi emulation modes.
+One thing that I really want to master in emacs is motions, moving around in buffer fast, really fast. Thats the thing I liked about Vim a lot. If I can make it happen here, I won't need any vi emulation modes.
 
 One of these days I'll draw the portal companion cube artwork. I got one online but it seems unethical. I'll make my own.
 
@@ -2417,7 +2417,7 @@ Me and Wolfie figured out how to get all the data for d2newspaper. We'll be usin
 
 Holy shit `which-key` is fucking awesome. If I enable `which-key-mode`, I can type out Key combinations and wait for the suggestions. This is exactly what I was looking for.
 
-Actually good day, learnt alot about Emacs. Day rating - 6/10. Tomorrow I'll try to finish elisp-koans.
+Actually good day, learnt a lot about Emacs. Day rating - 6/10. Tomorrow I'll try to finish elisp-koans.
 Ez, night friend
 
 # 2022-03-28
@@ -2452,7 +2452,7 @@ Night friend
 ### Plan for today
 - [ ] setup `D2Newspaper`
 
-There's alot of dust buildup in my pc, need to clean it. I ll do it when the mount arrives.
+There's a lot of dust buildup in my pc, need to clean it. I ll do it when the mount arrives.
 
 Wolfie talked about how he's missing reading books and now I want to read🥺. I will gain momentum first with short reads.
 
@@ -2462,7 +2462,7 @@ Now that everything has been automated and decoupled, I can write articles on my
 
 Wolfie busy, we ll setup tomorrow.
 
-Just realised I have misconfigured GitHub actions for posts and no listener for posts_push on portfolio. Will fix it tomorrow.
+Just realized I have misconfigured GitHub actions for posts and no listener for posts_push on portfolio. Will fix it tomorrow.
 
 Day rating - 5/10. My eyes were strained and I lost all dota matches
 
