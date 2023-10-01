@@ -4,6 +4,11 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2022-10-01
+Me and my boy FLARE went to Morbe Dam.
+
+I switched to GNOME Fedora. I still use i3 on my work laptop.
+
 # 2022-09-11
 
 Why? Why today?
