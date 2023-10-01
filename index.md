@@ -8,11 +8,11 @@ date: 2022-03-24T00:00:00+05:30
 
 Why? Why today?
 
-I had a mental block for about a month. I hate boring, repetitive stuff. Stuff which doesn't bring alot of value. I am out of it and thats why I am here.
+I had a mental block for about a month. I hate boring, repetitive stuff. Stuff which doesn't bring a lot of value. I am out of it and thats why I am here.
 
 I like tweaking, performance enhancements. Things which give metrics so you can improve things. I think thats why I am big into observability.
 
-I hate monsoon. I do. I can't go out alot. I think winter would be my favourite seasons of all. I can go out, I can stay in.
+I hate monsoon. I do. I can't go out a lot. I think winter would be my favorite seasons of all. I can go out, I can stay in.
 
 What was I working on? Boring stuff. But exciting as well. I tested if I can take my folding cycle in trains and it turns out I can except I have to buy luggage ticket and travel in luggage compartment so thats a bummer because I cant buy luggage tickets on my phone and luggage compartments are filthy.
 
@@ -25,9 +25,9 @@ We did go to Alibaug and the bois surprised me with a cake, which was very nice 
 What do I have planned for the coming months?
 DSA, I want problem solving, I like it. I am an engineer. And me writing here would hopefully push me to solve problems.
 
-I will also be implementing caching over the coming weeks. Nothing fancy for now, jsut client side caching but that would give me some insights with advanced caching systems.
+I will also be implementing caching over the coming weeks. Nothing fancy for now, just client side caching but that would give me some insights with advanced caching systems.
 
-I am selling all the junk I dont need.
+I am selling all the junk I don't need.
 - My split keyboard
 
   It dint work out for me. I use vim. I use the whole keyboard. A 60% keyboard would work for me. I cant get comfortable with or
@@ -38,7 +38,7 @@ I am selling all the junk I dont need.
 
 I am keeping a hard limit on the number of things I can own. Lets try that.
 
-On 2nd September, I tried riding 100kms but my body gave up on about 65kms. I realised the position was very aggressive, I was leaning forward and it would numb my wrists. Also the seat was very uncomfortable since it doesn't have any cushion or suspension. I did 2 useful upgrades to my ARC(electric bike)
+On 2nd September, I tried riding 100kms but my body gave up on about 65kms. I realized the position was very aggressive, I was leaning forward and it would numb my wrists. Also the seat was very uncomfortable since it doesn't have any cushion or suspension. I did 2 useful upgrades to my ARC(electric bike)
 
 - Rear view mirror on right side
 - Seat cushion
@@ -46,7 +46,7 @@ On 2nd September, I tried riding 100kms but my body gave up on about 65kms. I re
 This will improve the ride quality for now. A better upgrade would be to raise the handlebar so I am in a vertical position which is very comfortable.
 
 ![My kick scooter](./scooter.jpg)
-I am going to name my scooter WISP, inspired by the Dota character IO which was formerly named WISP. IO is a character which links with an ally and boosts them with healing(health) and mana(currency for spells). While it cant do alot on its own but when paired with a skilled ally, it increases the chances of winning fights exponentially. And IO has an ability which can teleport itself and the linked ally anywhere and be back allowing both of them to pop in and out of fights. And I can pair my scooter with public transport which opens alot of possibilities for travelling. So yes. WISP
+I am going to name my scooter WISP, inspired by the Dota character IO which was formerly named WISP. IO is a character which links with an ally and boosts them with healing(health) and mana(currency for spells). While it cant do a lot on its own but when paired with a skilled ally, it increases the chances of winning fights exponentially. And IO has an ability which can teleport itself and the linked ally anywhere and be back allowing both of them to pop in and out of fights. And I can pair my scooter with public transport which opens a lot of possibilities for travelling. So yes. WISP
 
 I din't make it official but I named my foldie SOL. Its small, its cute, it folds and is modern. It also means the SUN and my name is Suraj which creates a strong connection between us.
 
@@ -64,7 +64,7 @@ Hello friend.
 
 Why today? I finished playing this cute game called `A short hike`. Long story short, in the final part of the game you gracefully glide through the shimmering northern lights. It really resonated with my newfound freedom with cycling and I just had to stop and write it down. I recommend you try out this short cute game.
 
-I finally joined gym and I have been working on myself. Alot of cardio and some of strength training.
+I finally joined gym and I have been working on myself. A lot of cardio and some of strength training.
 
 I got infected with `n + 1` as well and I bought 2 more bikes. Hold on, let me explain.
 
@@ -82,17 +82,17 @@ Peace out
 # 2022-06-06
 Hello friend, Its been a while.
 What am I upto?
-Alot of things.
+A lot of things.
 
 Me and the bois went to Gorai beach, cycling all the way. Time well spent and I realized I love cycling.
-So I bought a sweet ride and I am in love with it. I wanna go to places and take alot of pics. I am looking for cycle buddies now because 20+km is risky.
+So I bought a sweet ride and I am in love with it. I wanna go to places and take a lot of pics. I am looking for cycle buddies now because 20+km is risky.
 ![Schnell E Velo](./IMG_0140~2.jpg)
 
 My 12 mini gave me battery life anxiety so I traded it with `Nothing` phone.
 
 Me and the bois went to the arcade and movies and I tried the car sim and omg I am going to have a racing sim setup by end of this year with force feedback.
 
-I am beginning to realize standarized is the way to go, prime example my keyboard. I bought a `crkbd` and I have been having a hard time building the muscle memory. The numbers and symbols layer fuck me up.
+I am beginning to realize standardized is the way to go, prime example my keyboard. I bought a `crkbd` and I have been having a hard time building the muscle memory. The numbers and symbols layer fuck me up.
 ![CRKBD](./IMG_0102.jpg)
 
 I have so much to do and so less time.
@@ -118,7 +118,7 @@ Also running jest tests in parallel halves the test runtime.
 
 I have been binge watching `Curb Your Enthusiasm`. Love `Larry David`, his comedy is smooth.
 
-I also have been watching alot of `Louis CK`. I saw him on `Joe Rogan's` podcast and I came across `Tropic of Cancer` and I am going to check it out.
+I also have been watching a lot of `Louis CK`. I saw him on `Joe Rogan's` podcast and I came across `Tropic of Cancer` and I am going to check it out.
 
 # 2022-03-01
 The only thing stopping me from trying out other languages is setting up the env. Build systems should be easy to setup and use. I am trying out gradle this week, fingers crossed. The other thing stopping me is setting up tests, executing tests on a keypress for really quick feedback. Why not have a flat structure which I can query and browse as I want. Smalltalk did it really well.
@@ -131,13 +131,13 @@ I did something which I've been meaning to do for a really long time, removing t
 
 I tried `swc` for jest and holy shit my test runtime went down from about `90s` to `20s`. I tried to integrate it for gatsby but it dint work out, neither did `esbuild`.
 
-Why are all the phones big these days, they dont fit my small hands. I want a smaller phone. The only option for me is the iphone mini but I dont want ios and theres no decent android alternative. What happened to 5inch phones?
+Why are all the phones big these days, they don't fit my small hands. I want a smaller phone. The only option for me is the iphone mini but I don't want ios and theres no decent android alternative. What happened to 5inch phones?
 
 I can't limit the fps on my android. I want to limit it to like 24 fps and use it with greyscale filter. Battery life matters to me more than performance. I was looking at the Blackberry q10 listings and I am really tempted to buy it, but I know its not worth it.
 
 I am done with multiplayer games. I just want to have some drinks and play singleplayer these days.
 
-Whats wrong with talking about yourself all the time? You can be vulnerable and honest. You dont have to think about yourself highly all the time.
+Whats wrong with talking about yourself all the time? You can be vulnerable and honest. You don't have to think about yourself highly all the time.
 
 I woke up yesterday and my shoulder was fucked, I sprained my shoulder in sleep. I couldn't look to my right or sit or walk. This was my first shoulder sprain. Reminds me of the time my ears were popped and I was in pain for like a day.
 # 2022-02-18
@@ -145,7 +145,7 @@ Day 3 with Github copilot, I am having too much fun with this. I am mostly using
 
 I am in love with testing.
 
-I accidently flashed my dick pic to the bois while trying to show something on my phone. It feels weird to say this but that was the night me and the bois connected.
+I accidentally flashed my dick pic to the bois while trying to show something on my phone. It feels weird to say this but that was the night me and the bois connected.
 
 My linux installation was all over the place, I had to do multiple actions to achieve anything. My preferred window manager is i3wm but I was on pop, using their tiling window manager which is good but just not fast enough. I dint want the animations and theres no absolute jumps. My dotfiles are git managed but not automatically symlinked. Using my linux install felt like a chore. So I decided today I am going to fix it. And I did, with `GNU stow`. I love `GNU stow`. It allows you to mirror 2 paths.
 
@@ -164,10 +164,10 @@ Me and the bois went trekking at Prabalgad Fort a while ago, it went as expected
 I have been spearheading React testing these days. I will be comfortable testing anything now.
 
 # 2022-01-21
-I realised alot of things didn't make sense to me because I wasn't emotionally mature enough.
+I realized a lot of things didn't make sense to me because I wasn't emotionally mature enough.
 
 # 2022-01-13
-I've been listening to alot of alt/rock, another genre that I like.
+I've been listening to a lot of alt/rock, another genre that I like.
 
 # 2022-01-12
 BALLS BALLS BALLS BALLS BALLS BALLS BALLS BALLS BALLS!!!!!
@@ -209,16 +209,16 @@ Photo Credits: *Kathani, Ketan & Pratik*
 # 2022-12-21
 Today I tried something new, connected my bluetooth keyboard to both my pc and laptop and I am not going back. I'll use my old keyboard as macroboard. I also started using my speaker which was sitting around for about a year just because I use my iem or headphone on pc.
 
-Update on the ahk macro thingy, Luamacros seems inadequate for my usage. I want modifers in it and I'll have to look if luamacros can do that.
+Update on the ahk macro thingy, Luamacros seems inadequate for my usage. I want modifiers in it and I'll have to look if luamacros can do that.
 I have a reason to learn simple video editing, I've started to stream on youtube.
 
-I have been feeling the itch to play management games, I'll try the new dwarf fortress soon. I don't have the skill or time for competetive games and I want to move away from them.
+I have been feeling the itch to play management games, I'll try the new dwarf fortress soon. I don't have the skill or time for competitive games and I want to move away from them.
 
-I came across [Firestarter](https://open.spotify.com/track/67mbvNgp8qmt4GHpZgN7Ze?si=c387bdf4104c4048) and I can't really describe how It makes me feel but I like it. Also I've been listening alot to [CountryStar420](https://open.spotify.com/artist/2f8tYvk0zQhEjUJQ9sStyB?si=LVzgQwpmRoKm0XMXE6RbeA).
+I came across [Firestarter](https://open.spotify.com/track/67mbvNgp8qmt4GHpZgN7Ze?si=c387bdf4104c4048) and I can't really describe how It makes me feel but I like it. Also I've been listening a lot to [CountryStar420](https://open.spotify.com/artist/2f8tYvk0zQhEjUJQ9sStyB?si=LVzgQwpmRoKm0XMXE6RbeA).
 
 Next year mid I'll buy a height adjustable desk for the space and my health, I feel I get more done while standing just because I am walking, I am thinking, I am not stuck in a place.
 
-This year has been big for me, I've grown alot and if I could list them down it'd be
+This year has been big for me, I've grown a lot and if I could list them down it'd be
 - The biggest being able to communicate with people
 - Gyro, can't thank enough the whole gyro gaming community, especially [Jibb Smart](https://www.jibbsmart.com/), I prefer my controller now over kbm
 - Buzzcut, I am permanent buzz cut now or bald
@@ -255,12 +255,12 @@ I finished playing *Titanfall 2* and it was one of the best games. Another good 
 
 I am absolutely obsessed with gyro controls. I am playing every game with gyro. I will soon be writing about gyro after I have enough experience with it.
 
-I saw alot of joycons gyro gaming videos and I thought about trying out 2 handed as well except wiimote isn't good and so are the joycons. I will sleep on this decision for a while. If I really want to try 2 handed gaming I'll buy it in 2-3 months.
+I saw a lot of joycons gyro gaming videos and I thought about trying out 2 handed as well except wiimote isn't good and so are the joycons. I will sleep on this decision for a while. If I really want to try 2 handed gaming I'll buy it in 2-3 months.
 
 I started uploading gyro youtube on videos. This way I get to try out new games and test out gyro so I refine my control scheme everytime I try something new.
 
 # 2022-11-11
-Xeon's monitor borked so we went shopping last saturday. He bought a monitor and I bought a Hyper 212 for my thermals and FLARE bought USB Switch which is cool. I will buy switches when I have proper remote work setup, not alot of space with dual monitors and mic.
+Xeon's monitor borked so we went shopping last saturday. He bought a monitor and I bought a Hyper 212 for my thermals and FLARE bought USB Switch which is cool. I will buy switches when I have proper remote work setup, not a lot of space with dual monitors and mic.
 The cooler took down the temps by 15 degrees.
 
 ![Image](./1dde633bf72c1e2a1d6523d27c0bc309.jpg)
@@ -315,7 +315,7 @@ Read about snowpack, parcel & esbuild. Snowpack was a good idea, it could be int
 
 Played God of War at 1080 Ultra. It felt rich.
 
-I read Harry Potter till Goblet of fire about 2 years ago, binge watched the whole movie series past 3 days. I am beginning to realise I like Heroic Fantasy.
+I read Harry Potter till Goblet of fire about 2 years ago, binge watched the whole movie series past 3 days. I am beginning to realize I like Heroic Fantasy.
 
 # 2022-10-11
 
@@ -323,7 +323,7 @@ I read Harry Potter till Goblet of fire about 2 years ago, binge watched the who
 
 # 2022-10-10
 
-I won't be able to update here frequently with alot of things going.
+I won't be able to update here frequently with a lot of things going.
 
 I have been absolutely deep diving into bundlers with webpack and these 2 weeks I'll look into snowpack & esbuild. I am very excited about esbuild.
 
@@ -331,9 +331,9 @@ I have been absolutely deep diving into bundlers with webpack and these 2 weeks 
 
 Bought a dualshock 4, mostly for gyro and flick stick. Not the best but it is fun and also I needed a controller.
 
-Yes I did try Parsec and it was good. There was a noticeable latency but I play cinematic so it was good. Although I really dont have any reason to play on parsec since I am always around my PC.
+Yes I did try Parsec and it was good. There was a noticeable latency but I play cinematic so it was good. Although I really don't have any reason to play on parsec since I am always around my PC.
 
-Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favourite character is Junkrat because I feel like I have that energy when I am in my zone.
+Me and the bois are having an absolute blast with Overwatch 2 these days. Short 10 mins matches and pretty fun. This might become our go to game. My favorite character is Junkrat because I feel like I have that energy when I am in my zone.
 
 ![Image](./c67f91b87b16c76466732da0d7fdcb2d.jpg)
 She finally let me pet her, came upto me all by herself.
@@ -476,7 +476,7 @@ The best thing about my new chair has been that my big cat has been sleeping on 
 
 # 2022-09-12
 
-So I've been helping cook my lunch these days and my fried rice tasted sour until i realised i got the wrong Schezwan sauce.
+So I've been helping cook my lunch these days and my fried rice tasted sour until i realized i got the wrong Schezwan sauce.
 
 I finished reading `Diary of Anne Frank`. I'll just read technical for a while.
 
@@ -488,7 +488,7 @@ Looked at svelte for a thing.
 
 I can really get lost into webpack. I do understand that it's overengineered and I feared it before but now that I am comfortable with it, I spent hours last night optimizing a build. I think i am big into observability.
 
-Also, [Jun](https://arjun.lol/), good guy, talks alot about optimization. Check him out.
+Also, [Jun](https://arjun.lol/), good guy, talks a lot about optimization. Check him out.
 
 # 2022-09-09
 
@@ -502,7 +502,7 @@ Given how much I've been dealing with metrics these days I might read about it s
 
 Making things is easy, maintaining isn't.
 
-I'll soon be deep diving webpack now that I've got a knack for diagnostics. Also I am dying to try out golangs buffered channels.
+I'll soon be deep diving webpack now that I've got a knack for diagnostics. Also I am dying to try out golang's buffered channels.
 
 I seem to have the ability to make big changes on a codebase by observability.
 
@@ -510,7 +510,7 @@ I seem to have the ability to make big changes on a codebase by observability.
 
 Turns out I like profiling. Getting frame graphs up and looking at performance bottlenecks, i like it.
 
-Been using obsidian alot at work.
+Been using obsidian a lot at work.
 
 Good day
 
@@ -524,7 +524,7 @@ I like it when the trains at full speed when I am reading on my Kindle.
 
 # 2022-09-04
 
-Played alot of dota, I experimented with playing support with IO and it was good.
+Played a lot of dota, I experimented with playing support with IO and it was good.
 
 I read about concurrency.
 
@@ -532,7 +532,7 @@ I read about concurrency.
 
 Started reading `Nonsequential and Distributed Programming with Go`
 
-I experimeted with alot of dota characters. Skywraith is a good one. I'll soon be trying out OmniKnight.
+I experimented with a lot of dota characters. Skywraith is a good one. I'll soon be trying out OmniKnight.
 
 Played Valhiem & Dota with FLARE. He has made quite some upgrades to the main base.
 
@@ -613,11 +613,11 @@ Almost halfway through [The Defining Decade](https://www.goodreads.com/book/show
 
 Looked up React profiling and testing. Profiling is something I want to get into, get up some flamegraphs up and gain insights into performance.
 
-The train journey wasn't bad. I realised I never really got to see Mumbai. I like it when everythings just lively.
+The train journey wasn't bad. I realized I never really got to see Mumbai. I like it when everythings just lively.
 
 # 2022-08-21
 
-Played Valheim with FLARE. We've made quite progress. Unfortunately the screenshots he sent me are not alot. I'll post when I have many.
+Played Valheim with FLARE. We've made quite progress. Unfortunately the screenshots he sent me are nota lot . I'll post when I have many.
 
 I also played GO with FLARE and Spicy. I am bad at FPS and I like when they play casual with me.
 
@@ -683,7 +683,7 @@ I did something cursed today, mixed Mayo and ketchup for chipdip.
 Solved and hosted one problem. I'll do the other one tomorrow.
 
 ![Image](./681471d513c7d34f234b067a773fd187.jpg)
-Shes a survivor. I still remember the day she was born. Shes the only one who made it out of 3. She has grown so big I barely recognised her when she came upto my desk one day and I was scared for my kitten. That was my `Sintel` moment. Fortunately shes cool with other cats. I wish she came to my place more. I also got to pet my other cat(baby cat) yesterday and it looks like she has learnt the way of kitties. She'll survive. I was glad she recognised me(atleast that's what I think). It was a good day.
+Shes a survivor. I still remember the day she was born. Shes the only one who made it out of 3. She has grown so big I barely recognized her when she came upto my desk one day and I was scared for my kitten. That was my `Sintel` moment. Fortunately shes cool with other cats. I wish she came to my place more. I also got to pet my other cat(baby cat) yesterday and it looks like she has learnt the way of kitties. She'll survive. I was glad she recognized me(atleast that's what I think). It was a good day.
 
 # 2022-08-11
 
@@ -924,7 +924,7 @@ I've been playing Valorant I am absolutely loving it. I like abilities more than
 
 My cat is a monster. Just killed a baby mouse and is playing with his body.
 
-I just finished a problem and used pure OO and TDD. This was good. I learnt alot.
+I just finished a problem and used pure OO and TDD. This was good. I learnt a lot.
 
 Correction, there's 3 of them. The third just walked in today and latched on mommy cat.
 
@@ -1024,7 +1024,7 @@ Good day, night.
 
 *Rabbits are machines for turning grass into rabbits* - Someone on hackernews
 
-I realised I could write a lot of notes with flashcards. Need to find a good flashcard android app. Bonus if it supports import/export so I can configure it with syncthing.
+I realized I could write a lot of notes with flashcards. Need to find a good flashcard android app. Bonus if it supports import/export so I can configure it with syncthing.
 
 
 ![Image](./98eb4943262815447564da00f41d87ae.jpg)
