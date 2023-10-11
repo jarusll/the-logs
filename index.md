@@ -4,10 +4,21 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
-# 2022-10-01
-Me and my boy FLARE went to Morbe Dam.
+# 2022-10-11
+Me and my boi FLARE went to Harishchandragadh trek.
 
-I switched to GNOME Fedora. I still use i3 on my work laptop.
+# 2022-10-01
+Me and my boi FLARE went to Morbe Dam with SOL and ARC.
+![FLARE and my cycles](./FLARE_MORBE.jpg)
+![Morbe river](./MORBE_SEA.jpg)
+
+I switched to GNOME Fedora on my system. I still use i3 on my work laptop.
+
+I solved some [Neetcode](https://neetcode.io/) problems with ruby. Ruby is just a breeze to use. It feels like I am writing poetry. I am going to solve [Neetcode 150](https://neetcode.io/practice).
+I feel guilty when I haven't solved some code challenges in a while.
+
+Also Me and the bois made the perfect cake cover for `Xeon` & `Spicy`
+![Cake for Xeon & Spicy](./xeon_spicy_cake.jpg)
 
 # 2022-09-11
 
