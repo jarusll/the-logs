@@ -4,11 +4,16 @@ layout: layouts/home.html
 date: 2022-03-24T00:00:00+05:30
 ---
 
-# 2022-10-11
-Me and my boi FLARE went to Harishchandragadh trek.
+# 2023-10-15
+I started reading `Beginning x64 Assembly Programming` by `Joe Van Hoey`. Its been fun playing around with `gdb` and getting to know the low level stuff. Prime example `syscalls`, `stack pointers`, `base pointers`. It fills missing info as a programmer about the stack, heap and more things. I am looking forward to `SIMD`. My goal out of this would be to have a clearer understanding of the hardware and hopefully this'll help me reason about things for optimization.
+
+# 2022-10-10
+Me and my boi `FLARE` went to `Harishchandragadh` trek. `FLARE` sprained his ankle.
+
+I am absolutely loving my GNOME setup. Now that I have alot of things going at once on my screen. I feel the need for more screenspace.
 
 # 2022-10-01
-Me and my boi FLARE went to Morbe Dam with SOL and ARC.
+Me and my boi `FLARE` went to Morbe Dam with SOL and ARC.
 ![FLARE and my cycles](./FLARE_MORBE.jpg)
 ![Morbe river](./MORBE_SEA.jpg)
 
