@@ -2024,7 +2024,6 @@ I need to test out multiple docker containers & docker compose. I'll just grab t
 
 My reading list at night
   * https://plato.stanford.edu/entries/concept-evil/
-  * https://iep.utm.edu/moral-re/#:~:text=Moral%20relativism%20is%20the%20view,uniquely%20privileged%20over%20all%20others
 
 I am not sleeping without docker composing the template fullstack app.
 
@@ -2551,6 +2550,10 @@ Need to clone the diary repo in GitHub workflow.
 
   body {
     width: 72ch;
+
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+
     font-family: 'Courier Prime', monospace;
     text-rendering: optimizeLegibility;
     line-height: 1.5rem;
