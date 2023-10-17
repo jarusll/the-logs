@@ -2547,9 +2547,11 @@ Easy day, dint really get much done. Pushed "Why I made a public diary" and made
 Need to clone the diary repo in GitHub workflow.
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
+  @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+
   body {
-    font-family: 'Spline Sans Mono', monospace;
+    width: 75ch;
+    font-family: 'Courier Prime', monospace;
     text-rendering: optimizeLegibility;
     line-height: 1.5rem;
   }
@@ -2569,7 +2571,7 @@ Need to clone the diary repo in GitHub workflow.
   }
 
   img {
-    box-shadow: 2px 2px 0px rgb(226, 226, 226);
+    box-shadow: 5px 5px 0px lightgray;
     border: 1px solid black;
     display: block;
     margin: 1rem auto;
