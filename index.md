@@ -2547,7 +2547,30 @@ Easy day, dint really get much done. Pushed "Why I made a public diary" and made
 Need to clone the diary repo in GitHub workflow.
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
+  body {
+    font-family: 'Spline Sans Mono', monospace;
+    text-rendering: optimizeLegibility;
+    line-height: 1.5rem;
+  }
+
+  code {
+    font-weight: bold;
+    background: black;
+    color: white;
+    padding: 0.2rem;
+  }
+
+  code:before {
+    content: "`"
+  }
+  code:after {
+    content: "`"
+  }
+
   img {
+    box-shadow: 2px 2px 0px rgb(226, 226, 226);
+    border: 1px solid black;
     display: block;
     margin: 1rem auto;
     width: 99%;
