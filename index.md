@@ -2545,3 +2545,11 @@ Hello friend
 Easy day, dint really get much done. Pushed "Why I made a public diary" and made the diary.
 
 Need to clone the diary repo in GitHub workflow.
+
+<style>
+  img {
+    display: block;
+    margin: 1rem auto;
+    width: 99%;
+  }
+</style>
