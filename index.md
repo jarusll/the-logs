@@ -2582,7 +2582,7 @@ Need to clone the diary repo in GitHub workflow.
     box-shadow: 5px 5px 0px lightgray;
     border: 1px solid black;
     display: block;
-    margin: 1rem auto;
+    margin: 1rem 0;
     width: 99%;
   }
 </style>
