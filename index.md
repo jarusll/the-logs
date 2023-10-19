@@ -2558,10 +2558,10 @@ Need to clone the diary repo in GitHub workflow.
     text-rendering: optimizeLegibility;
     line-height: 1.5rem;
 
-    margin-left: 1rem;
-    margin-right: 0.75rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 0.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   code {
