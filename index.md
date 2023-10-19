@@ -2585,4 +2585,14 @@ Need to clone the diary repo in GitHub workflow.
     margin: 1rem 0;
     width: 99%;
   }
+
+  a {
+    border: 1px solid black;
+    color: black;
+    padding: 0.2rem;
+  }
+  a:hover {
+    color: white;
+    background: black
+  }
 </style>
