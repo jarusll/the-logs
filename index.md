@@ -2587,8 +2587,6 @@ Need to clone the diary repo in GitHub workflow.
   }
 
   a {
-    border: 1px solid black;
-    color: black;
     padding: 0.2rem;
   }
   a:hover {
