@@ -1,6 +1,6 @@
 ---
 title: Logs
-# layout: ../../layouts/RequestResponse.astro
+layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24
 ---
 
