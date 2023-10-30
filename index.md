@@ -4,6 +4,32 @@ title: Logs
 date: 2022-03-24
 ---
 
+# 2023-10-30
+I attended IndiaFOSS 3.0 at Bangalore with Jun. The ones that really added alot of value for me were the following ones
+- [What I learnt by building Vyaakaran to make learning fun](https://indiafoss.net/2023/confirmed/d4febde6a4) by Akash Hamirwasia
+
+  Because I was tinkering with making a language(beginners lisp) and the visualization would've helped alot
+
+- [The Political Roots of AI Policy: Or Why Debiasing Is A Misleading Solution](https://indiafoss.net/2023/confirmed/ad58511227) by Anupam Guha
+
+  The funnest talk at IndiaFOSS
+
+- [Observability and Open Telemetry: A 360 degree perspective](https://indiafoss.net/2023/confirmed/50683b6320) by Siddhartha Khare
+
+  Because I love observability
+
+- [More ways to have fun with Libre Software on GNU/Linux!](https://indiafoss.net/2023/confirmed/18f7a37219) by Abhas Abhinav
+
+  A linux greybeard with fun stories about FOSS movement in Bangalore
+
+- [Using WebTorrent trackers for purposes other than torrents](https://indiafoss.net/2023/confirmed/Using%20WebTorrent%20trackers%20for%20purposes%20other%20than%20torrents) by Subin Siby
+
+  P2P using webtorrent
+
+Also I exchanged my CRKBD with QMK GK61
+![GK61 with custom pcb](/Keeb60.jpg)
+The keycaps are a WIP
+
 # 2023-10-15
 I started reading `Beginning x64 Assembly Programming` by `Joe Van Hoey`. Its been fun playing around with `gdb` and getting to know the low level stuff. Prime example `syscalls`, `stack pointers`, `base pointers`. It fills missing info as a programmer about the stack, heap and more things. I am looking forward to `SIMD`. My goal out of this would be to have a clearer understanding of the hardware and hopefully this'll help me reason about things for optimization.
 
