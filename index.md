@@ -2605,7 +2605,7 @@ Need to clone the diary repo in GitHub workflow.
   }
 
   img {
-    box-shadow: 5px 5px 0px lightgray;
+    box-shadow: 5px 5px 0px black;
     border: 1px solid black;
     display: block;
     margin: 1rem 0;
