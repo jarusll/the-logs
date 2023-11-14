@@ -4,6 +4,11 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24
 ---
 
+# 2023-11-14
+I came across `Restart Frame` for debugging and I am totally going to overuse it. I learnt about it when I was looking for reverse debugging for JS. I want to try live programming with debugging.
+
+I have an interactive repl setup where I send snippets to repl directly from vscode. I am using [Send to Terminal+](https://marketplace.visualstudio.com/items?itemName=ivoh.sendtoterminalplus)
+
 # 2023-10-30
 I attended IndiaFOSS 3.0 at Bangalore with Jun. The ones that really added alot of value for me were the following ones
 - [What I learnt by building Vyaakaran to make learning fun](https://indiafoss.net/2023/confirmed/d4febde6a4) by Akash Hamirwasia
