@@ -1,8 +1,11 @@
 ---
 title: Logs
 layout: ../../layouts/RequestResponse.astro
-date: 2022-03-24
+date: 2022-03-24T00:00:00+05:30
 ---
+
+#2023-12-02
+Hello from my git home server, I truncated this repo and migrated it to my home server so it acts as intermediary between me and GitHub.
 
 # 2023-11-14
 I came across `Restart Frame` for debugging and I am totally going to overuse it. I learnt about it when I was looking for reverse debugging for JS. I want to try live programming with debugging.
