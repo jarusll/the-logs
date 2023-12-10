@@ -4,6 +4,17 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2023-12-10
+You can officially finger my server by `finger -l jarusll@suraj.lol`.
+
+I have been playing alot of Indie games. Recently I finished
+- `Cloud Climber` - A game about end of humanity. You play as a character(probably the last person on earth) looking for resources on sky high wood towers.
+- `Socrated Jones: Pro Philosopher` - A detective style game where you debate in your afterlife with prominent philosophers about Morality for getting back to earth.
+
+and a couple more indie puzzles like `Frame of mind`, `Shadow Burglar`. I got these list from the curated list `Gamers with very less time`. I've played quite a few of the listed titles.
+
+I finished playing this cute short game `Dr Langeskov, the tiger and the terribly cursed emrald`. Its about game development. You help the developer setup scenes for the game that you intended to play. Very meta, cute, recommended. `The Stanley Parable` is along the same lines. I've played it before but I am trying to find new endings in this playthrough. I like the kinds of game I can be away for a month and jump back in without losing the story.
+
 # 2023-12-02
 Hello from my git home server, I truncated this repo and migrated it to my home server so it acts as intermediary between me and GitHub.
 
