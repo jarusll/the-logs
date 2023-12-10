@@ -4,7 +4,7 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24T00:00:00+05:30
 ---
 
-#2023-12-02
+# 2023-12-02
 Hello from my git home server, I truncated this repo and migrated it to my home server so it acts as intermediary between me and GitHub.
 
 # 2023-11-14
