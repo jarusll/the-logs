@@ -4,6 +4,9 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2023-12-18
+Web is boring and leetcode is tryhard.
+
 # 2023-12-10
 You can officially finger my server by `finger -l jarusll@suraj.lol`.
 
