@@ -4,6 +4,19 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2024-01-01
+Hello World, I was in `Malvan` with my bois `FLARE` and `Wolfsteindromon`. 
+
+I am very scared of the ocean. Every time the waves hit the shore, it roared and my heart grips. I felt running away from the beach. The high speed wind din't help as well. 
+
+`FLARE` did take us(`Wolfie`, `n7` and `me`) for a seafood lunch but it din't go well because I ate alot of fish bones and `n7` did not like the taste. I ate so many fish bones now I know how it tastes lol.
+
+I tried सुरमयी(`Indo-Pacific King Mackerel`), पापलेट(`Silver Pomfret`) and बांगडा(`Indian Mackerel`). I liked the first because its so big theres just about 3 bones. `Pomfret` was tough but I got the hang of it and I am yet to develop taste for it. `Indian Mackerel` was the worst, It tastes too fishy, I tried it curry style, not fried. 
+
+The absolute best were the `Prawns`. `Prawns` + Rice with सार(Saar) was the best combo. 
+
+Also सोलकढी(`Solkadhi`). The meal feels incomplete without `Solkadhi`. Also कोकम(`Kokum`) sherbet, I am adding it to my comfort drinks.
+
 # 2023-12-18
 Web is boring and leetcode is tryhard.
 
