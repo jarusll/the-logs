@@ -17,6 +17,8 @@ The absolute best were the `Prawns`. `Prawns` + Rice with सार(Saar) was th
 
 Also सोलकढी(`Solkadhi`). The meal feels incomplete without `Solkadhi`. Also कोकम(`Kokum`) sherbet, I am adding it to my comfort drinks.
 
+We tried `Para-Sailing`, `JetSki` and `Scuba` and some more water sports. Jetski and Scuba was assisted and I would want it the same because the acceleration on the jetski was too much and so was the pressure on my ears during scuba. Saying that, next time I would wanna ride the jetski alone.
+
 # 2023-12-18
 Web is boring and leetcode is tryhard.
 
