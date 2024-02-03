@@ -4,16 +4,36 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24T00:00:00+05:30
 ---
 
-# 2024-01-01
-Hello World, I was in `Malvan` with my bois `FLARE` and `Wolfsteindromon`. 
+# 2024-02-03
+`Syncthing` is magic. All of my devices are connected on it with `tailscale`. The homeserver pushes to cloud every 24 hours.
 
-I am very scared of the ocean. Every time the waves hit the shore, it roared and my heart grips. I felt running away from the beach. The high speed wind din't help as well. 
+I realised you create samba shares for each directory.
+
+AWS cloudformation is hard to debug. Change sets work on a high level but still the feedback time is big. I was trying to debug a nested stack but I got template size maxed out error. And that was the point I gave up.
+
+[Create change set only without executing](https://curiousorbit.com/blog/cloudformation-changeset/)
+
+I finished `Witcher 3`, I am at peace. I got Yennefer to come at Gerelt's place. Its sad that you could either be a dad or a lover, why not both? I wanted to see Ciri.
+
+I took a break from gaming for a week and then I started playing `Ori and the Blind Forest`. The beginning scene almost made me cry.
+The movement feels very responsive. I am playing it on easy difficulty because thats what I do now.
+
+Everytime I look back on things I realize I could've done things better. Is it because I got better at it or I was rushing through things?
+For me its more of rushing.
+Everytime I go through my logs, I cringe. But it was me at some point. So I've accepted that I'll probably mess things up the first time.
+
+Me, `Wolfie` and `Haxorlord` went on multiple cycle rides in January. We went to the `Pagoda` and `Dongri`. `Wolfie` needs to get comfortable on the road before he gets a motorbike. I thought about buying one but tbh cycles just work fine for me except for long rides which I dont see myself doing for a while.
+
+# 2024-01-01
+Hello World, I was in `Malvan` with my bois `FLARE` and `Wolfsteindromon`.
+
+I am very scared of the ocean. Every time the waves hit the shore, it roared and my heart grips. I felt running away from the beach. The high speed wind din't help as well.
 
 `FLARE` did take us(`Wolfie`, `n7` and `me`) for a seafood lunch but it din't go well because I ate alot of fish bones and `n7` did not like the taste. I ate so many fish bones now I know how it tastes lol.
 
-I tried सुरमयी(`Indo-Pacific King Mackerel`), पापलेट(`Silver Pomfret`) and बांगडा(`Indian Mackerel`). I liked the first because its so big theres just about 3 bones. `Pomfret` was tough but I got the hang of it and I am yet to develop taste for it. `Indian Mackerel` was the worst, It tastes too fishy, I tried it curry style, not fried. 
+I tried सुरमयी(`Indo-Pacific King Mackerel`), पापलेट(`Silver Pomfret`) and बांगडा(`Indian Mackerel`). I liked the first because its so big theres just about 3 bones. `Pomfret` was tough but I got the hang of it and I am yet to develop taste for it. `Indian Mackerel` was the worst, It tastes too fishy, I tried it curry style, not fried.
 
-The absolute best were the `Prawns`. `Prawns` + Rice with सार(Saar) was the best combo. 
+The absolute best were the `Prawns`. `Prawns` + Rice with सार(Saar) was the best combo.
 
 Also सोलकढी(`Solkadhi`). The meal feels incomplete without `Solkadhi`. Also कोकम(`Kokum`) sherbet, I am adding it to my comfort drinks.
 
