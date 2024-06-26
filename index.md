@@ -4,6 +4,24 @@ layout: ../../layouts/RequestResponse.astro
 date: 2022-03-24T00:00:00+05:30
 ---
 
+# 2024-06-17
+Hello friend, its been a while.
+
+Why now?
+Because I am in a good mood. I got a good [feedback](https://news.ycombinator.com/item?id=40690990) on [`keydogger`](https://github.com/jarusll/keydogger), the text expansion program I wrote in C.
+Also because I wanna sit down and reflect on the past 4 months.
+
+What happened in the past 4 months?
+I started working out. Its been 5 months and there has been decent progress. My weight remains the same but I lost body fat.
+
+I use my foldie `Sol` to go to gym. And that has been all my cycling for a while. I absolutely adore the `Sol`. Its a 6 speed with single chain ring. I've been timing my upshifts well with pedalling so the upshifts feel very smooth. These days I am having fun working with the transmission.
+
+Working with `keydogger`, I am really comfortable now with low level programming. I wanna have all the optimization tools in my belt. `KCachegrind` really helped me find bottlenecks but I would prefer flamegraphs more than the tabular format. I need to understand `KCachegrind` well.
+
+I like the packaging status badge for linux packages on github. I wanna have something like that for `keydogger`. I'll test keydogger on different distros/archs. First distro is going to be `Alpine`.
+
+`GNOME` Fedora broke steam streaming so I switched to `KDE` Fedora on `THE MACHINE`(My main pc). It was logical given `Valve` will keep improving `KDE` and all my programming work is done on my laptop.
+
 # 2024-02-03
 `Syncthing` is magic. All of my devices are connected on it with `tailscale`. The homeserver pushes to cloud every 24 hours.
 
@@ -533,10 +551,6 @@ I have been having an absolute blast with my new GPU. There was an overheating i
 
 I'll soon be trying out Downsampling now that my GPU can handle it. My only requirements are 60fps and really good visuals.
 
-# 2022-09-23
-# 2022-09-22
-# 2022-09-21
-# 2022-09-20
 # 2022-09-19
 
 ![Image](/a64bf1bcb1397d6caf739f997a7c7d19.jpg)
@@ -569,9 +583,6 @@ We were finally able to tame the two wolves. Eventually they were brought back t
 ![](/Home.jpeg)
 *We let them roam around*
 
-# 2022-09-16
-# 2022-09-15
-# 2022-09-14
 # 2022-09-13
 
 I read the Afterword of Anne's diary and I wish I dint. It felt like someone hit me so hard I couldn't get back up or I dint want to. I am going to read more books around WW2.
